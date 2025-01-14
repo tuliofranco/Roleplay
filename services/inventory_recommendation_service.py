@@ -86,6 +86,10 @@ class InventoryRecommendationService:
             f"A resposta deve seguir o formato: "
             f"A média diária de cilindros de {selected_informations[0]} de {selected_informations[1]} metros cúbicos vendidos foi de {media_diaria:.2f}, "
             f"tendo em vista que é necessário {duracao_enchimento:.2f} dias para fazer o enchimento do mesmo, a quantidade de estoque mínima recomendada é {estoque_minimo}. Explicar a sazonalidade:"
+            "- Periodos em que há menor sazonalidade:"
+            "-Valores do estoque sem sazonalidade:"
+            "- Periodos em que há maior sazonalidade:"
+            "-Valores do estoque com sazonalidade:"
         )
 
         # Gerar resposta com a LLM
