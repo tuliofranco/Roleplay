@@ -94,6 +94,8 @@ streamlit run app_streamlit.py
 3. Clique em "Obter recomendação da LLM" para visualizar a recomendação.
 
 ---
+## Video da apresentação do projeto
+[Link para Youtube](https://youtu.be/oBMz_nRY6ww)
+---
 
 **Autor:** Túlio Ferreira Franco Carvalho
-

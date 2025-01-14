@@ -27,7 +27,7 @@ class OpenAIAdapter(LLMAdapter):
         openai.api_key = self.api_key
 
 
-    def generate_response(self, prompt: str, max_tokens: int = 8000) -> str:
+    def generate_response(self, prompt: str, max_tokens: int = 300) -> str:
         """
         Gera uma resposta do modelo ChatGPT com base no prompt fornecido.
 
