@@ -2,12 +2,12 @@ import logging
 from typing import Optional
 import requests
 import maritalk
-
+import os
 # Configurando o sistema de logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class MatracaAdapter:
-    def __init__(self, api_key: Optional[str] = "105855156863753623897_69913f9219ab786e", model_name: str = "sabia-3"):
+    def __init__(self, model_name: str = "sabia-3"):
         """
         Inicializa o adaptador Matraca para integração com o modelo MariTalk.
 
@@ -15,7 +15,7 @@ class MatracaAdapter:
             api_key (Optional[str]): Chave da API para autenticação no MariTalk.
             model_name (str): Nome do modelo a ser utilizado.
         """
-        self.api_key = api_key
+        self.api_key = os.getenv("MATRACA_API_KEY")
         self.model_name = model_name
         self.model = maritalk.MariTalk(key=self.api_key, model=self.model_name)
 

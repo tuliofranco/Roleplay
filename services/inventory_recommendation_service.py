@@ -2,6 +2,7 @@ from data.enchimento import data_enchimento
 from data.pedidos import data_pedidos
 from data.controleCilindros import data_controle_cilindros
 from adapters.matraca_adapter import MatracaAdapter
+from adapters.openai_adapter import OpenAIAdapter
 import pandas as pd
 import logging
 
@@ -9,7 +10,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class InventoryRecommendationService:
-    def __init__(self, llm_adapter=None):
+    def __init__(self, llm_adapter):
         """
         Inicializa o serviço de recomendação de estoque.
 
@@ -17,7 +18,7 @@ class InventoryRecommendationService:
             llm_adapter (callable, optional): Classe ou função para gerar respostas com LLM.
                                               Default é MatracaAdapter.
         """
-        self.llm = llm_adapter() if llm_adapter else MatracaAdapter()
+        self.llm = llm_adapter() if OpenAIAdapter() else MatracaAdapter()
 
     def analysis(self):
         """
@@ -91,8 +92,7 @@ class InventoryRecommendationService:
             "- Periodos em que há maior sazonalidade:"
             "-Valores do estoque com sazonalidade:"
         )
-
-        # Gerar resposta com a LLM
+        
         try:
             recommendation_text = self.llm.generate_response(prompt)
             logging.info("Recomendação gerada com sucesso.")

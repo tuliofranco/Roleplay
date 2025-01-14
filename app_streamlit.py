@@ -1,6 +1,7 @@
 import streamlit as st
 from data.gasType import gas_list
 from data.controleCilindros import data_controle_cilindros
+from adapters.openai_adapter import OpenAIAdapter
 from adapters.matraca_adapter import MatracaAdapter
 from services.inventory_recommendation_service import InventoryRecommendationService
 import logging
@@ -46,20 +47,36 @@ cylinder_size = st.selectbox(
     available_sizes
 )
 
-# Botão para chamar a LLM via API Matraca
-if st.button("Obter recomendação da LLM"):
+# Input para escolher a IA
+selected_ai = st.selectbox(
+    "Escolha a IA para obter recomendações:",
+    ["OpenAI", "MatracaAI"]
+)
+ia = 0
+# Botão para chamada à API
+if st.button("Obter recomendação"):
     try:
+        # Seleciona o adaptador de IA com base na escolha do usuário
+        if selected_ai == "OpenAI":
+            ai_adapter = OpenAIAdapter
+        elif selected_ai == "MatracaAI":
+            ai_adapter = MatracaAdapter
+        else:
+            st.error("IA selecionada inválida.")
+            raise ValueError("IA selecionada inválida.")
+        
         # Gera o prompt com base nas seleções
         selected_informations = [selected_gas_name, cylinder_size]
 
-        service = InventoryRecommendationService(MatracaAdapter)
+        # Serviço de recomendação com o adaptador escolhido
+        service = InventoryRecommendationService(ai_adapter)
         response = service.get_stock_recommendation(selected_informations)
         
-        # Exibe o retorno da LLM
+        # Exibe o retorno da IA
         if response:
             st.success(response)
         else:
-            st.error("Nenhuma resposta foi recebida da LLM.")
+            st.error("Nenhuma resposta foi recebida da IA.")
     except Exception as e:
         logging.error(f"Erro ao obter recomendação: {e}")
         st.error("Ocorreu um erro ao processar sua solicitação. Por favor, tente novamente.")
