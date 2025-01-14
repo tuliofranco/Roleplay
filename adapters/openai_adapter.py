@@ -2,6 +2,7 @@ import logging
 import openai
 from openai import OpenAIError
 import os
+from adapters.llm_adapter import LLMAdapter
 from dotenv import load_dotenv
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -11,7 +12,7 @@ os.environ["PYTORCH_NO_CUDA_MEMORY_CACHING"] = "1"
 
 load_dotenv()
 
-class OpenAIAdapter:
+class OpenAIAdapter(LLMAdapter):
     def __init__(self, model_name: str = "gpt-4"):
         """
         Inicializa o adaptador para integração com a API da OpenAI.
@@ -26,7 +27,7 @@ class OpenAIAdapter:
         openai.api_key = self.api_key
 
 
-    def generate_response(self, prompt: str, max_tokens: int = 500) -> str:
+    def generate_response(self, prompt: str, max_tokens: int = 8000) -> str:
         """
         Gera uma resposta do modelo ChatGPT com base no prompt fornecido.
 
