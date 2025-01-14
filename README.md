@@ -1,71 +1,69 @@
-# Projeto de Recomendação de Estoque de Cilindros
+# Smart-Stock: Recomendador de Estoque de Cilindros
 
-Este projeto utiliza Machine Learning para analisar dados de estoque, pedidos e enchimentos, fornecendo recomendações de estoque mínimas para cilindros de gás. A aplicação inclui uma interface interativa desenvolvida com Streamlit.
+Este projeto utiliza Machine Learning para analisar dados de estoque, pedidos e enchimentos, fornecendo recomendações de estoque mínimas para cilindros de gás. A interface interativa é desenvolvida com Streamlit.
 
 ## Estrutura do Projeto
 
 ```
 ├── adapters/
-│   └── matraca_adapter.py
+│   ├── llm_adapter.py
+│   ├── matraca_adapter.py
+│   └── openai_adapter.py
 ├── data/
+│   ├── controleCilindros.py
 │   ├── enchimento.py
-│   ├── pedidos.py
-│   └── controleCilindros.py
-|   └── gasType.py
+│   ├── gasType.py
+│   └── pedidos.py
 ├── services/
 │   └── inventory_recommendation_service.py
 ├── app_streamlit.py
+├── .env
+├── .gitignore
+├── README.md
 └── requirements.txt
 ```
 
-### 1. **`adapters/matraca_adapter.py`**
+### Descrição dos Módulos
 
-Implementa a classe `MatracaAdapter` para integração com o modelo MariTalk. Esta classe é responsável por gerar respostas baseadas em prompts fornecidos.
+#### 1. **`adapters/`**
+Contém adaptadores para integração com modelos de linguagem e APIs externas:
+- **`llm_adapter.py`**: Adapta a interação com modelos de linguagem para diferentes provedores.
+- **`matraca_adapter.py`**: Integra o modelo MariTalk, gerando respostas baseadas em prompts.
+- **`openai_adapter.py`**: Adaptador para a API da OpenAI.
 
-#### Principais métodos:
-- `__init__(self, api_key, model_name)`: Inicializa a conexão com o modelo MariTalk.
-- `generate_response(self, prompt, max_tokens)`: Gera a resposta baseada no prompt fornecido.
+#### 2. **`data/`**
+Armazena dados e funções relacionadas ao gerenciamento de cilindros:
+- **`controleCilindros.py`**: Informações sobre o estoque atual.
+- **`enchimento.py`**: Dados históricos de enchimento.
+- **`gasType.py`**: Tipos de gás disponíveis.
+- **`pedidos.py`**: Histórico de pedidos.
 
-### 2. **`data/`**
+#### 3. **`services/`**
+Contém serviços de backend para análise e recomendação:
+- **`inventory_recommendation_service.py`**: Analisa dados e fornece recomendações de estoque mínimo com base nos inputs fornecidos.
 
-Contém os dados usados para análise e recomendação:
-- **`enchimento.py`**: Dados históricos de enchimento de cilindros.
-- **`pedidos.py`**: Histórico de pedidos de cilindros.
-- **`controleCilindros.py`**: Informações sobre o estoque atual de cilindros.
-- **`gasType.py`**: Informações sobre o tipos de gas existente.
+#### 4. **`app_streamlit.py`**
+Implementa a interface do usuário utilizando Streamlit. Permite a seleção de tipo de gás e tamanho do cilindro para gerar recomendações de estoque.
 
-### 3. **`services/inventory_recommendation_service.py`**
+#### 5. **`requirements.txt`**
+Lista todas as dependências do projeto.
 
-Fornece o serviço de recomendação de estoque com base nos dados analisados. Utiliza o `MatracaAdapter` para gerar respostas personalizadas.
+### Principais Funcionalidades
 
-#### Principais métodos:
-- `analysis(self)`: Analisa os dados de pedidos, controle de cilindros e enchimentos.
-- `get_stock_recommendation(self, selected_informations)`: Gera a recomendação de estoque mínimo.
-- `format_response(recommendation_text)`: Formata a resposta da LLM para melhor leitura.
-
-### 4. **`app_streamlit.py`**
-
-Interface do usuário construída com Streamlit, permitindo selecionar o tipo de gás e o tamanho do cilindro para gerar recomendações de estoque.
-
-#### Fluxo:
-1. O usuário seleciona o tipo de gás.
-2. Escolhe o tamanho do cilindro.
-3. Clica em "Obter recomendação da LLM" para receber a recomendação.
-
-### 5. **`requirements.txt`**
-
-Lista as dependências necessárias para rodar o projeto.
+- Seleção do tipo de gás e tamanho do cilindro.
+- Recomendacão automatizada de estoque mínimo.
+- Integração com modelos de linguagem para análises detalhadas.
 
 ## Como Executar o Projeto
 
-### 1. Clonar o repositório
+### 1. Clonar o Repositório
 
 ```bash
 git clone <url_do_repositorio>
 cd smart-stock
 ```
 
-### 2. Criar e ativar o ambiente virtual
+### 2. Criar e Ativar o Ambiente Virtual
 
 ```bash
 python3 -m venv venv
@@ -73,13 +71,17 @@ source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate  # Windows
 ```
 
-### 3. Instalar as dependências
+### 3. Instalar as Dependências
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Executar o aplicativo Streamlit
+### 4. Configurar Variáveis de Ambiente
+
+Crie um arquivo `.env` com suas chaves de API e configurações necessárias.
+
+### 5. Executar o Aplicativo Streamlit
 
 ```bash
 streamlit run app_streamlit.py
@@ -89,11 +91,11 @@ streamlit run app_streamlit.py
 
 1. Selecione o tipo de gás (por exemplo, "Oxigênio").
 2. Escolha o tamanho do cilindro (por exemplo, "50L").
-3. Clique em "Obter recomendação da LLM" para visualizar a recomendação de estoque mínimo.
+3. Clique em "Obter recomendação da LLM" para visualizar a recomendação.
 
-## Contribuição
+## Contribuições
 
-Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias para o projeto.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ---
 
