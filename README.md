@@ -93,10 +93,6 @@ streamlit run app_streamlit.py
 2. Escolha o tamanho do cilindro (por exemplo, "50L").
 3. Clique em "Obter recomendação da LLM" para visualizar a recomendação.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
 ---
 
 **Autor:** Túlio Ferreira Franco Carvalho
