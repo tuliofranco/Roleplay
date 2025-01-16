@@ -1,24 +1,21 @@
-# Smart-Stock: Recomendador de Estoque de Cilindros
 
-Este projeto utiliza Machine Learning para analisar dados de estoque, pedidos e enchimentos, fornecendo recomendações de estoque mínimas para cilindros de gás. A interface interativa é desenvolvida com Streamlit.
+# Roleplay: Ferramenta de Feedback para Aprendizado de Inglês
+
+O **Roleplay** é uma aplicação que utiliza modelos de linguagem para oferecer feedback personalizado em frases em inglês. Ele foi projetado para ajudar no aprendizado e prática de situações do dia a dia, oferecendo sugestões e correções de forma interativa. A interface foi desenvolvida com **Streamlit**.
 
 ## Estrutura do Projeto
 
 ```
 ├── adapters/
 │   ├── llm_adapter.py
-│   ├── matraca_adapter.py
+│   ├── maritaca_adapter.py
 │   └── openai_adapter.py
-├── data/
-│   ├── controleCilindros.py
-│   ├── enchimento.py
-│   ├── gasType.py
-│   └── pedidos.py
 ├── services/
-│   └── inventory_recommendation_service.py
-├── app_streamlit.py
+│   └── roleplay_feedback_service.py
+├── venv/
 ├── .env
 ├── .gitignore
+├── app_streamlit.py
 ├── README.md
 └── requirements.txt
 ```
@@ -26,41 +23,38 @@ Este projeto utiliza Machine Learning para analisar dados de estoque, pedidos e 
 ### Descrição dos Módulos
 
 #### 1. **`adapters/`**
-Contém adaptadores para integração com modelos de linguagem e APIs externas:
-- **`llm_adapter.py`**: Adapta a interação com modelos de linguagem para diferentes provedores.
-- **`matraca_adapter.py`**: Integra o modelo MariTalk, gerando respostas baseadas em prompts.
+Contém adaptadores para integração com APIs externas e modelos de linguagem:
+- **`llm_adapter.py`**: Adapta a interação com diferentes provedores de modelos de linguagem.
+- **`maritaca_adapter.py`**: Integra com o modelo Maritaca para feedback de frases.
 - **`openai_adapter.py`**: Adaptador para a API da OpenAI.
 
-#### 2. **`data/`**
-Armazena dados e funções relacionadas ao gerenciamento de cilindros:
-- **`controleCilindros.py`**: Informações sobre o estoque atual.
-- **`enchimento.py`**: Dados históricos de enchimento.
-- **`gasType.py`**: Tipos de gás disponíveis.
-- **`pedidos.py`**: Histórico de pedidos.
+#### 2. **`services/`**
+Contém serviços que fornecem a lógica principal do projeto:
+- **`roleplay_feedback_service.py`**: Processa frases em inglês e retorna feedback detalhado, incluindo correções e sugestões.
 
-#### 3. **`services/`**
-Contém serviços de backend para análise e recomendação:
-- **`inventory_recommendation_service.py`**: Analisa dados e fornece recomendações de estoque mínimo com base nos inputs fornecidos.
+#### 3. **`app_streamlit.py`**
+Interface interativa desenvolvida com **Streamlit**, permitindo que os usuários insiram frases e recebam feedback de maneira intuitiva.
 
-#### 4. **`app_streamlit.py`**
-Implementa a interface do usuário utilizando Streamlit. Permite a seleção de tipo de gás e tamanho do cilindro para gerar recomendações de estoque.
+#### 4. **`requirements.txt`**
+Lista de dependências necessárias para executar o projeto.
 
-#### 5. **`requirements.txt`**
-Lista todas as dependências do projeto.
+---
 
-### Principais Funcionalidades
+## Principais Funcionalidades
 
-- Seleção do tipo de gás e tamanho do cilindro.
-- Recomendacão automatizada de estoque mínimo.
-- Integração com modelos de linguagem para análises detalhadas.
+- **Correção gramatical**: Identificação de erros e sugestões de melhoria.
+- **Sugestões de variações**: Oferece frases alternativas em contextos formais e amigáveis.
+- **Interface interativa**: Usuários podem inserir frases e receber feedback em tempo real.
+
+---
 
 ## Como Executar o Projeto
 
 ### 1. Clonar o Repositório
 
 ```bash
-git clone <url_do_repositorio>
-cd smart-stock
+git clone https://github.com/tuliofranco/Roleplay.git
+cd Roleplay
 ```
 
 ### 2. Criar e Ativar o Ambiente Virtual
@@ -79,7 +73,7 @@ pip install -r requirements.txt
 
 ### 4. Configurar Variáveis de Ambiente
 
-Crie um arquivo `.env` com suas chaves de API e configurações necessárias.
+Crie um arquivo `.env` com as configurações necessárias, como chaves de API.
 
 ### 5. Executar o Aplicativo Streamlit
 
@@ -87,15 +81,17 @@ Crie um arquivo `.env` com suas chaves de API e configurações necessárias.
 streamlit run app_streamlit.py
 ```
 
+---
+
 ## Exemplo de Uso
 
-1. Selecione o tipo de gás (por exemplo, "Oxigênio").
-2. Escolha o tamanho do cilindro (por exemplo, "50L").
-3. Clique em "Obter recomendação da LLM" para visualizar a recomendação.
+1. Insira uma frase em inglês na interface do **Roleplay**.
+2. Receba um feedback objetivo, com:
+   - Correções gramaticais.
+   - Sugestões de variações formais e informais.
+3. Use o feedback para aprimorar sua comunicação em inglês.
 
 ---
-## Video da apresentação do projeto
-[Link para Youtube](https://youtu.be/oBMz_nRY6ww)
----
 
-**Autor:** Túlio Ferreira Franco Carvalho
+**Autor:** Túlio Ferreira Franco Carvalho  
+**Licença:** MIT  
