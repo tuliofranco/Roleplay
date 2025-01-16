@@ -1,82 +1,122 @@
 import streamlit as st
-from data.gasType import gas_list
-from data.controleCilindros import data_controle_cilindros
-from adapters.openai_adapter import OpenAIAdapter
-from adapters.matraca_adapter import MatracaAdapter
-from services.inventory_recommendation_service import InventoryRecommendationService
+from services.roleplay_feedback_service import RoleplayFeedbackService
 import logging
 
 # Configurando o sistema de logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Título do aplicativo
-st.title("Recomendações de Estoque de Cilindros")
+# Navegação simulada
+page = st.sidebar.radio("Navegação", ["Home", "Roleplay ideas"])
 
-# Função para obter tamanhos disponíveis para o tipo de gás selecionado
-def get_available_sizes(gas_type_id):
-    """
-    Retorna os tamanhos disponíveis para o tipo de gás selecionado.
+if page == "Home":
+    # Título do aplicativo
+    st.title("Roleplay Mood - Practice your English")
 
-    Args:
-        gas_type_id (int): ID do tipo de gás.
+    # Sugestões de limites de caracteres para cada entrada
+    situation_limit = 270  # Aproximadamente 62 tokens
+    phrase_pt_limit = 100  # Aproximadamente 25 tokens
+    phrase_en_limit = 100  # Aproximadamente 25 tokens
 
-    Returns:
-        list: Lista de tamanhos disponíveis, ordenada.
-    """
-    sizes = {cylinder['size'] for cylinder in data_controle_cilindros if cylinder['gasTypeId'] == gas_type_id}
-    return sorted(sizes)
+    # Entrada para descrição da situação
+    situation = st.text_area(
+        f"Descreva a situação do roleplay (máximo {situation_limit} caracteres):",
+        help=f"Ex: Estou em um restaurante tentando pedir uma refeição. (Máximo de {situation_limit} caracteres)"
+    )
 
-# Mapeia os nomes e IDs dos gases
-gas_names = {gas['gasName']: gas['id'] for gas in gas_list}
+    # Validação do limite de caracteres para a situação
+    if len(situation) > situation_limit:
+        st.error(f"A descrição da situação ultrapassa o limite de {situation_limit} caracteres. Você usou {len(situation)} caracteres.")
 
-# Input do tipo de gás
-selected_gas_name = st.selectbox(
-    "Escolha o tipo de gás:",
-    list(gas_names.keys())
-)
+    # Entrada para frase traduzida (em inglês)
+    phrase_en = st.text_area(
+        f"Escreva a frase como você a diria em inglês (máximo {phrase_en_limit} caracteres):",
+        help=f"Ex: Could you please bring me a glass of water? (Máximo de {phrase_en_limit} caracteres)"
+    )
 
-# Obtém o ID do gás selecionado
-selected_gas_id = gas_names[selected_gas_name]
+    # Validação do limite de caracteres para a frase em inglês
+    if len(phrase_en) > phrase_en_limit:
+        st.error(f"A frase em inglês ultrapassa o limite de {phrase_en_limit} caracteres. Você usou {len(phrase_en)} caracteres.")
 
-# Obtém os tamanhos disponíveis para o gás selecionado
-available_sizes = get_available_sizes(selected_gas_id)
+    # Entrada para frase em português
+    phrase_pt = st.text_area(
+        f"Escreva o que você deseja dizer em português (máximo {phrase_pt_limit} caracteres):",
+        help=f"Ex: Por favor, poderia me trazer um copo d'água? (Máximo de {phrase_pt_limit} caracteres)"
+    )
 
-# Input do tamanho do cilindro
-cylinder_size = st.selectbox(
-    "Escolha o tamanho do cilindro:",
-    available_sizes
-)
+    # Validação do limite de caracteres para a frase em português
+    if len(phrase_pt) > phrase_pt_limit:
+        st.error(f"A frase em português ultrapassa o limite de {phrase_pt_limit} caracteres. Você usou {len(phrase_pt)} caracteres.")
 
-# Input para escolher a IA
-selected_ai = st.selectbox(
-    "Escolha a IA para obter recomendações:",
-    ["OpenAI", "MatracaAI"]
-)
-ia = 0
-# Botão para chamada à API
-if st.button("Obter recomendação"):
-    try:
-        # Seleciona o adaptador de IA com base na escolha do usuário
-        if selected_ai == "OpenAI":
-            ai_adapter = OpenAIAdapter
-        elif selected_ai == "MatracaAI":
-            ai_adapter = MatracaAdapter
+    # Seleção da IA
+    selected_ai = st.selectbox(
+        "Escolha a IA para obter feedback:",
+        ["OpenAI", "MaritacaAI"]
+    )
+
+    # Botão para enviar a solicitação
+    if st.button("Obter Feedback"):
+        if len(situation) > situation_limit:
+            st.error("Por favor, reduza a descrição da situação para no máximo 250 caracteres antes de prosseguir.")
+        elif len(phrase_pt) > phrase_pt_limit:
+            st.error("Por favor, reduza a frase em português para no máximo 100 caracteres antes de prosseguir.")
+        elif len(phrase_en) > phrase_en_limit:
+            st.error("Por favor, reduza a frase em inglês para no máximo 100 caracteres antes de prosseguir.")
         else:
-            st.error("IA selecionada inválida.")
-            raise ValueError("IA selecionada inválida.")
-        
-        # Gera o prompt com base nas seleções
-        selected_informations = [selected_gas_name, cylinder_size]
+            try:
+                # Inicializa o serviço com o adaptador selecionado
+                service = RoleplayFeedbackService(selected_ai)
 
-        # Serviço de recomendação com o adaptador escolhido
-        service = InventoryRecommendationService(ai_adapter)
-        response = service.get_stock_recommendation(selected_informations)
-        
-        # Exibe o retorno da IA
-        if response:
-            st.success(response)
+                # Obtém o feedback
+                feedback = service.get_feedback(situation, phrase_en, phrase_pt)
+
+                # Exibe o feedback
+                if feedback:
+                    st.success("Feedback recebido:")
+                    st.write(feedback)
+                else:
+                    st.error("Nenhuma resposta foi recebida da IA.")
+            except Exception as e:
+                logging.error(f"Erro ao obter feedback da IA: {e}")
+                st.error("Ocorreu um erro ao processar sua solicitação. Por favor, tente novamente.")
+
+elif page == "Roleplay ideas":
+    st.title("Roleplay ideas generator")
+    # Entrada para descrição da situação
+
+        # Sugestões de limites de caracteres para cada entrada
+    situation_idea = 270  # Aproximadamente 62 tokens
+    phrase_pt_limit = 100  # Aproximadamente 25 tokens
+    phrase_en_limit = 100  # Aproximadamente 25 tokens
+
+    situation = st.text_area(
+        f"Descreva a situação do roleplay (máximo {situation_idea} caracteres):",
+        help=f"Ex: Estou em um restaurante tentando pedir uma refeição. (Máximo de {situation_idea} caracteres)"
+    )
+
+    # Seleção da IA
+    selected_ai = st.selectbox(
+        "Escolha a IA para obter feedback:",
+        ["OpenAI", "MaritacaAI"]
+    )
+
+    # Botão para enviar a solicitação
+    if st.button("Obter Feedback"):
+        if len(situation) > situation_idea:
+            st.error("Por favor, reduza a descrição da situação para no máximo 250 caracteres antes de prosseguir.")
         else:
-            st.error("Nenhuma resposta foi recebida da IA.")
-    except Exception as e:
-        logging.error(f"Erro ao obter recomendação: {e}")
-        st.error("Ocorreu um erro ao processar sua solicitação. Por favor, tente novamente.")
+            try:
+                # Inicializa o serviço com o adaptador selecionado
+                service = RoleplayFeedbackService(selected_ai)
+
+                # Obtém o feedback
+                feedback = service.get_idea(situation)
+
+                # Exibe o feedback
+                if feedback:
+                    st.success("Feedback recebido:")
+                    st.write(feedback)
+                else:
+                    st.error("Nenhuma resposta foi recebida da IA.")
+            except Exception as e:
+                logging.error(f"Erro ao obter feedback da IA: {e}")
+                st.error("Ocorreu um erro ao processar sua solicitação. Por favor, tente novamente.")

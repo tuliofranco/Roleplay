@@ -10,7 +10,7 @@ from adapters.llm_adapter import LLMAdapter
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
-class MatracaAdapter(LLMAdapter):
+class MaritacaAdapter(LLMAdapter):
     """
     Adaptador para o modelo MariTalk, possibilitando a geração de respostas
     a partir de prompts utilizando a biblioteca maritalk.
@@ -23,9 +23,9 @@ class MatracaAdapter(LLMAdapter):
         Args:
             model_name (str): Nome do modelo a ser utilizado.
         """
-        self.api_key = os.getenv("MATRACA_API_KEY")
+        self.api_key = os.getenv("MARITACA_API_KEY")
         if not self.api_key:
-            logging.warning("Variável de ambiente 'MATRACA_API_KEY' não foi definida. "
+            logging.warning("Variável de ambiente 'MARITACA_API_KEY' não foi definida. "
                             "Certifique-se de que a API key esteja configurada.")
         
         self.model_name = model_name
