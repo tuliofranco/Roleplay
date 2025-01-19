@@ -1,0 +1,5001 @@
+,Word,Translation,Part_of_Speech
+1,the,"o, a, os, as",article
+2,to be,"ser, estar",verb
+3,and,e,conjunction
+4,of,de,preposition
+5,a,"um, uma",article
+6,in,"em, dentro",preposition
+7,to have,ter,verb
+8,to,"para, a",preposition
+9,it,"isso, ele, ela",pronoun
+10,I,eu,pronoun
+11,that,"essea, aquelea, aquilo",conjunction
+12,for,"para, por",preposition
+13,you,"tu, você, vós",pronoun
+14,he,ele,pronoun
+15,with,com,preposition
+16,on,"em, em cima",preposition
+17,to do,fazer,verb
+18,to say,"dizer, falar, contar",verb
+19,this,"estea, essea",determiner
+20,they,"eles, elas",pronoun
+21,at,em,preposition
+22,but,mas,conjunction
+23,we,"nós, a gente",pronoun
+24,his,dele,article
+25,from,de,preposition
+26,that,"essea, aquelea, aquilo",determiner
+27,not,não,x
+28,n't,não,x
+29,by,por,preposition
+30,she,ela,pronoun
+31,or,ou,conjunction
+32,as,como,conjunction
+33,what,"que, qual",determiner
+34,to go,ir,verb
+35,their,delesas,article
+36,can,para criança,verb modal
+37,who,quem,pronoun
+38,to get,pegar,verb
+39,if,se,conjunction
+40,would,"-aria, -eria, -iria",verb modal
+41,her,ela,article
+42,all,"tudo, todoa,os, as",determiner
+43,my,"meu, minha",article
+44,to make,"fazer, criar",verb
+45,about,sobre,preposition
+46,to know,"saber, conhecer",verb
+47,will,"-ará, -erá, -irá",verb modal
+48,as,como,preposition
+49,up,para cima,adverb
+50,one,"um, uma",number
+51,time,"tempo, hora",noun
+52,there,alí,e
+53,year,ano,noun
+54,so,tão,adverb
+55,to think,"pensar, achar",verb
+56,when,quando,conjunction
+57,which,qual,determiner
+58,them,"eles, elas",pronoun
+59,some,"alguma, alguns, algumas",determiner
+60,me,mim,pronoun
+61,people,"pessoas, gente",noun
+62,to take,levar,verb
+63,out,"fora, para fora",adverb
+64,into,"dentro, para dentro",preposition
+65,just,"só, apenas",adverb
+66,to see,ver,verb
+67,him,ele,pronoun
+68,your,"seu, sua, seus, suas",article
+69,to come,vir,verb
+70,could,poderia,verb modal
+71,now,agora,adverb
+72,than,do que,conjunction
+73,like,como,preposition
+74,other,outroa,adjective
+75,how,como,adverb
+76,then,então,adverb
+77,its,"dele, dela",article
+78,our,"nossoa, nossosas",article
+79,two,"dois, duas",number
+80,more,mais,adverb
+81,these,"estes, estas, esses, essas",determiner
+82,to want,querer,verb
+83,way,"caminho, maneira",noun
+84,to look,"ver, olhar",verb
+85,first,primeiroa,number
+86,also,também,adverb
+87,new,novoaosas,adjective
+88,because,"porque, pois",conjunction
+89,day,dia,noun
+90,more,mais,determiner
+91,to use,"usar, utilizar",verb
+92,no,nenhuma,article
+93,man,homem,noun
+94,to find,"encontrar, achar",verb
+95,here,aqui,adverb
+96,thing,"coisa, bagulho",noun
+97,to give,"dar, entregar",verb
+98,many,muitos,determiner
+99,well,bem,adverb
+100,only,"somente, apenas",adverb
+101,those,aquelesas,determiner
+102,to tell,"dizer, contar, falar",verb
+103,one,se,pronoun
+104,very,muito,adverb
+105,her,ela,pronoun
+106,even,mesmo,adverb
+107,back,"para trás, de volta",adverb
+108,any,qualquer uma,determiner
+109,good,"bom, boa, bons, boas",adjective
+110,woman,mulher,noun
+111,through,"por, através",preposition
+112,us,nós,pronoun
+113,life,a vida,noun
+114,child,criança,noun
+115,there,"alí, lá",adverb
+116,to work,"trabalhar, funcionar",verb
+117,down,"em baixo, para baixo",adverb
+118,may,talvez,verb modal
+119,after,depois,preposition
+120,should,deveria,verb modal
+121,to call,"chamar, ligar",verb
+122,world,mundo,noun
+123,over,"por cima de, em cima",preposition
+124,school,escola,noun
+125,still,"ainda, todavia",adverb
+126,to try,"tentar, experimentar",verb
+127,in,"em, dentro",adverb
+128,as,"tanto, como",adverb
+129,last,último,number
+130,to ask,"perguntar, pedir",verb
+131,to need,"precisar, necessitar",verb
+132,too,também,adverb
+133,to feel,sentir,verb
+134,three,três,number
+135,when,quando,adverb
+136,state,estado,noun
+137,never,nunca,adverb
+138,to become,se tornar,verb
+139,between,entre,preposition
+140,high,alto,adjective
+141,really,realmente,adverb
+142,something,"algo, alguma coisa",pronoun
+143,most,a maioria de,adverb
+144,another,outro,determiner
+145,much,muitoa,determiner
+146,family,família,noun
+147,own,próprio,determiner
+148,out,"fora de, para fora",preposition
+149,to leave,"sair, partir",verb
+150,to put,"colocar, por",verb
+151,old,velho,adjective
+152,while,enquanto,conjunction
+153,to mean,significar,verb
+154,on,sobre,adverb
+155,to keep,"ficar, manter, guardar",verb
+156,student,estudante,noun
+157,why,por quê,adverb
+158,to let,"permitir, deixar",verb
+159,great,"ótimo, grande",adjective
+160,same,mesmo,determiner
+161,big,grande,adjective
+162,group,grupo,noun
+163,to begin,"começar, iniciar",verb
+164,to seem,parecer,verb
+165,country,país,noun
+166,to help,ajudar,verb
+167,to talk,"falar, conversar",verb
+168,where,onde,conjunction
+169,to turn,"virar, transformar",verb
+170,problem,problema,noun
+171,every,todo,article
+172,to start,"começar, iniciar",verb
+173,hand,mão,noun
+174,might,talvéz,verb modal
+175,American,americano,adjective
+176,to show,"mostrar, exibir",verb
+177,part,"parte, porção",noun
+178,about,sobre,adverb
+179,against,contra,preposition
+180,place,lugar,noun
+181,over,"por cima, em cima",adverb
+182,such,"tal, assim",determiner
+183,again,"de novo, novamente",adverb
+184,few,pouco,determiner
+185,case,caso,noun
+186,most,a maioria de,determiner
+187,week,semana,noun
+188,company,empresa,noun
+189,where,onde,adverb
+190,system,sistema,noun
+191,each,"cada, toda",determiner
+192,right,"bem, logo",adverb
+193,program,programa,noun
+194,to hear,"ouvir, escutar",verb
+195,so,então,conjunction
+196,question,pergunta,noun
+197,during,durante,preposition
+198,work,trabalho,noun
+199,to play,"jogar, brincar, tocar",verb
+200,government,governo,noun
+201,to run,"correr, fugir, se candidatar",verb
+202,small,pequeno,adjective
+203,number,número,noun
+204,off,fora,adverb
+205,always,sempre,adverb
+206,to move,"mover, mexer, mudar",verb
+207,to like,gostar,verb
+208,night,noite,noun
+209,to live,"viver, morar",verb
+210,Mr.,senhor,noun
+211,point,ponto,noun
+212,to believe,"acreditar, achar",verb
+213,to hold,"segurar, manter",verb
+214,today,hoje,adverb
+215,to bring,"trazer, levar",verb
+216,to happen,acontecer,verb
+217,next,próximo,number
+218,without,sem,preposition
+219,before,antes,preposition
+220,large,grande,adjective
+221,all,todo,adverb
+222,million,milhão,number
+223,must,dever,verb modal
+224,home,"casa, lar",noun
+225,under,"debaixo, embaixo",preposition
+226,water,água,noun
+227,room,"quarto, espaço",noun
+228,to write,escrever,verb
+229,mother,mãe,noun
+230,area,área,noun
+231,national,nacional,adjective
+232,money,dinheiro,noun
+233,story,"história, estória",noun
+234,young,jovem,adjective
+235,fact,fato,noun
+236,month,mês,noun
+237,different,diferente,adjective
+238,lot,muito,noun
+239,right,direito,noun
+240,study,estudo,noun
+241,book,livro,noun
+242,eye,olho,noun
+243,job,"trabalho, emprego",noun
+244,word,palavra,noun
+245,though,embora,conjunction
+246,business,"negócio, empresa",noun
+247,issue,assunto,noun
+248,side,lado,noun
+249,kind,tipo,noun
+250,four,quatro,number
+251,head,cabeça,noun
+252,far,longe,adverb
+253,black,"negro, preto",adjective
+254,long,comprido,adjective
+255,both,ambos,determiner
+256,little,pequeno,adjective
+257,house,casa,noun
+258,yes,sim,u
+259,after,depois,conjunction
+260,since,desde,conjunction
+261,long,tempo,adverb
+262,to provide,"fornecer, proporcionar",verb
+263,service,serviço,noun
+264,around,"por volta de, ao redor de",preposition
+265,friend,amigo,noun
+266,important,importante,adjective
+267,father,pai,noun
+268,to sit,sentar,verb
+269,away,longe,adverb
+270,until,até,conjunction
+271,power,"poder, força",noun
+272,hour,hora,noun
+273,game,"jogo, brincadeira",noun
+274,often,frequentemente,adverb
+275,yet,ainda,adverb
+276,line,"linha, fila",noun
+277,political,político,adjective
+278,end,"fim, término",noun
+279,among,"entre, dentre",preposition
+280,ever,"nunca, já",adverb
+281,to stand,ficar em pé,verb
+282,bad,"ruim, mal",adjective
+283,to lose,perder,verb
+284,however,"contudo, porém, entretanto",adverb
+285,member,membro,noun
+286,to pay,pagar,verb
+287,law,lei,noun
+288,to meet,"conhecer, encontrar",verb
+289,car,carro,noun
+290,city,cidade,noun
+291,almost,quase,adverb
+292,to include,incluir,verb
+293,to continue,"continuar, insistir",verb
+294,to set,"pôr, colocar",verb
+295,later,depois,adverb
+296,community,comunidade,noun
+297,much,muito,adverb
+298,name,nome,noun
+299,five,cinco,number
+300,once,uma vez,adverb
+301,white,branco,adjective
+302,least,o menos,adverb
+303,president,presidente,noun
+304,to learn,aprender,verb
+305,real,real,adjective
+306,to change,"trocar, mudar, alterar",verb
+307,team,"time, equipe",noun
+308,minute,minuto,noun
+309,best,o melhor,adjective
+310,several,"vários, alguns",determiner
+311,idea,ideia,noun
+312,kid,"garoto, criança, moleque",noun
+313,body,corpo,noun
+314,information,informação,noun
+315,nothing,nada,pronoun
+316,ago,há…tempo,adverb
+317,right,direito,adjective
+318,to lead,"liderar, guiar",verb
+319,social,social,adjective
+320,to understand,"compreender, entender",verb
+321,whether,se,conjunction
+322,back,costas,noun
+323,to watch,"assistir, olhar",verb
+324,together,junto,adverb
+325,to follow,"seguir, perseguir",verb
+326,around,"por volta de, aproximadamente",adverb
+327,parent,pai,noun
+328,only,único,adjective
+329,to stop,"parar, terminar",verb
+330,face,"face, cara",noun
+331,anything,qualquer coisa,pronoun
+332,to create,criar,verb
+333,public,público,adjective
+334,already,já,adverb
+335,to speak,"falar, dizer",verb
+336,others,outros,noun
+337,to read,ler,verb
+338,level,nível,noun
+339,to allow,permitir,verb
+340,to add,adicionar,verb
+341,office,escritório,noun
+342,to spend,"gastar, passar…tempo",verb
+343,door,porta,noun
+344,health,saúde,noun
+345,person,pessoa,noun
+346,art,arte,noun
+347,sure,certo,adjective
+348,such,tão,preposition
+349,war,guerra,noun
+350,history,história,noun
+351,party,festa,noun
+352,within,dentro,preposition
+353,to grow,crescer,verb
+354,result,resultado,noun
+355,to open,abrir,verb
+356,change,"trocar, mudar, alterar",noun
+357,morning,manhã,noun
+358,to walk,"andar, caminhar",verb
+359,reason,"razão, motivo",noun
+360,low,baixo,adjective
+361,to win,"ganhar, vencer",verb
+362,research,pesquisa,noun
+363,girl,"menina, moça",noun
+364,guy,"menino, moço",noun
+365,early,cedo,adjective
+366,food,"comida, alimento",noun
+367,before,antes,conjunction
+368,moment,momento,noun
+369,himself,"se, ele mesmo",pronoun
+370,air,ar,noun
+371,teacher,professor,noun
+372,force,força,noun
+373,to offer,oferecer,verb
+374,enough,bastante,adverb
+375,both,ambos,adverb
+376,education,educação,noun
+377,across,"através de, do outro lado",preposition
+378,although,embora,conjunction
+379,to remember,lembrar,verb
+380,foot,pé,noun
+381,second,segundo,number
+382,boy,menino,noun
+383,maybe,"talvez, possivelmente",adverb
+384,toward,em direção a,preposition
+385,able,capaz,adjective
+386,age,idade,noun
+387,off,"fora, fora de",preposition
+388,policy,política,noun
+389,everything,tudo,pronoun
+390,to love,amar,verb
+391,process,processo,noun
+392,music,música,noun
+393,including,incluindo,preposition
+394,to consider,considerar,verb
+395,to appear,"aparecer, surgir",verb
+396,actually,na verdade,adverb
+397,to buy,comprar,verb
+398,probably,provavelmente,adverb
+399,human,humano,adjective
+400,to wait,esperar,verb
+401,to serve,servir,verb
+402,market,mercado,noun
+403,to die,morrer,verb
+404,to send,mandar,verb
+405,to expect,esperar,verb
+406,home,casa,adverb
+407,sense,sentido,noun
+408,to build,construir,verb
+409,to stay,ficar,verb
+410,to fall,cair,verb
+411,oh,oh,u
+412,nation,nação,noun
+413,plan,plano,noun
+414,to cut,cortar,verb
+415,college,universidade,noun
+416,interest,interesse,noun
+417,death,morte,noun
+418,course,curso,adverb
+419,someone,alguém,pronoun
+420,experience,experiência ,noun
+421,behind,atrás,preposition
+422,to reach,alcançar,verb
+423,local,local,adjective
+424,to kill,matar,verb
+425,six,seis,number
+426,to remain,"ficar, permanecer",verb
+427,effect,efeito,noun
+428,use,uso,noun
+429,yeah,sim,u
+430,to suggest,sugerir,verb
+431,class,"classe, aula",noun
+432,control,controle,noun
+433,to raise,"levantar, elevar, aumentar",verb
+434,care,cuidado,noun
+435,perhaps,talvez,adverb
+436,little,pouco,adverb
+437,late,"atrasado, tarde",adjective
+438,hard,"duro, difícil",adjective
+439,field,campo,noun
+440,else,outro,adverb
+441,to pass,"passar, aprovar",verb
+442,former,"antigo, anterior",determiner
+443,to sell,vender,verb
+444,major,"maior, principal",adjective
+445,sometimes,algumas vezes,adverb
+446,to require,"requerer, exigir",verb
+447,along,ao longo de,preposition
+448,development,desenvolvimento,noun
+449,themselves,eles mesmos,pronoun
+450,to report,"reportar, relatar",verb
+451,role,papel,noun
+452,better,melhor que,adjective
+453,economic,económico,adjective
+454,effort,esforço,noun
+455,up,para cima,preposition
+456,to decide,decidir,verb
+457,rate,"taxa, proporção",noun
+458,strong,forte,adjective
+459,possible,possível,adjective
+460,heart,coração,noun
+461,drug,droga,noun
+462,show,"show, performance",noun
+463,leader,líder,noun
+464,light,luz,noun
+465,voice,voz,noun
+466,wife,"esposa, mulher",noun
+467,whole,"inteiro, completo",adjective
+468,police,polícia,noun
+469,mind,mente,noun
+470,finally,finalmente,adverb
+471,to pull,puxar,verb
+472,to return,"voltar, devolver",verb
+473,free,"livre, gratis",adjective
+474,military,militar,adjective
+475,price,preço,noun
+476,report,relatório,noun
+477,less,menos,adverb
+478,according,de acordo com,preposition
+479,decision,decisão,noun
+480,to explain,explicar,verb
+481,son,filho,noun
+482,to hope,esperar,verb
+483,even,mesmo,conjunction
+484,to develop,desenvolver,verb
+485,view,vista,noun
+486,relationship,"relação, relacionamento",noun
+487,to carry,carregar,verb
+488,town,"cidade, vila",noun
+489,road,"estrada, rua",noun
+490,to drive,"dirigir, pilotar",verb
+491,arm,braço,noun
+492,true ,"verdade, verdadeiro",adjective
+493,federal,federal,adjective
+494,to break,quebrar,verb
+495,better,melhor que,adverb
+496,difference,diferencia,noun
+497,to thank,agradecer,verb
+498,to receive,receber,verb
+499,value,valor,noun
+500,international,internacional,adjective
+501,building,prédio,noun
+502,action,ação,noun
+503,full,cheio,adjective
+504,model,modelo,noun
+505,to join,"juntar, unir",verb
+506,season,estação,noun
+507,society,sociedade,noun
+508,because,porque,preposition
+509,tax,"taxa, imposto",noun
+510,director,diretor,noun
+511,early,cedo,adverb
+512,position,posição,noun
+513,player,jogador,noun
+514,to agree,concordar,verb
+515,especially,especialmente,adverb
+516,record,"ficha, registro, disco, relatório",noun
+517,to pick,"escolher, colher",verb
+518,to wear,"usar, vestir",verb
+519,paper,papel,noun
+520,special,especial,adjective
+521,space,espaço,noun
+522,ground,chão,noun
+523,form,forma,noun
+524,to support,"apoiar, suportar, sustentar",verb
+525,event,evento,noun
+526,official,oficial,noun
+527,whose,de quem,determiner
+528,matter,"matéria, substância",noun
+529,everyone,todo mundo,pronoun
+530,center,centro,noun
+531,couple,casal,noun
+532,site,"sítio, lugar, local",noun
+533,to end,"terminar, acabar",verb
+534,project,projeto,noun
+535,to hit,"acertar, atingir, bater, colidir ",verb
+536,to base,basear,verb
+537,activity,atividade,noun
+538,star,estrela,noun
+539,table,"mesa, tabela",noun
+540,need,necessidade,noun
+541,court,"quadra, tribunal",noun
+542,to produce,produzir,verb
+543,to eat,comer,verb
+544,American,americano,noun
+545,to teach,ensinar,verb
+546,oil,"óleo, petróleo, azeite",noun
+547,half,metade,determiner
+548,situation,situação,noun
+549,easy,fácil,adjective
+550,cost,custo,noun
+551,industry,indústria,noun
+552,figure,figura,noun
+553,to face,"enfrentar, encarar",verb
+554,street,rua,noun
+555,image,imagem,noun
+556,itself,se mesmo,pronoun
+557,phone,telefone,noun
+558,either,ou…ou,adverb
+559,data,data,noun
+560,to cover,cobrir,verb
+561,quite,bastante,adverb
+562,picture,"foto, retrato, quadro",noun
+563,clear,claro,adjective
+564,practice,prática,noun
+565,piece,pedaço,noun
+566,land,"terra, terreno",noun
+567,recent,recente,adjective
+568,to describe,descrever,verb
+569,product,produto,noun
+570,doctor,médico,noun
+571,wall,"muro, parede",noun
+572,patient,paciente,noun
+573,worker,trabalhador,noun
+574,news,notícia,noun
+575,test,"teste, exame",noun
+576,movie,filme,noun
+577,certain,certo,adjective
+578,north,norte,noun
+579,love,amor,noun
+580,personal,pessoal,adjective
+581,open,aberto,adjective
+582,support,"apoio, suporte",noun
+583,simply,simplesmente,adverb
+584,third,terceiro,number
+585,technology,tecnologia,noun
+586,to catch,"pegar, capturar",verb
+587,step,"passo, degrau, fase, etapa",noun
+588,baby,"neném, bebé",noun
+589,computer,computador,noun
+590,type,tipo,noun
+591,attention,atenção,noun
+592,to draw,"desenhar, atrair",verb
+593,film,filme,noun
+594,Republican,republicano,noun
+595,tree,árvore,noun
+596,source,fonte,noun
+597,red,vermelho,adjective
+598,nearly,"quase, aproximadamente",adverb
+599,organization,organização,noun
+600,to choose,escolher,verb
+601,to cause,causar,verb
+602,hair,cabelo,noun
+603,look,olhar,noun
+604,to point,apontar,verb
+605,century,século,noun
+606,evidence,"prova, evidência",noun
+607,window,janela,noun
+608,difficult,difícil,adjective
+609,to listen,"escutar, ouvir",verb
+610,soon,"em breve, daqui a pouco",adverb
+611,culture,cultura,noun
+612,billion,bilhão,number
+613,chance,"chance, oportunidade, sorte",noun
+614,brother,irmão,noun
+615,energy,energia,noun
+616,period,período,noun
+617,course,curso,noun
+618,summer,verão,noun
+619,less,menos,determiner
+620,to realize,"dar-se conta, realizar",verb
+621,hundred,cem,number
+622,available,disponível,adjective
+623,plant,planta,noun
+624,likely,provável,adjective
+625,opportunity,oportunidade,noun
+626,term,termo,noun
+627,short,"curto, baixo",adjective
+628,letter,"letra, carta",noun
+629,condition,condição,noun
+630,choice,escolha,noun
+631,to place,"colocar, pôr",verb
+632,single,"único, solteiro",adjective
+633,rule,regra,noun
+634,daughter,filha,noun
+635,administration,administração,noun
+636,south,sul,noun
+637,husband,"marido, esposo",noun
+638,Congress,congresso,noun
+639,floor,chão,noun
+640,campaign,campanha,noun
+641,material,material,noun
+642,population,população,noun
+643,well,bem,preposition
+644,call,chamado,noun
+645,economy,economia,noun
+646,medical,médico,adjective
+647,hospital,hospital,noun
+648,church,igreja,noun
+649,to close,"fechar, encerrar",verb
+650,thousand,mil,number
+651,risk,risco,noun
+652,current,"atual, corrente",adjective
+653,fire,"fogo, incêndio",noun
+654,future,futuro,noun
+655,wrong,errado,adjective
+656,to involve,envolver,verb
+657,defense,defesa,noun
+658,anyone,qualquer um,pronoun
+659,to increase,aumentar,verb
+660,security,segurança,noun
+661,bank,banco,noun
+662,myself,eu mesmo,pronoun
+663,certainly,"com certeza, certamente",adverb
+664,west,oeste,noun
+665,sport,esporte,noun
+666,board,"tabuleiro, conselho",noun
+667,to seek,"procurar, buscar",verb
+668,per,por,preposition
+669,subject,sujeito,noun
+670,officer,oficial,noun
+671,private,"particular, privativo",adjective
+672,rest,descanso,noun
+673,behavior,comportamento,noun
+674,to deal,"lidar com, tratar, negociar",verb
+675,performance,performance,noun
+676,to fight,"lutar, brigar",verb
+677,to throw,"jogar, tacar",verb
+678,top,"topo, pico",noun
+679,quickly,rapidamente,adverb
+680,past,passado,adjective
+681,goal,"meta, gol",noun
+682,second,segundo,noun
+683,bed,cama,noun
+684,order,ordem ,noun
+685,author,autor,noun
+686,to fill,"encher, preencher",verb
+687,to represent,representar,verb
+688,to focus,enfocar,verb
+689,foreign,estrangeiro,adjective
+690,to drop,"deixar cair, soltar",verb
+691,to plan,planejar,verb
+692,blood,sangue,noun
+693,upon,em cima,preposition
+694,agency,agência,noun
+695,to push,empurrar,verb
+696,nature,natureza,noun
+697,color,cor,noun
+698,no,nenhum,adverb
+699,recently,recentemente,adverb
+700,store,loja,noun
+701,to reduce,reduzir,verb
+702,sound,som,noun
+703,to note,"perceber, notar, anotar",verb
+704,fine,"fino, bom, excelente",adjective
+705,before,antes de,adverb
+706,near,perto,preposition
+707,movement,movimento,noun
+708,page,página,noun
+709,to enter,entrar,verb
+710,to share,compartilhar,verb
+711,than,do que,preposition
+712,common,comum,adjective
+713,poor,pobre,adjective
+714,other,outro,pronoun
+715,natural,natural,adjective
+716,race,"corrida, raça",noun
+717,concern,preocupação,noun
+718,series,série,noun
+719,significant,significativo,adjective
+720,similar,"similar, parecido",adjective
+721,hot,quente,adjective
+722,language,"língua, idioma",noun
+723,each,cada um,pronoun
+724,usually,normalmente,adverb
+725,response,resposta,noun
+726,dead,morto,adjective
+727,to rise,levantar,verb
+728,animal,animal,noun
+729,factor,fator,noun
+730,decade,década,noun
+731,article,"artigo, cláusula",noun
+732,to shoot,atirar,verb
+733,east,leste ,noun
+734,to save,"salvar, economizar",verb
+735,seven,sete,number
+736,artist,artista,noun
+737,away,longe,preposition
+738,scene,"cena, cenário",noun
+739,stock,ação,noun
+740,career,carreira,noun
+741,despite,a pesar de,preposition
+742,central,central,adjective
+743,eight,oito,number
+744,thus,"assim, deste modo",adverb
+745,treatment,tratamento,noun
+746,beyond,além de,preposition
+747,happy,feliz,adjective
+748,exactly,exatamente,adverb
+749,to protect,proteger,verb
+750,approach,abordagem,noun
+751,to lie,mentir,verb
+752,size,tamanho,noun
+753,dog,cachorro,noun
+754,fund,fundo,noun
+755,serious,sério,adjective
+756,to occur,acontecer,verb
+757,media,mídia,noun
+758,ready,"proto, preparado",adjective
+759,sign,"placa, sinal",noun
+760,thought,pensamento,noun
+761,list,lista,noun
+762,individual,individual,noun
+763,simple,simples,adjective
+764,quality,qualidade,noun
+765,pressure,pressão,noun
+766,to accept,aceitar,verb
+767,answer,resposta,noun
+768,hard,"difícil, forte",adverb
+769,resource,recurso,noun
+770,to identify,identificar,verb
+771,left,esquerdo,adjective
+772,meeting,"encontro, reunião",noun
+773,to determine,determinar,verb
+774,to prepare,preparar,verb
+775,disease,doença,noun
+776,whatever,qualquer coisa,determiner
+777,success,sucesso,noun
+778,to argue,"argumentar, brigar…verbalmente",verb
+779,cup,copo,noun
+780,particularly,particularmente,adverb
+781,amount,"montante, valor",noun
+782,ability,abilidade,noun
+783,staff,pessoal,noun
+784,to recognize,reconhecer,verb
+785,to indicate,"indicar, apontar",verb
+786,character,caráter ,noun
+787,growth,crescimento,noun
+788,loss,perda,noun
+789,degree,grau,noun
+790,to wonder,se perguntar,verb
+791,attack,ataque,noun
+792,herself,ela mesmo,pronoun
+793,region,região,noun
+794,television,televisão,noun
+795,box,caixa,noun
+796,TV,televisão,noun
+797,training,treinamento,noun
+798,pretty,bonito,adverb
+799,trade,"comércio, negócio",noun
+800,deal,"negócio, acordo",noun
+801,election,eleição,noun
+802,everybody,todo mundo,pronoun
+803,physical,físico,adjective
+804,to lay,"deitar, colocar, pôr",verb
+805,general,geral,adjective
+806,feeling,sentimento,noun
+807,standard,padrão,noun
+808,bill,conta,noun
+809,message,mensagem,noun
+810,to fail,"falhar, fracassar",verb
+811,outside,lá fora,preposition
+812,to arrive,chegar,verb
+813,analysis,análise,noun
+814,benefit,benefício,noun
+815,to name,nomear,verb
+816,sex,sexo,noun
+817,forward,para frente,adverb
+818,lawyer,advodago,noun
+819,to present,apresentar,verb
+820,section,"seção, parte, porção",noun
+821,environmental,ambiental,adjective
+822,glass,vidro,noun
+823,to answer,responder,verb
+824,skill,habilidade,noun
+825,sister,irmã,noun
+826,PM,pm,adverb
+827,professor,professor,noun
+828,operation,operação,noun
+829,financial,financeiro,adjective
+830,crime,crime,noun
+831,stage,"estágio, etapa",noun
+832,ok,ok,adverb
+833,to compare,comparar,verb
+834,authority,autoridade,noun
+835,to miss,"perder, sentir falta",verb
+836,design,desenho,noun
+837,sort,tipo,noun
+838,one,"um, uma",noun
+839,to act,agir,verb
+840,ten,dez,number
+841,knowledge,conhecimento,noun
+842,gun,"arma, pistola",noun
+843,station,estação,noun
+844,blue,azul,adjective
+845,to state,"declarar, dizer",verb
+846,strategy,estratégia,noun
+847,little,pequeno,determiner
+848,clearly,claramente,adverb
+849,to discuss,"debater, discutir",verb
+850,indeed,na verdade,adverb
+851,to force,forçar,verb
+852,truth,verdade,noun
+853,song,"canção, uma música",noun
+854,example,exemplo,noun
+855,democratic,democrático,adjective
+856,to check,"verificar, checar",verb
+857,environment,meio ambiente,noun
+858,leg,perna,noun
+859,dark,escuro,adjective
+860,public,público,noun
+861,various,vários,adjective
+862,rather,em vez de,adverb
+863,to laugh,rir,verb
+864,to guess,adivinhar,verb
+865,executive,executivo,noun
+866,set,"conjunto, série",noun
+867,to study,estudar,verb
+868,to prove,"comprovar, provar",verb
+869,to hang,"pendurar, enforcar, suspender",verb
+870,entire,inteiro,adjective
+871,rock,pedra,noun
+872,to design,"desenhar, projetar",verb
+873,enough,bastante,determiner
+874,to forget,esquecer,verb
+875,since,desde,preposition
+876,to claim,"afirmar, alegar",verb
+877,note,nota,noun
+878,to remove,remover,verb
+879,manager,gerente,noun
+880,help,ajudar,noun
+881,close,perto,adjective
+882,to sound,soar,verb
+883,to enjoy,"curtir, gostar, aproveitar",verb
+884,network,rede,noun
+885,legal,legal,adjective
+886,religious,religioso,adjective
+887,cold,frio,adjective
+888,to form,formar,verb
+889,final,final,adjective
+890,main,principal,adjective
+891,science,ciência,noun
+892,green,verde,adjective
+893,memory,memória,noun
+894,card,"carão, ficha",noun
+895,above,"acima de, em cima de",preposition
+896,seat,"assento, cadeira",noun
+897,cell,célula,noun
+898,to establish,estabelecer,verb
+899,nice,"amigável, legal",adjective
+900,trial,"julgamento, processo",noun
+901,expert,"especialista, perito",noun
+902,that,"esse, aquele, que",adverb
+903,spring,"primavera, mola, nascente",noun
+904,firm,firme,noun
+905,Democrat,democrata,noun
+906,radio,rádio,noun
+907,to visit,visitar,verb
+908,management,gerência,noun
+909,to care,"importar-se, cuidar",verb
+910,to avoid,evitar,verb
+911,to imagine,imaginar,verb
+912,tonight,hoje à noite,adverb
+913,huge,enorme,adjective
+914,ball,bola,noun
+915,no,não,u
+916,close,perto,adverb
+917,to finish,"terminar, acabar",verb
+918,yourself,se mesmo,pronoun
+919,talk,"falar, conversar",noun
+920,theory,teoria,noun
+921,impact,impacto,noun
+922,to respond,"responder, reagir",verb
+923,statement,"declaração, afirmação",noun
+924,to maintain,"manter, ficar",verb
+925,charge,carga,noun
+926,popular,popular,adjective
+927,traditional,tradicional,adjective
+928,onto,para cima de,preposition
+929,to reveal,revelar,verb
+930,direction,direção,noun
+931,weapon,"arma, armamento",noun
+932,employee,empregado,noun
+933,cultural,cultural,adjective
+934,to contain,conter,verb
+935,peace,paz,noun
+936,to head,"liderar, dirigir",verb
+937,to control,controlar,verb
+938,base,base,noun
+939,pain,dor,noun
+940,to apply,aplicar,verb
+941,play,peça,noun
+942,measure,medida,noun
+943,wide,"amplo, largo",adjective
+944,to shake,"sacudir, balançar",verb
+945,to fly,voar,verb
+946,interview,entrevista,noun
+947,to manage,gerenciar,verb
+948,chair,cadeira,noun
+949,fish,peixe,noun
+950,particular,particular,adjective
+951,camera,cámera,noun
+952,structure,estrutura,noun
+953,politics,a política,noun
+954,to perform,"atuar, cumprir",verb
+955,bit,um pouco,noun
+956,weight,peso,noun
+957,suddenly,de repente,adverb
+958,to discover,descobrir,verb
+959,candidate,candidato,noun
+960,top,"top, melhor",adjective
+961,production,produção,noun
+962,to treat,tratar,verb
+963,trip,viagem,noun
+964,evening,"tarde, tardinha",noun
+965,to affect,afetar,verb
+966,inside,dentro,preposition
+967,conference,conferência,noun
+968,unit,"unidade, ",noun
+969,best,o melhor,adverb
+970,style,estilo,noun
+971,adult,adulto,noun
+972,to worry,preocupar-se,verb
+973,range,"alcance, extensão, variedade",noun
+974,to mention,mencionar,verb
+975,rather,"em vez de, um tatnto",adverb
+976,far,longe,adjective
+977,deep,profundo,adjective
+978,past,passado,noun
+979,edge,"borda, beira",noun
+980,individual,individual,adjective
+981,specific,específico,adjective
+982,writer,"autor, escritor",noun
+983,trouble,"problema, dificuldade, encrenca",noun
+984,necessary,necessário,adjective
+985,throughout,ao longo de,preposition
+986,challenge,desafio,noun
+987,fear,medo,noun
+988,shoulder,hombro,noun
+989,institution,instituição,noun
+990,middle,meio,adjective
+991,sea,mar,noun
+992,dream,sonho,noun
+993,bar,"bar, barra",noun
+994,beautiful,"lindo, bonito, belo",adjective
+995,property,"propriedade, patrimônio",noun
+996,instead,em vez de,adverb
+997,to improve,melhorar,verb
+998,stuff,"coisas, material",noun
+999,detail,detalhe ,noun
+1000,method,método,noun
+1001,to sign,assinar,verb
+1002,somebody,alguém,pronoun
+1003,magazine,revista,noun
+1004,hotel,hotel,noun
+1005,soldier,soldado,noun
+1006,to reflect,refletir,verb
+1007,heavy,pesado,adjective
+1008,sexual,sexual,adjective
+1009,cause,causa,noun
+1010,bag,"bolsa, saco",noun
+1011,heat,calor,noun
+1012,fall,queda,noun
+1013,marriage,casamento,noun
+1014,tough,"difícil, duro",adjective
+1015,to sing,cantar,verb
+1016,surface,superfície,noun
+1017,purpose,propósito,noun
+1018,to exist,existir,verb
+1019,pattern,padrão,noun
+1020,whom,a quem,pronoun
+1021,skin,pele,noun
+1022,agent,agente,noun
+1023,owner,"proprietário, dono",noun
+1024,machine,máquina,noun
+1025,gas,"gás, gasolina",noun
+1026,down,"abaixo, para baixo",preposition
+1027,ahead,"adiante, à frente ",adverb
+1028,generation,geração,noun
+1029,commercial,comercial,adjective
+1030,to address,"endereçar, discursar",verb
+1031,cancer,cáncer,noun
+1032,to test,"examinar, verifica, provar",verb
+1033,item,item,noun
+1034,reality,realidade,noun
+1035,coach,"treinador, técnico",noun
+1036,to step,"pisar, dar um passo, andar",verb
+1037,Mrs,senhora,noun
+1038,yard,"jardim, quintal",noun
+1039,to beat,"vencer, derrotar",verb
+1040,violence,violência,noun
+1041,total,total,adjective
+1042,to tend,tender,verb
+1043,investment,investimento,noun
+1044,discussion,discussão,noun
+1045,finger,dedo,noun
+1046,garden,jardim,noun
+1047,to notice,"perceber, notar, ver, observar",verb
+1048,collection,coleção,noun
+1049,modern,moderno,adjective
+1050,task,tarefa,noun
+1051,partner,"parceiro, sócio",noun
+1052,positive,positivo,adjective
+1053,civil,civil,adjective
+1054,kitchen,cosinha,noun
+1055,consumer,"consumidor, freguês",noun
+1056,shot,"tiro, chute, dose",noun
+1057,budget,orçamento,noun
+1058,to wish,"desejar, esperar ",verb
+1059,painting,quadro,noun
+1060,scientist,cientista,noun
+1061,safe,seguro,adjective
+1062,agreement,acordo,noun
+1063,capital,capital,noun
+1064,mouth,boca,noun
+1065,nor,nem,conjunction
+1066,victim,vítima,noun
+1067,newspaper,jornal,noun
+1068,instead,em vez de,preposition
+1069,threat,ameaça,noun
+1070,responsibility,responsibilidade,noun
+1071,to smile,sorrir,verb
+1072,attorney,advogado,noun
+1073,score,"ponto, contagem",noun
+1074,account,conta,noun
+1075,interesting,interessante,adjective
+1076,break,"quebra, pausa, ruptura",noun
+1077,audience,audiência,noun
+1078,rich,rico,adjective
+1079,dinner,jantar,noun
+1080,to figure,"descobrir, figurar",verb
+1081,vote,voto,noun
+1082,western,ocidental,adjective
+1083,to relate,relatar,verb
+1084,to travel,viajar,verb
+1085,debate,debate,noun
+1086,to prevent,prevenir,verb
+1087,citizen,cidadão,noun
+1088,majority,a maioria de,noun
+1089,none,nenhum,pronoun
+1090,front,em frente de,preposition
+1091,to be born,nascer,verb
+1092,to admit,admitir,verb
+1093,senior,sénior ,adjective
+1094,to assume,"assumir, presumir",verb
+1095,wind,vento,noun
+1096,key,chave,adjective
+1097,professional,profissional,adjective
+1098,mission,missão,noun
+1099,fast,rápido,adverb
+1100,alone,sozinho,adverb
+1101,customer,"cliente, freguês",noun
+1102,to suffer,sofrir,verb
+1103,speech,"discurso, fala ",noun
+1104,successful,bem sucedido,adjective
+1105,option,opção,noun
+1106,participant,participante,noun
+1107,southern,do sul,adjective
+1108,fresh,fresco,adjective
+1109,eventually,"afinal, eventualmente",adverb
+1110,no,nenhum,pronoun
+1111,forest,floresta,noun
+1112,video,vídeo,noun
+1113,global,globar,adjective
+1114,Senate,senado,noun
+1115,reform,reforma,noun
+1116,access,acesso,noun
+1117,restaurant,restaurante,noun
+1118,judge,juíz,noun
+1119,to publish,publicar,verb
+1120,to cost,custar,verb
+1121,relation,relação,noun
+1122,like,como,conjunction
+1123,to release,"liberar, soltar ",verb
+1124,to own,"possuir, ter",verb
+1125,bird,pássaro,noun
+1126,opinion,opinião,noun
+1127,credit,crédito,noun
+1128,critical,crítico,adjective
+1129,corner,esquina,noun
+1130,concerned,preocupado,adjective
+1131,to recall,"recolher, lembrar",verb
+1132,version,versão,noun
+1133,to stare,compartilhar,verb
+1134,safety,segurança,noun
+1135,effective,efetivo,adjective
+1136,neighborhood,vizinhança,noun
+1137,original,original,adjective
+1138,act,ato,noun
+1139,troop,tropa,noun
+1140,income,"renda, rendimento",noun
+1141,directly,diretamente,adverb
+1142,to hurt,"machucar, prejudicar",verb
+1143,species,espécie,noun
+1144,immediately,imediatemente,adverb
+1145,track,"caminho, trajeto, trajetória",noun
+1146,basic,básico,adjective
+1147,to strike,"atacar, socar",verb
+1148,hope,esperança,noun
+1149,sky,céu,noun
+1150,freedom,liberdade,noun
+1151,absolutely,absolutamente,adverb
+1152,plane,avião,noun
+1153,nobody,ninguém,pronoun
+1154,to achieve,"alcançar, realizar",verb
+1155,object,objeto,noun
+1156,attitude,atitude,noun
+1157,labor,trabalho,noun
+1158,to refer,referir-se,verb
+1159,concept,conceito,noun
+1160,client,cliente,noun
+1161,powerful,poderoso,adjective
+1162,perfect,perfeito,adjective
+1163,nine,nove,number
+1164,therefore,por tanto,adverb
+1165,to conduct,"conduzir, dirigir",verb
+1166,to announce,anunciar,verb
+1167,conversation,conversa,noun
+1168,to examine,examinar,verb
+1169,to touch,tocar,verb
+1170,please,por favor,adverb
+1171,to attend,"atender, assistir",verb
+1172,completely,completamente,adverb
+1173,to vote,votar,verb
+1174,variety,variedade,noun
+1175,to sleep,dormir,verb
+1176,turn,"vez, volta, curva",noun
+1177,involved,involvido,adjective
+1178,investigation,investigação,noun
+1179,nuclear,nuclear,adjective
+1180,researcher,pesquisador,noun
+1181,press,imprensa,noun
+1182,conflict,conflito,noun
+1183,spirit,espírito,noun
+1184,to experience,experimentar,verb
+1185,to replace,"substituir, repor, trocar",verb
+1186,British,"inglês, britânico",adjective
+1187,to encourage,"encorajar, incentivar",verb
+1188,argument,argumento,noun
+1189,by,por,adverb
+1190,once,uma vez,conjunction
+1191,camp,"campo, acampamento",noun
+1192,brain,cérebro,noun
+1193,feature,"característica, aspeto",noun
+1194,afternoon,tarde,noun
+1195,AM,am,adverb
+1196,weekend,fim de semana,noun
+1197,dozen,dúzia,number
+1198,possibility,possibilidade,noun
+1199,along,ao longo de,adverb
+1200,insurance,seguro ,noun
+1201,department,departamento,noun
+1202,battle,"batalha, guerra",noun
+1203,beginning,"início, começo",noun
+1204,date,data,noun
+1205,generally,geralmente,adverb
+1206,African,africano,adjective
+1207,very,muito,adjective
+1208,sorry,desolado,adjective
+1209,crisis,crise,noun
+1210,to complete,completar,verb
+1211,fan,"fã, fanático",noun
+1212,to stick,"colar, cravar, enfiar, adherir",verb
+1213,to define,definir,verb
+1214,easily,facilmente,adverb
+1215,through,a través de,adverb
+1216,hole,buraco,noun
+1217,element,elemento,noun
+1218,vision,visão,noun
+1219,status,estatus,noun
+1220,normal,normal,adjective
+1221,Chinese,chinês,adjective
+1222,ship,"barco, navio",noun
+1223,solution,solução,noun
+1224,stone,pedra,noun
+1225,slowly,"lentamente, devagar",adverb
+1226,scale,escala,noun
+1227,bit,um pouco,adverb
+1228,university,universidade,noun
+1229,to introduce,"apresentar, introduzir",verb
+1230,driver,"piloto, motorista",noun
+1231,attempt,tentativa,noun
+1232,park,parque,noun
+1233,spot,"lugar, local",noun
+1234,lack,falta de,noun
+1235,ice,gelo,noun
+1236,boat,barco,noun
+1237,to drink,beber,verb
+1238,sun,sol,noun
+1239,front,"liderando, frente",adjective
+1240,distance,distância,noun
+1241,wood,madeira,noun
+1242,to handle,"lidar, manipular",verb
+1243,truck,caminhão,noun
+1244,return,volta,noun
+1245,mountain,montanha,noun
+1246,survey,"pesquisa, avaliação",noun
+1247,supposed,suposto,adjective
+1248,tradition,tradição,noun
+1249,winter,inverno,noun
+1250,village,"vila, vilarejo",noun
+1251,Soviet,russo,adjective
+1252,to refuse,recusar,verb
+1253,sales,vendas,noun
+1254,to roll,rolar,verb
+1255,communication,comunicação,noun
+1256,run,corrida,noun
+1257,screen,tela,noun
+1258,to gain,"ganhar, aumentar",verb
+1259,resident,residente,noun
+1260,to hide,esconder,verb
+1261,gold,oro,noun
+1262,club,clube,noun
+1263,future,futuro,adjective
+1264,farm,fazenda,noun
+1265,potential,potencial,adjective
+1266,increase,aumento,noun
+1267,middle,meio,noun
+1268,European,eurpeu,adjective
+1269,presence,presença,noun
+1270,independent,independente,adjective
+1271,district,distrito,noun
+1272,shape,"forma, configuração",noun
+1273,reader,leitor,noun
+1274,Ms,senhorita,noun
+1275,contract,contrato,noun
+1276,crowd,multidão,noun
+1277,Christian,cristão,adjective
+1278,to express,expressar,verb
+1279,apartment,apartamento,noun
+1280,willing,"disposto, com vontade",adjective
+1281,strength,força,noun
+1282,previous,"prévio, anterior",adjective
+1283,band,banda,noun
+1284,obviously,obviamente,adverb
+1285,horse,cavalo,noun
+1286,interested,interessado,adjective
+1287,target,alvo,noun
+1288,prison,prisão,noun
+1289,to ride,"montar, andar…de bike",verb
+1290,guard,guarda,noun
+1291,terms,termos,preposition
+1292,demand,"exigência, demanda",noun
+1293,reporter,"repórter, jornalista",noun
+1294,to deliver,entregar,verb
+1295,text,texto,noun
+1296,share,compartilhar,noun
+1297,tool,ferramenta,noun
+1298,wild,selvagem,adjective
+1299,vehicle,veículo,noun
+1300,to observe,observar,verb
+1301,flight,voo,noun
+1302,inside,dentro de,adverb
+1303,facility,"facilidade, instalação",noun
+1304,understanding,compreensão,noun
+1305,average,a média,adjective
+1306,to emerge,"surgir, emergir ",verb
+1307,advantage,vantagem,noun
+1308,quick,rápido,adjective
+1309,light,leve,adjective
+1310,leadership,liderança,noun
+1311,to earn,ganhar,verb
+1312,pound,libra…peso,noun
+1313,basis,base,noun
+1314,bright,brilhoso,adjective
+1315,to operate,operar,verb
+1316,guest,convidado,noun
+1317,sample,amostra,noun
+1318,to contribute,contribuir,verb
+1319,tiny,pequeno,adjective
+1320,block,"bloco, quadra",noun
+1321,protection,proteção,noun
+1322,to settle,"resolver, decidir",verb
+1323,to feed,alimentar,verb
+1324,to collect,"colecionar, juntar",verb
+1325,additional,adicional,adjective
+1326,while,enquanto,noun
+1327,highly,altamente,adverb
+1328,identity,identidade,noun
+1329,title,título,noun
+1330,mostly,a maioria de,adverb
+1331,lesson,lição,noun
+1332,faith,fé,noun
+1333,river,rio,noun
+1334,to promote,promover,verb
+1335,living,modo de vida,noun
+1336,present,presente,adjective
+1337,to count,contar,verb
+1338,unless,a menos que,conjunction
+1339,to marry,casar-se com,verb
+1340,tomorrow,amanhã,adverb
+1341,technique,técnica,noun
+1342,path,caminho,noun
+1343,ear,"orelha, ouvido",noun
+1344,shop,loja,noun
+1345,folk,"povo, pessoas",noun
+1346,to order,pedir,verb
+1347,principle,princípio,noun
+1348,to survive,sobreviver,verb
+1349,to lift,levantar,verb
+1350,border,"borda, fronteira",noun
+1351,competition,competição,noun
+1352,to jump,"pular, saltar",verb
+1353,to gather,juntar,verb
+1354,to limit,"limitar, restringir",verb
+1355,to fit,caber,verb
+1356,claim,afirmação,noun
+1357,to cry,chorar,verb
+1358,equipment,equipamento,noun
+1359,worth,valor,preposition
+1360,to associate,associar-se,verb
+1361,critic,crítico,noun
+1362,warm,"morno, caloroso",adjective
+1363,aspect,aspeto,noun
+1364,to result,resultar,verb
+1365,to insist,insistir,verb
+1366,failure,"falha, fracasso",noun
+1367,annual,anual,adjective
+1368,French,francês,adjective
+1369,Christmas,natal,noun
+1370,comment,comentário,noun
+1371,responsible,responsável,adjective
+1372,affair,caso,noun
+1373,to approach,aproximar-se,verb
+1374,until,até,preposition
+1375,procedure,procedimento,noun
+1376,regular,regular,adjective
+1377,to spread,"espalhar, divulgar",verb
+1378,chairman,presidente,noun
+1379,baseball,beisbol,noun
+1380,soft,"mole, suave, macio",adjective
+1381,to ignore,ignorar,verb
+1382,egg,ovo,noun
+1383,to measure,medir,verb
+1384,belief,crença,noun
+1385,to demonstrate,demostrar,verb
+1386,anybody,qualquer um,pronoun
+1387,murder,assassinato,noun
+1388,gift,presente,noun
+1389,religion,religião,noun
+1390,review,"revisão, analise",noun
+1391,editor,editor,noun
+1392,past,"passado, anterior",preposition
+1393,to engage,engajar,verb
+1394,coffee,café,noun
+1395,document,documento,noun
+1396,speed,velocidade,noun
+1397,to cross,"cruzar, atravessar",verb
+1398,influence,influência,noun
+1399,anyway,de qualquer maneira,adverb
+1400,to threaten,ameaçar,verb
+1401,to commit,"cometer, comprometer-se",verb
+1402,female,fêmea,adjective
+1403,youth,jóvem,noun
+1404,wave,onda,noun
+1405,move,mudança,noun
+1406,afraid,"com medo, temoso",adjective
+1407,quarter,quarto,noun
+1408,background,"histórico, fundo",noun
+1409,native,nativo,adjective
+1410,broad,largo,adjective
+1411,wonderful,maravilhoso,adjective
+1412,to deny,"negar, recuasr",verb
+1413,apparently,aparentemente,adverb
+1414,slightly,pouco,adverb
+1415,reaction,reação,noun
+1416,twice,duas vezes,adverb
+1417,suit,"terno, caso, processo",noun
+1418,perspective,perspectiva,noun
+1419,growing,crescente,adjective
+1420,to blow,assoprar,verb
+1421,construction,construção,noun
+1422,kind,"amigável, amável",adverb
+1423,intelligence,inteligência,noun
+1424,to destroy,destruir,verb
+1425,to cook,cosinhar,verb
+1426,connection,conecção,noun
+1427,to charge,carregar,verb
+1428,to burn,queimar,verb
+1429,shoe,sapato,noun
+1430,to view,"ver, observar",verb
+1431,grade,"grau, classe",noun
+1432,context,contexto,noun
+1433,committee,"comissão, comitê",noun
+1434,hey,oi,u
+1435,mistake,"erro, equívoco",noun
+1436,focus,foco,noun
+1437,smile,sorriso,noun
+1438,location,"locação, local",noun
+1439,clothes,roupa,noun
+1440,Indian,indiano,adjective
+1441,quiet,silencioso,adjective
+1442,to dress,vestir-se,verb
+1443,to promise,prometer,verb
+1444,aware,consciente,adjective
+1445,neighbor,vizinho,noun
+1446,complete,completo,adjective
+1447,drive,"caminho, percurso",noun
+1448,function,função,noun
+1449,bone,osso,noun
+1450,active,ativo,adjective
+1451,to extend,extender,verb
+1452,chief,principal,adjective
+1453,average,a média,noun
+1454,to combine,"combinar, juntar",verb
+1455,wine,vinho,noun
+1456,below,"menos, embaixo, abaixo",adverb
+1457,cool,"fresco, frio",adjective
+1458,voter,"eleitor, votante",noun
+1459,mean,a média,noun
+1460,to demand,"demandar, exigir",verb
+1461,learning,"aprendizagem, conhecimento",noun
+1462,bus,ônibus,noun
+1463,hell,inferno,noun
+1464,dangerous,perigoso,adjective
+1465,to remind,lembrar,verb
+1466,moral,moral,adjective
+1467,United,unido,adjective
+1468,category,categoria,noun
+1469,relatively,relativamente,adverb
+1470,victory,vitória,noun
+1471,key,chave,noun
+1472,academic,académico,adjective
+1473,visit,visita,noun
+1474,Internet,internet,noun
+1475,healthy,saudável,adjective
+1476,to fire,"demitir, mandar embora",verb
+1477,negative,nagativo,adjective
+1478,following,seguinte,adjective
+1479,historical,histórico,adjective
+1480,medicine,medicina,noun
+1481,tour,"tour, passeio",noun
+1482,to depend,depender,verb
+1483,photo,foto,noun
+1484,finding,"resultado, descoberta",noun
+1485,to grab,"apanhar, pegar, agarrar",verb
+1486,direct,direto,adjective
+1487,classroom,sala de aula,noun
+1488,contact,contato,noun
+1489,justice,justiça,noun
+1490,to participate,participar,verb
+1491,daily,diariamente,adjective
+1492,fair,justo,adjective
+1493,pair,par,noun
+1494,famous,famoso,adjective
+1495,exercise,exercício,noun
+1496,knee,joelho,noun
+1497,flower,flor,noun
+1498,tape,"fita adhesiva, gravação",noun
+1499,to hire,contratar,verb
+1500,familiar,familiar ,adjective
+1501,appropriate,apropriado,adjective
+1502,supply,"fornecimento, suprimento",noun
+1503,fully,"completamente, totalmente",adverb
+1504,cut,"corte, ferida",noun
+1505,will,vontade,noun
+1506,actor,ator,noun
+1507,birth,nascimento,noun
+1508,search,busca,noun
+1509,to tie,"amarrar, atar",verb
+1510,democracy,democracia,noun
+1511,eastern,oriental,adjective
+1512,primary,"primário, principal",adjective
+1513,yesterday,ontem,adverb
+1514,circle,círculo,noun
+1515,device,dispositivo,noun
+1516,progress,progresso,noun
+1517,next,próximo,preposition
+1518,front,frente,noun
+1519,bottom,fundo,noun
+1520,island,ilha,noun
+1521,exchange,troca,noun
+1522,clean,limpo,adjective
+1523,studio,estúdio,noun
+1524,to train,"treinar, praticar",verb
+1525,lady,mulher,noun
+1526,colleague,colega,noun
+1527,application,aplicação,noun
+1528,neck,pescoço,noun
+1529,to lean,aprender,verb
+1530,damage,"dano, prejuízo",noun
+1531,plastic,plástico,noun
+1532,tall,alto,adjective
+1533,plate,prato,noun
+1534,to hate,odiar,verb
+1535,otherwise,de outro modo,adverb
+1536,writing,escritura,noun
+1537,to press,"apertar, prensar",verb
+1538,male,"macho, masculino",adjective
+1539,start,"início, começo",noun
+1540,alive,vivo,adjective
+1541,expression,expressão,noun
+1542,football,futebol,noun
+1543,to intend,pretender,verb
+1544,to attack,atacar,verb
+1545,chicken,"galinha, frango",noun
+1546,army,exército,noun
+1547,abuse,abuso,noun
+1548,theater,teatro,noun
+1549,to shut,fechar,verb
+1550,map,mapa,noun
+1551,extra,extra,adjective
+1552,session,sessão,noun
+1553,danger,perigo,noun
+1554,to welcome,"acolher, receber",verb
+1555,domestic,doméstico,adjective
+1556,lots,muitos,pronoun
+1557,literature,literatura,noun
+1558,rain,chuva,noun
+1559,desire,desejo,noun
+1560,assessment,avaliação,noun
+1561,injury,"lesão, prejuízo, injuria",noun
+1562,respect,respeito,noun
+1563,northern,do norte,adjective
+1564,to nod,abanar,verb
+1565,to paint,pintar,verb
+1566,fuel,combustível,noun
+1567,leaf,folha,noun
+1568,to direct,"direcionar, dirigir",verb
+1569,dry,seco,adjective
+1570,Russian,russo,adjective
+1571,instruction,instrução,noun
+1572,fight,"briga, luta",noun
+1573,pool,piscina,noun
+1574,to climb,"escalar, subir ",verb
+1575,sweet,doce,adjective
+1576,lead,liderança,noun
+1577,engine,motor,noun
+1578,fourth,quarto,number
+1579,salt,sal,noun
+1580,to expand,"expandir, aumentar",verb
+1581,importance,importância,noun
+1582,metal,metal,noun
+1583,fat,gordo,noun
+1584,ticket,bilhete,noun
+1585,software,software,noun
+1586,to disappear,desaparecer,verb
+1587,corporate,corporativo,adjective
+1588,strange,estranho,adjective
+1589,lip,lábio,noun
+1590,reading,leitura,noun
+1591,urban,urbano,adjective
+1592,mental,mental,adjective
+1593,increasingly,cada vez mais,adverb
+1594,lunch,almoço,noun
+1595,educational,educacional,adjective
+1596,somewhere,algum lugar,adverb
+1597,farmer,"fazendeiro, agricultor",noun
+1598,above,acima de,adverb
+1599,sugar,açúcar,noun
+1600,planet,planeta,noun
+1601,favorite,favorito,adjective
+1602,to explore,explorar,verb
+1603,to obtain,obter,verb
+1604,enemy,inimigo,noun
+1605,greatest,o melhor,adjective
+1606,complex,complexo,adjective
+1607,to surround,cercar,verb
+1608,athlete,atleta,noun
+1609,to invite,convidar,verb
+1610,to repeat,repetir,verb
+1611,carefully,"cuidadosamente, com cuidado",adverb
+1612,soul,alma,noun
+1613,scientific,científico,adjective
+1614,impossible,impossível,adjective
+1615,panel,painel,noun
+1616,meaning,significado,noun
+1617,mom,mãe,noun
+1618,married,casado,adjective
+1619,alone,sozinho,adjective
+1620,instrument,instrumento,noun
+1621,to predict,prever,verb
+1622,weather,"clima, tempo",noun
+1623,presidential,presidencial,adjective
+1624,emotional,emocional,adjective
+1625,commitment,"comprometimento, compromisso",noun
+1626,Supreme,supremo,adjective
+1627,to bear,aguentar,verb
+1628,pocket,bolso,noun
+1629,thin,afinar,adjective
+1630,temperature,temperatura,noun
+1631,surprise,surpresa,noun
+1632,poll,enquete,noun
+1633,proposal,proposta,noun
+1634,consequence,consequência,noun
+1635,half,metade,noun
+1636,breath,respiração,noun
+1637,sight,visão,noun
+1638,cover,tampa,noun
+1639,balance,saldo,noun
+1640,to adopt,adotar,verb
+1641,minority,minoria,noun
+1642,straight,"direto, reto",adverb
+1643,to attempt,tentar,verb
+1644,to connect,conectar,verb
+1645,works,"trabalhos, projetos",noun
+1646,teaching,ensino,noun
+1647,to belong,pertencer,verb
+1648,aid,ajuda,noun
+1649,advice,conselho,noun
+1650,okay,ok,adverb
+1651,photograph,fotografia,noun
+1652,empty,vazio,adjective
+1653,regional,regional,adjective
+1654,trail,trilha,noun
+1655,novel,novela,noun
+1656,code,código,noun
+1657,somehow,de alguma forma,adverb
+1658,to organize,organizar,verb
+1659,jury,júri,noun
+1660,breast,"seio, peito",noun
+1661,Iraqi,iraquiano,adjective
+1662,human,humano,noun
+1663,to acknowledge,reconhecer,verb
+1664,theme,tema,noun
+1665,storm,tempestade,noun
+1666,union,união,noun
+1667,to record,gravar,verb
+1668,desk,escrivaninha,noun
+1669,to fear,temer,verb
+1670,thanks,"obrigado, graças",noun
+1671,fruit,fruta,noun
+1672,under,sob,adverb
+1673,expensive,caro,adjective
+1674,yellow,amarelo,adjective
+1675,conclusion,conclusão,noun
+1676,prime,"o melhor, de primeira",adjective
+1677,shadow,sombra,noun
+1678,to struggle,lutar,verb
+1679,to conclude,concluir,verb
+1680,analyst,analista,noun
+1681,dance,dança,noun
+1682,limit,limite,noun
+1683,like,como,adjective
+1684,regulation,regulamento,noun
+1685,being,ser,noun
+1686,to last,durar,verb
+1687,ring,anel,noun
+1688,largely,"principalmente, amplamente",adverb
+1689,to shift,"mudar, trocar",verb
+1690,revenue,receita,noun
+1691,to mark,marcar,verb
+1692,to locate,localizar,verb
+1693,county,município,noun
+1694,appearance,aparência,noun
+1695,package,pacote,noun
+1696,difficulty,dificuldade,noun
+1697,bridge,ponte,noun
+1698,to recommend,recomendar,verb
+1699,obvious,óbvio,adjective
+1700,train,"trem, comboio",noun
+1701,basically,basicamente,adverb
+1702,e-mail,email,noun
+1703,to generate,gerar,verb
+1704,anymore,não...mais,adverb
+1705,to propose,propor,verb
+1706,thinking,pensamento,noun
+1707,possibly,possivelmente,adverb
+1708,trend,tendência,noun
+1709,visitor,visitante,noun
+1710,loan,empréstimo,noun
+1711,currently,atualmente,adverb
+1712,comfortable,confortável,adjective
+1713,investor,investidor,noun
+1714,but,mas,preposition
+1715,profit,lucro,noun
+1716,angry,nervoso,adjective
+1717,crew,"equipe, time",noun
+1718,deep,profundo,adverb
+1719,accident,acidente,noun
+1720,male,macho,noun
+1721,meal,refeição,noun
+1722,hearing,audição,noun
+1723,traffic,"tráfego, tránsito",noun
+1724,muscle,músculo,noun
+1725,notion,noção,noun
+1726,to capture,capturar,verb
+1727,to prefer,preferir,verb
+1728,truly,verdadeiramente,adverb
+1729,earth,terra,noun
+1730,Japanese,japonês,adjective
+1731,chest,peito,noun
+1732,to search,procurar,verb
+1733,thick,grosso,adjective
+1734,cash,dinheiro,noun
+1735,museum,museu,noun
+1736,beauty,beleza,noun
+1737,emergency,emergência,noun
+1738,unique,"exclusivo, único",adjective
+1739,to feature,apresentar,verb
+1740,internal,interno,adjective
+1741,ethnic,étnico,adjective
+1742,to link,"vincular, lincar, unir",verb
+1743,stress,estresse,noun
+1744,content,contente,noun
+1745,to select,selecionar,verb
+1746,root,raiz,noun
+1747,nose,nariz,noun
+1748,to declare,declarar,verb
+1749,outside,do lado de fora de,adverb
+1750,to appreciate,apreciar,verb
+1751,actual,real,adjective
+1752,bottle,garrafa,noun
+1753,hardly,dificilmente,adverb
+1754,setting,contexto,noun
+1755,to launch,lançar,verb
+1756,dress,vestido,noun
+1757,file,arquivo,noun
+1758,sick,doente,adjective
+1759,outcome,resultado,noun
+1760,ad,anúncio,noun
+1761,to defend,defender,verb
+1762,to matter,importar,verb
+1763,to judge,julgar,verb
+1764,duty,dever,noun
+1765,sheet,folha,noun
+1766,ought,dever,verb
+1767,to ensure,garantir,verb
+1768,Catholic,católico,adjective
+1769,extremely,extremamente,adverb
+1770,extent,extensão,noun
+1771,component,componente,noun
+1772,to mix,misturar,verb
+1773,long-term,de longo prazo,adjective
+1774,slow,devagar,adjective
+1775,contrast,contraste,noun
+1776,zone,zona,noun
+1777,to wake,acordar,verb
+1778,to challenge,desafiar,verb
+1779,airport,aeroporto,noun
+1780,chief,chefe,noun
+1781,brown,castanho,adjective
+1782,standard,padrão,adjective
+1783,shirt,camisa,noun
+1784,pilot,piloto,noun
+1785,to warn,avisar,verb
+1786,ultimately,em última análise,adverb
+1787,cat,gato,noun
+1788,contribution,contribuição,noun
+1789,capacity,capacidade,noun
+1790,ourselves,nós mesmos,pronoun
+1791,estate,estado,noun
+1792,guide,guia,noun
+1793,circumstance,circunstância,noun
+1794,snow,neve,noun
+1795,English,inglês,adjective
+1796,politician,político,noun
+1797,to steal,roubar,verb
+1798,to pursue,perseguir,verb
+1799,to slip,escorregar,verb
+1800,percentage,percentagem,noun
+1801,meat,carne,noun
+1802,funny,engraçado,adjective
+1803,neither,nem,adverb
+1804,soil,solo,noun
+1805,to influence,influenciar,verb
+1806,surgery,cirurgia,noun
+1807,correct,correto,adjective
+1808,Jewish,judaico,adjective
+1809,to blame,culpar,verb
+1810,to estimate,estimar,verb
+1811,due,vencimento,preposition
+1812,basketball,basquetebol,noun
+1813,late,atrasado,adverb
+1814,golf,golfe,noun
+1815,to investigate,investigar,verb
+1816,crazy,louco,adjective
+1817,significantly,significativamente,adverb
+1818,chain,"cadeia, corrente",noun
+1819,address,"endereço, morada",noun
+1820,branch,"ramo, agência",noun
+1821,combination,combinação,noun
+1822,just,"somente, apenas",adjective
+1823,frequently,freqüentemente,adverb
+1824,governor,governador,noun
+1825,relief,alívio,noun
+1826,user,do utilizador,noun
+1827,dad,papai,noun
+1828,to kick,chutar,verb
+1829,part,papel,adverb
+1830,manner,"maneira, jeito",noun
+1831,ancient,"antigo, ancestral",adjective
+1832,silence,silêncio,noun
+1833,rating,avaliação,noun
+1834,golden,dourado,adjective
+1835,motion,movimento,noun
+1836,German,alemão,adjective
+1837,gender,gênero sexual,noun
+1838,to solve,resolver,verb
+1839,fee,taxa,noun
+1840,landscape,paisagem,noun
+1841,used,usado,adjective
+1842,bowl,tigela,noun
+1843,equal,igual,adjective
+1844,long,grandes,conjunction
+1845,official,oficial,adjective
+1846,forth,para frente,adverb
+1847,frame,"quadro, armação",noun
+1848,typical,típica,adjective
+1849,except,exceto,preposition
+1850,conservative,conservador,adjective
+1851,to eliminate,eliminar,verb
+1852,host,hospedeiro,noun
+1853,hall,salão,noun
+1854,to trust,confiar,verb
+1855,ocean,oceano,noun
+1856,to score,pontuar,verb
+1857,row,fila,noun
+1858,producer,produtor,noun
+1859,to afford,pagar,verb
+1860,meanwhile,enquanto,adverb
+1861,regime,regime,noun
+1862,division,divisão,noun
+1863,to confirm,confirmar,verb
+1864,to fix,consertar,verb
+1865,appeal,apelo,noun
+1866,mirror,espelho,noun
+1867,tooth,dente,noun
+1868,smart,"inteligente, esperto",adjective
+1869,length,comprimento,noun
+1870,entirely,inteiramente,adverb
+1871,to rely,confiar,verb
+1872,topic,"tema, tópico",noun
+1873,to complain,reclamar,verb
+1874,to issue,emitir,verb
+1875,variable,variável,noun
+1876,to back,apoiar,verb
+1877,to range,variar,verb
+1878,telephone,telefone,noun
+1879,perception,percepção,noun
+1880,to attract,atrair,verb
+1881,confidence,confiança,noun
+1882,bedroom,quarto de dormir,noun
+1883,secret,segredo,noun
+1884,debt,dívida,noun
+1885,rare,cru,adjective
+1886,his,"seu, dele",pronoun
+1887,tank,tanque,noun
+1888,nurse,enfermeira,noun
+1889,coverage,cobertura,noun
+1890,opposition,oposição,noun
+1891,aside,"a parte, de lado",adverb
+1892,anywhere,qualquer lugar,adverb
+1893,bond,vinculo,noun
+1894,to file,arquivar,verb
+1895,pleasure,prazer,noun
+1896,master,mestre,noun
+1897,era,era,noun
+1898,requirement,requerimento,noun
+1899,check,verifica,noun
+1900,stand,ficar de pé,noun
+1901,fun,diversão,noun
+1902,expectation,expectativa,noun
+1903,wing,asa,noun
+1904,separate,separado,adjective
+1905,now,agora,conjunction
+1906,to clear,limpar,verb
+1907,struggle,luta,noun
+1908,mean,malvado,adjective
+1909,somewhat,"de alguma forma, um pouco",adverb
+1910,to pour,derramar,verb
+1911,to stir,mexer,verb
+1912,judgment,julgamento,noun
+1913,to clean,limpar,verb
+1914,except,exceto,conjunction
+1915,beer,cerveja,noun
+1916,English,inglês,noun
+1917,reference,referência,noun
+1918,tear,rasgar,noun
+1919,doubt,dúvida,noun
+1920,to grant,conceder,verb
+1921,seriously,"seriamente, a sério",adverb
+1922,to account,"prestar contas, explicar",verb
+1923,minister,ministro,noun
+1924,totally,totalmente,adverb
+1925,hero,herói,noun
+1926,industrial,industrial,adjective
+1927,cloud,nuvem,noun
+1928,to stretch,esticar,verb
+1929,winner,vencedora,noun
+1930,volume,volume,noun
+1931,travel,viajar,noun
+1932,seed,semente,noun
+1933,surprised,surpreso,adjective
+1934,to rest,descansar,verb
+1935,fashion,moda,noun
+1936,pepper,pimenta,noun
+1937,to separate,separar,verb
+1938,busy,ocupado,adjective
+1939,intervention,intervenção,noun
+1940,copy,cópia,noun
+1941,tip,gorjeta,noun
+1942,below,abaixo,preposition
+1943,cheap,barato,adjective
+1944,to aim,mirar,verb
+1945,to cite,citar,verb
+1946,welfare,bem-estar,noun
+1947,vegetable,vegetal,noun
+1948,gray,cinza,adjective
+1949,dish,prato,noun
+1950,beach,praia,noun
+1951,improvement,melhoria,noun
+1952,everywhere,em todos os lugares,adverb
+1953,opening,abertura,noun
+1954,overall,no geral,adjective
+1955,to divide,dividir,verb
+1956,initial,inicial,adjective
+1957,terrible,terrível,adjective
+1958,to oppose,se opor,verb
+1959,contemporary,contemporâneo,adjective
+1960,route,rota,noun
+1961,multiple,múltiplo,adjective
+1962,essential,essencial,adjective
+1963,to question,questionar,verb
+1964,league,liga,noun
+1965,criminal,criminoso,adjective
+1966,careful,cuidadoso,adjective
+1967,core,núcleo,noun
+1968,upper,"superior, de cima",adjective
+1969,to rush,apressar,verb
+1970,necessarily,necessariamente,adverb
+1971,specifically,especificamente,adverb
+1972,tired,cansado,adjective
+1973,rise,"aumento, ascenção",noun
+1974,tie,gravata,noun
+1975,to employ,empregar,verb
+1976,holiday,feriado,noun
+1977,to dance,dançar,verb
+1978,vast,"vasto, grande",adjective
+1979,resolution,resolução,noun
+1980,household,casa,noun
+1981,fewer,menos,determiner
+1982,abortion,aborto,noun
+1983,apart,separado,adverb
+1984,witness,testemunha,noun
+1985,to match,combinar,verb
+1986,barely,por muito pouco,adverb
+1987,sector,setor,noun
+1988,representative,representante,noun
+1989,to lack,faltar,verb
+1990,beneath,abaixo,preposition
+1991,beside,ao lado,preposition
+1992,black,preto,noun
+1993,incident,incidente,noun
+1994,limited,limitado,adjective
+1995,proud,orgulhoso,adjective
+1996,flow,fluxo,noun
+1997,faculty,faculdade,noun
+1998,increased,aumentou,adjective
+1999,waste,desperdício,noun
+2000,merely,apenas,adverb
+2001,mass,massa,noun
+2002,to emphasize,enfatizar,verb
+2003,experiment,experimentar,noun
+2004,definitely,definitivamente,adverb
+2005,bomb,bomba,noun
+2006,enormous,enorme,adjective
+2007,tone,tom,noun
+2008,liberal,liberal,adjective
+2009,massive,maciço,adjective
+2010,engineer,engenheiro,noun
+2011,wheel,roda,noun
+2012,female,fêmea,noun
+2013,to decline,"recusar, negar",verb
+2014,to invest,investir,verb
+2015,promise,promessa,noun
+2016,cable,cabo,noun
+2017,towards,em direção,preposition
+2018,to expose,expor,verb
+2019,rural,rural,adjective
+2020,AIDS,AIDS,noun
+2021,Jew,judeu,noun
+2022,narrow,estreito,adjective
+2023,cream,creme,noun
+2024,secretary,secretário,noun
+2025,gate,portão,noun
+2026,solid,sólido,adjective
+2027,hill,colina,noun
+2028,typically,tipicamente,adverb
+2029,noise,ruído,noun
+2030,grass,grama,noun
+2031,unfortunately,infelizmente,adverb
+2032,hat,chapéu,noun
+2033,legislation,legislação,noun
+2034,to succeed,"ter sucesso, ser bem sucedido",verb
+2035,either,ou...ou / qualquer um,determiner
+2036,to celebrate,celebrar,verb
+2037,achievement,conquista,noun
+2038,fishing,pescaria,noun
+2039,drink,bebida,noun
+2040,to accuse,acusar,verb
+2041,to hand,entregar,verb
+2042,useful,útil,adjective
+2043,to land,pousar,verb
+2044,secret,segredo,adjective
+2045,to reject,rejeitar,verb
+2046,talent,talento,noun
+2047,taste,gosto,noun
+2048,characteristic,característica,noun
+2049,milk,leite,noun
+2050,to escape,escapar,verb
+2051,to cast,lançar,verb
+2052,sentence,frase,noun
+2053,unusual,incomum,adjective
+2054,closely,de perto,adverb
+2055,to convince,convencer,verb
+2056,height,altura,noun
+2057,physician,médico,noun
+2058,to assess,avaliar,verb
+2059,sleep,dormir,noun
+2060,plenty,bastante,pronoun
+2061,ride,passeio,noun
+2062,virtually,virtualmente,adverb
+2063,first,primeiro,adverb
+2064,addition,adição,preposition
+2065,sharp,afiado,adjective
+2066,creative,criativo,adjective
+2067,to lower,abaixar,verb
+2068,behind,atras do,adverb
+2069,to approve,aprovar,verb
+2070,explanation,explicação,noun
+2071,outside,fora,adjective
+2072,gay,gay,adjective
+2073,campus,campus,noun
+2074,proper,apropriado,adjective
+2075,live,viver,adjective
+2076,guilty,culpado,adjective
+2077,living,vivo,adjective
+2078,to acquire,adquirir,verb
+2079,to compete,competir,verb
+2080,technical,técnico,adjective
+2081,plus,mais,preposition
+2082,to mind,à mente,verb
+2083,potential,potencial,noun
+2084,immigrant,imigrante,noun
+2085,weak,fraco,adjective
+2086,illegal,ilegal,adjective
+2087,hi,oi,u
+2088,alternative,alternativa,noun
+2089,interaction,interação,noun
+2090,column,coluna,noun
+2091,personality,personalidade,noun
+2092,signal,sinal,noun
+2093,curriculum,currículo,noun
+2094,to list,listar,verb
+2095,honor,honra,noun
+2096,passenger,passageiro,noun
+2097,assistance,assistência,noun
+2098,forever,para todo sempre,adverb
+2099,fun,diversão,adjective
+2100,to regard,considerar,verb
+2101,Israeli,israelense,adjective
+2102,association,associação,noun
+2103,twenty,vinte,number
+2104,to knock,bater,verb
+2105,to review,rever,verb
+2106,to wrap,embrulhar,verb
+2107,lab,laboratório,noun
+2108,offer,oferta,noun
+2109,to display,mostrar,verb
+2110,criticism,crítica,noun
+2111,asset,ativo,noun
+2112,depression,depressão,noun
+2113,spiritual,espiritual,adjective
+2114,musical,musical,adjective
+2115,journalist,jornalista,noun
+2116,prayer,oração,noun
+2117,to suspect,suspeitar,verb
+2118,scholar,estudioso,noun
+2119,warning,aviso,noun
+2120,climate,clima,noun
+2121,cheese,queijo,noun
+2122,observation,observação,noun
+2123,childhood,infância,noun
+2124,payment,forma de pagamento,noun
+2125,sir,senhor,noun
+2126,to permit,permitir,verb
+2127,cigarette,cigarro,noun
+2128,definition,definição,noun
+2129,priority,prioridade,noun
+2130,bread,pão,noun
+2131,creation,criação,noun
+2132,graduate,graduado,noun
+2133,request,solicitação,noun
+2134,emotion,emoção,noun
+2135,to scream,gritar,verb
+2136,dramatic,dramático,adjective
+2137,universe,universo,noun
+2138,gap,gap = vão,noun
+2139,excellent,excelente,adjective
+2140,deeply,profundamente,adverb
+2141,prosecutor,promotor,noun
+2142,mark,marca,noun
+2143,green,verde,noun
+2144,lucky,afortunado,adjective
+2145,to drag,arrastar,verb
+2146,airline,cia aérea,noun
+2147,library,biblioteca,noun
+2148,agenda,agenda,noun
+2149,to recover,recuperar,verb
+2150,factory,fábrica,noun
+2151,selection,seleção,noun
+2152,primarily,principalmente,adverb
+2153,roof,teto,noun
+2154,unable,impossível,adjective
+2155,expense,despesa,noun
+2156,initiative,iniciativa,noun
+2157,diet,dieta,noun
+2158,to arrest,prender,verb
+2159,funding,financiamento,noun
+2160,therapy,terapia,noun
+2161,to wash,lavar,verb
+2162,schedule,agendar,noun
+2163,sad,triste,adjective
+2164,brief,"curto, breve",adjective
+2165,housing,habitação,noun
+2166,post,publicar,noun
+2167,to purchase,comprar,verb
+2168,existing,existir,adjective
+2169,dark,sombrio,noun
+2170,steel,aço,noun
+2171,regarding,em relação a,preposition
+2172,to shout,gritar,verb
+2173,remaining,remanescente,adjective
+2174,visual,visual,adjective
+2175,fairly,com justiça,adverb
+2176,chip,lasca,noun
+2177,violent,violento,adjective
+2178,silent,silencioso,adjective
+2179,to suppose,para supor,verb
+2180,self,auto,noun
+2181,bike,bicicleta,noun
+2182,tea,chá,noun
+2183,to perceive,perceber,verb
+2184,comparison,comparação,noun
+2185,settlement,assentamento,noun
+2186,layer,camada,noun
+2187,planning,planejamento,noun
+2188,far,distante,conjunction
+2189,description,descrição,noun
+2190,later,mais tarde,adjective
+2191,to slow,"abrandar, diminuir a velocidade",verb
+2192,to slide,deslizar,verb
+2193,widely,largamente,adverb
+2194,wedding,casamento,noun
+2195,to inform,informar,verb
+2196,portion,parte,noun
+2197,territory,território,noun
+2198,immediate,imediato,adjective
+2199,opponent,oponente,noun
+2200,to abandon,abandonar,verb
+2201,link,link,noun
+2202,mass,massa,adjective
+2203,lake,lago,noun
+2204,to transform,transformar,verb
+2205,tension,tensão,noun
+2206,display,mostrar,noun
+2207,leading,principal,adjective
+2208,to bother,incomodar,verb
+2209,to consist,consistir,verb
+2210,alcohol,álcool,noun
+2211,to enable,para habilitar,verb
+2212,to bend,dobrar,verb
+2213,saving,salvando,noun
+2214,gain,ganho,noun
+2215,desert,deserto,noun
+2216,to shall,a deve,verb
+2217,error,erro,noun
+2218,release,liberar,noun
+2219,cop,policial,noun
+2220,Arab,árabe,adjective
+2221,double,duplo,adjective
+2222,walk,caminhar,noun
+2223,sand,areia,noun
+2224,Spanish,espanhol,adjective
+2225,to rule,governar,verb
+2226,hit,bater,noun
+2227,print,impressão,noun
+2228,to preserve,preservar,verb
+2229,passage,passagem,noun
+2230,formal,formal,adjective
+2231,transition,transição,noun
+2232,existence,existência,noun
+2233,album,álbum,noun
+2234,participation,participação,noun
+2235,to arrange,organizar,verb
+2236,atmosphere,atmosfera,noun
+2237,joint,articulação,adjective
+2238,to reply,responder,verb
+2239,cycle,ciclo,noun
+2240,opposite,oposto,adjective
+2241,to lock,trancar,verb
+2242,whole,inteira,noun
+2243,to deserve,merecer,verb
+2244,consistent,consistente,adjective
+2245,resistance,resistência,noun
+2246,discovery,descoberta,noun
+2247,to tear,rasgar,verb
+2248,exposure,exposição,noun
+2249,to pose,posar,verb
+2250,stream,stream,noun
+2251,sale,oferta,noun
+2252,trust,Confiar em,noun
+2253,to benefit,beneficiar,verb
+2254,pot,Panela,noun
+2255,grand,grande,adjective
+2256,mine,meu,pronoun
+2257,hello,"oi, olá",u
+2258,coalition,aliança,noun
+2259,tale,conto,noun
+2260,knife,faca,noun
+2261,to resolve,resolver,verb
+2262,racial,racial,adjective
+2263,phase,fase,noun
+2264,present,presente,noun
+2265,joke,Piada,noun
+2266,coat,casaco,noun
+2267,Mexican,mexicano,adjective
+2268,symptom,sintoma,noun
+2269,to contact,contactar,verb
+2270,manufacturer,fabricante,noun
+2271,philosophy,filosofia,noun
+2272,potato,batata,noun
+2273,to interview,entrevistar,verb
+2274,foundation,Fundação,noun
+2275,to quote,citar,verb
+2276,online,conectados,adjective
+2277,pass,passar,noun
+2278,negotiation,negociação,noun
+2279,good,Boa,noun
+2280,to urge,incitar,verb
+2281,occasion,ocasião,noun
+2282,dust,pó,noun
+2283,to breathe,respirar,verb
+2284,to elect,eleger,verb
+2285,investigator,investigador,noun
+2286,jacket,jaqueta,noun
+2287,glad,"alegre, feliz",adjective
+2288,ordinary,comum,adjective
+2289,reduction,redução,noun
+2290,rarely,raramente,adverb
+2291,shift,mudança,noun
+2292,to pack,fazer as malas,verb
+2293,suicide,suicídio,noun
+2294,numerous,numeroso,adjective
+2295,touch,tocar,noun
+2296,substance,substância,noun
+2297,discipline,disciplina,noun
+2298,elsewhere,em outro lugar,adverb
+2299,iron,ferro,noun
+2300,practical,prático,adjective
+2301,moreover,além disso,adverb
+2302,passion,paixão,noun
+2303,volunteer,voluntário,noun
+2304,to implement,implementar,verb
+2305,essentially,essencialmente,adverb
+2306,gene,gene,noun
+2307,enforcement,execução,noun
+2308,vs,versus,preposition
+2309,sauce,molho,noun
+2310,independence,independência,noun
+2311,marketing,marketing,noun
+2312,priest,padre,noun
+2313,amazing,incrível,adjective
+2314,intense,intenso,adjective
+2315,advance,avançar,noun
+2316,employer,Empregador,noun
+2317,shock,choque,noun
+2318,to inspire,inspirar,verb
+2319,to adjust,ajustar,verb
+2320,to retire,aposentar-se,verb
+2321,sure,certo,adverb
+2322,visible,visível,adjective
+2323,to kiss,beijar,verb
+2324,illness,doença,noun
+2325,cap,boné,noun
+2326,habit,hábito,noun
+2327,competitive,competitivo,adjective
+2328,juice,suco,noun
+2329,congressional,congressista,adjective
+2330,involvement,envolvimento,noun
+2331,to dominate,dominar,verb
+2332,previously,anteriormente,adverb
+2333,whenever,em qualquer momento,adverb
+2334,to transfer,transferir,verb
+2335,to analyze,analisar,verb
+2336,another,outro,pronoun
+2337,to attach,anexar,verb
+2338,for,por,conjunction
+2339,Indian,indiano,noun
+2340,disaster,desastre,noun
+2341,parking,estacionamento,noun
+2342,prospect,perspectiva,noun
+2343,boss,patrão,noun
+2344,complaint,reclamação,noun
+2345,championship,campeonato,noun
+2346,to coach,treinar,verb
+2347,to exercise,exercitar,verb
+2348,fundamental,fundamental,adjective
+2349,severe,"severo, forte",adjective
+2350,to enhance,melhorar,verb
+2351,mystery,mistério,noun
+2352,to impose,obrigar,verb
+2353,poverty,pobreza,noun
+2354,other,outro,preposition
+2355,entry,entrada,noun
+2356,fat,gordo,adjective
+2357,spending,gastar,noun
+2358,king,rei,noun
+2359,to evaluate,avaliar,verb
+2360,symbol,símbolo,noun
+2361,still,ainda,adjective
+2362,to trade,negociar,verb
+2363,maker,criador,noun
+2364,mood,humor,noun
+2365,to accomplish,realizar,verb
+2366,emphasis,ênfase,noun
+2367,to illustrate,ilustrar,verb
+2368,boot,bota,noun
+2369,to monitor,monitorar,verb
+2370,Asian,asiático,adjective
+2371,entertainment,entretenimento,noun
+2372,bean,feijão,noun
+2373,evaluation,avaliação,noun
+2374,creature,criatura,noun
+2375,commander,comandante,noun
+2376,digital,digital,adjective
+2377,arrangement,arranjo,noun
+2378,to concentrate,concentrar,verb
+2379,total,total,noun
+2380,usual,"habitual, usual",adjective
+2381,anger,raiva,noun
+2382,psychological,psicológico,adjective
+2383,heavily,fortemente,adverb
+2384,peak,pico,noun
+2385,approximately,aproximadamente,adverb
+2386,increasing,aumentando,adjective
+2387,disorder,transtorno,noun
+2388,missile,míssil,noun
+2389,equally,igualmente,adverb
+2390,to vary,variar,verb
+2391,wire,arame,noun
+2392,round,redondo,noun
+2393,distribution,distribuição,noun
+2394,transportation,transporte,noun
+2395,holy,piedosos,adjective
+2396,to ring,tocar,verb
+2397,twin,gêmeo,noun
+2398,command,comando,noun
+2399,commission,comissão,noun
+2400,interpretation,interpretação,noun
+2401,breakfast,café da manhã,noun
+2402,stop,Pare,noun
+2403,strongly,fortemente,adverb
+2404,engineering,Engenharia,noun
+2405,luck,sorte,noun
+2406,so-called,chamado,adjective
+2407,constant,constante,adjective
+2408,to race,correr,verb
+2409,clinic,clínica,noun
+2410,veteran,veterano,noun
+2411,to smell,cheirar,verb
+2412,tablespoon,colher de sopa,noun
+2413,capable,capaz,adjective
+2414,nervous,nervoso,adjective
+2415,tourist,turista,noun
+2416,to light,acender,verb
+2417,to toss,jogar,verb
+2418,crucial,crucial,adjective
+2419,to bury,enterrar,verb
+2420,to pray,para rezar,verb
+2421,tomato,tomate,noun
+2422,exception,exceção,noun
+2423,butter,manteiga,noun
+2424,deficit,déficit,noun
+2425,bathroom,banheiro,noun
+2426,objective,objetivo,noun
+2427,to block,bloquear,verb
+2428,electronic,eletrônico,adjective
+2429,ally,aliado,noun
+2430,journey,jornada,noun
+2431,reputation,reputação,noun
+2432,mixture,mistura,noun
+2433,surely,certamente,adverb
+2434,tower,torre,noun
+2435,smoke,fumaça,noun
+2436,to confront,confrontar,verb
+2437,pure,puro,adjective
+2438,to glance,olhar de relance,verb
+2439,dimension,dimensão,noun
+2440,toy,brinquedo,noun
+2441,prisoner,prisioneiro,noun
+2442,fellow,amigo,adjective
+2443,smooth,suave,adjective
+2444,nearby,próximo,adjective
+2445,peer,par,noun
+2446,designer,desenhista,noun
+2447,personnel,pessoal,noun
+2448,to shape,moldar,verb
+2449,educator,educador,noun
+2450,relative,relativo,noun
+2451,immigration,imigração,noun
+2452,belt,cinto,noun
+2453,teaspoon,colher de chá,noun
+2454,birthday,aniversário,noun
+2455,implication,implicação,noun
+2456,perfectly,perfeitamente,adverb
+2457,coast,costa,noun
+2458,supporter,torcedor,noun
+2459,to accompany,acompanhar,verb
+2460,silver,prata,noun
+2461,teenager,adolescente,noun
+2462,recognition,reconhecimento,noun
+2463,retirement,aposentadoria,noun
+2464,flag,bandeira,noun
+2465,recovery,recuperação,noun
+2466,to whisper,sussurar,verb
+2467,watch,ver,noun
+2468,gentleman,cavalheiro,noun
+2469,corn,milho,noun
+2470,moon,lua,noun
+2471,inner,interno,adjective
+2472,junior,júnior,adjective
+2473,rather,em vez,conjunction
+2474,throat,garganta,noun
+2475,salary,salário,noun
+2476,to swing,balançar,verb
+2477,observer,observador,noun
+2478,due,a verncer,adjective
+2479,straight,reto,adjective
+2480,publication,publicação,noun
+2481,pretty,bonito,adjective
+2482,crop,colheita,noun
+2483,to dig,cavar,verb
+2484,strike,batida,noun
+2485,permanent,permanente,adjective
+2486,to plant,plantar,verb
+2487,phenomenon,fenômeno,noun
+2488,anxiety,ansiedade,noun
+2489,unlike,diferente,preposition
+2490,wet,molhado,adjective
+2491,literally,literalmente,adverb
+2492,to resist,resistir,verb
+2493,convention,convenção,noun
+2494,to embrace,abraçar,verb
+2495,to supply,suprir,verb
+2496,to assist,ajudar,verb
+2497,exhibition,exibição,noun
+2498,to construct,construir,verb
+2499,viewer,espectador,noun
+2500,pan,frigideira,noun
+2501,consultant,consultor,noun
+2502,soon,em breve,conjunction
+2503,to line,para a linha,verb
+2504,administrator,administrador,noun
+2505,to date,até a presente data,verb
+2506,occasionally,ocasionalmente,adverb
+2507,mayor,prefeito,noun
+2508,consideration,consideração,noun
+2509,CEO,CEO,noun
+2510,to secure,assegurar,verb
+2511,pink,rosa,adjective
+2512,to smoke,fumar,verb
+2513,estimate,estimativa,noun
+2514,buck,bode,noun
+2515,historic,histórico,adjective
+2516,poem,poema,noun
+2517,grandmother,vovó,noun
+2518,to bind,ligar,verb
+2519,fifth,quinto,number
+2520,constantly,constantemente,adverb
+2521,enterprise,empreendimento,noun
+2522,to favor,favorecer,verb
+2523,testing,testando,noun
+2524,stomach,estômago,noun
+2525,apparent,aparente,adjective
+2526,to weigh,pesar,verb
+2527,to install,para instalar,verb
+2528,sensitive,sensível,adjective
+2529,suggestion,sugestão,noun
+2530,mail,correspondência,noun
+2531,recipe,receita,noun
+2532,reasonable,razoável,adjective
+2533,preparation,preparação,noun
+2534,wooden,de madeira,adjective
+2535,elementary,elementar,adjective
+2536,concert,show,noun
+2537,aggressive,agressivo,adjective
+2538,falso ,falso,adjective
+2539,intention,intenção,noun
+2540,channel,canal,noun
+2541,extreme,extremo,adjective
+2542,tube,tubo,noun
+2543,drawing,desenho,noun
+2544,protein,proteína,noun
+2545,to quit,para sair,verb
+2546,absence,ausência,noun
+2547,roll,rolar,noun
+2548,Latin,latino,adjective
+2549,rapidly,rapidamente,adverb
+2550,jail,cadeia,noun
+2551,to comment,comentar,verb
+2552,diversity,diversidade,noun
+2553,honest,honesto,adjective
+2554,Palestinian,palestino,adjective
+2555,pace,ritmo,noun
+2556,employment,emprego,noun
+2557,speaker,palestrante,noun
+2558,impression,impressão,noun
+2559,essay,redação,noun
+2560,respondent,respondente,noun
+2561,giant,gigante,adjective
+2562,cake,bolo,noun
+2563,historian,historiador,noun
+2564,to negotiate,negociar,verb
+2565,to restore,restaurar,verb
+2566,substantial,substancial,adjective
+2567,to pop,estourar,verb
+2568,particular,especial,adverb
+2569,specialist,especialista,noun
+2570,origin,origem,noun
+2571,approval,aprovação,noun
+2572,mine,minha,noun
+2573,quietly,silenciosamente,adverb
+2574,to advise,para aconselhar,verb
+2575,conventional,convencional,adjective
+2576,drop,derrubar,noun
+2577,count,contar,noun
+2578,depth,profundidade,noun
+2579,wealth,fortuna,noun
+2580,disability,incapacidade,noun
+2581,shell,Concha,noun
+2582,general,em geral,adverb
+2583,to criticize,criticar,verb
+2584,fast,veloz,adjective
+2585,professional,profissional,noun
+2586,effectively,efetivamente,adverb
+2587,biological,biológico,adjective
+2588,pack,pacote,noun
+2589,onion,cebola,noun
+2590,deputy,deputado,noun
+2591,flat,plano,adjective
+2592,brand,marca,noun
+2593,to assure,assegurar-se,verb
+2594,mad,"louco, zangado",adjective
+2595,award,prêmio,noun
+2596,criteria,critério,noun
+2597,dealer,distribuidor,noun
+2598,via,através da,preposition
+2599,alternative,alternativo,adjective
+2600,utility,Utilitário,noun
+2601,precisely,precisamente,adverb
+2602,to arise,surgir,verb
+2603,armed,armado,adjective
+2604,nevertheless,mesmo assim,adverb
+2605,highway,rodovia,noun
+2606,clinical,clínico,adjective
+2607,routine,rotina,noun
+2608,to schedule,agendar,verb
+2609,wage,remuneração,noun
+2610,normally,normalmente,adverb
+2611,phrase,frase,noun
+2612,ingredient,ingrediente,noun
+2613,stake,estaca,noun
+2614,Muslim,muçulmano,adjective
+2615,to dream,sonhar,verb
+2616,fiber,fibra,noun
+2617,activist,ativista,noun
+2618,Islamic,islâmico,adjective
+2619,to snap,tirar,verb
+2620,terrorism,terrorismo,noun
+2621,refugee,refugiado,noun
+2622,to incorporate,incorporar,verb
+2623,hip,quadril,noun
+2624,ultimate,final,adjective
+2625,to switch,mudar,verb
+2626,corporation,corporação,noun
+2627,valuable,valioso,adjective
+2628,assumption,suposição,noun
+2629,gear,engrenagem,noun
+2630,to graduate,graduar-se,verb
+2631,barrier,barreira,noun
+2632,minor,menor,adjective
+2633,provision,provisão,noun
+2634,killer,assassino,noun
+2635,to assign,atribuir,verb
+2636,gang,gangue,noun
+2637,developing,em desenvolvimento,adjective
+2638,classic,clássico,adjective
+2639,chemical,químico,noun
+2640,to wave,acenar,verb
+2641,label,rótulo,noun
+2642,teen,adolescente,noun
+2643,index,índice,noun
+2644,vacation,período de férias,noun
+2645,advocate,advogado,noun
+2646,draft,"esboço, projeto",noun
+2647,extraordinary,extraordinário,adjective
+2648,heaven,paraíso,noun
+2649,rough,"duro, difícil",adjective
+2650,to yell,gritar,verb
+2651,pregnant,grávida,adjective
+2652,distant,distante,adjective
+2653,drama,drama,noun
+2654,satellite,satélite,noun
+2655,personally,pessoalmente,adverb
+2656,wonder,maravilha,noun
+2657,clock,relógio,noun
+2658,chocolate,chocolate,noun
+2659,Italian,italiano,adjective
+2660,Canadian,canadense,adjective
+2661,ceiling,teto,noun
+2662,to sweep,varrer,verb
+2663,advertising,anúncio,noun
+2664,universal,universal,adjective
+2665,to spin,girar,verb
+2666,to house,para casa,verb
+2667,button,botão,noun
+2668,bell,Sino,noun
+2669,rank,classificação,noun
+2670,darkness,Trevas,noun
+2671,ahead,à frente,preposition
+2672,clothing,confecções,noun
+2673,super,super,adjective
+2674,to yield,render-se,verb
+2675,fence,cerca,noun
+2676,portrait,retrato,noun
+2677,paint,pintar,noun
+2678,survival,sobrevivência,noun
+2679,roughly,aproximadamente,adverb
+2680,lawsuit,ação judicial,noun
+2681,bottom,inferior,adjective
+2682,testimony,testemunho,noun
+2683,bunch,monte,noun
+2684,beat,bater,noun
+2685,to wind,vento,verb
+2686,to found,encontrar,verb
+2687,burden,fardo,noun
+2688,to react,reagir,verb
+2689,chamber,câmara,noun
+2690,furniture,mobiliário,noun
+2691,cooperation,cooperação,noun
+2692,string,fragmento,noun
+2693,ceremony,cerimônia,noun
+2694,to communicate,comunicar,verb
+2695,to taste,provar,verb
+2696,cheek,bochecha,noun
+2697,lost,perdido,adjective
+2698,profile,perfil,noun
+2699,mechanism,mecanismo,noun
+2700,to disagree,discordar,verb
+2701,like,como,adverb
+2702,penalty,pena,noun
+2703,match,partida,noun
+2704,ie,ou seja,adverb
+2705,to advance,avançar,verb
+2706,resort,recorrer,noun
+2707,destruction,destruição,noun
+2708,bear,urso,noun
+2709,unlikely,improvável,adjective
+2710,tissue,tecido,noun
+2711,constitutional,constitucional,adjective
+2712,pant,calça,noun
+2713,stranger,desconhecido,noun
+2714,infection,infecção,noun
+2715,cabinet,gabinete,noun
+2716,broken,quebrado,adjective
+2717,apple,maçã,noun
+2718,electric,elétrico,adjective
+2719,to proceed,prosseguir,verb
+2720,to track,rastrear,verb
+2721,to bet,apostar,verb
+2722,literary,literário,adjective
+2723,virus,vírus,noun
+2724,stupid,estúpido,adjective
+2725,dispute,disputa,noun
+2726,fortune,fortuna,noun
+2727,strategic,estratégico,adjective
+2728,assistant,assistente,noun
+2729,to overcome,superar,verb
+2730,remarkable,extraordinário,adjective
+2731,to occupy,para ocupar,verb
+2732,statistics,Estatisticas,noun
+2733,shopping,Shopping,noun
+2734,cousin,primo,noun
+2735,to encounter,encontrar,verb
+2736,to wipe,para limpar,verb
+2737,initially,inicialmente,adverb
+2738,blind,cego,adjective
+2739,white,branco,noun
+2740,port,porta,noun
+2741,to honor,honrar,verb
+2742,electricity,eletricidade,noun
+2743,genetic,genético,adjective
+2744,adviser,conselheiro,noun
+2745,pay,pagar,noun
+2746,spokesman,porta-voz,noun
+2747,to retain,reter,verb
+2748,latter,último,determiner
+2749,incentive,incentivo,noun
+2750,slave,escravo,noun
+2751,chemical,químico,adjective
+2752,to translate,para traduzir,verb
+2753,accurate,exato,adjective
+2754,whereas,enquanto que,conjunction
+2755,terror,terror,noun
+2756,though,no entanto,adverb
+2757,expansion,expansão,noun
+2758,elite,elite,noun
+2759,Olympic,olímpico,adjective
+2760,dirt,sujeira,noun
+2761,odd,ímpar,adjective
+2762,rice,arroz,noun
+2763,bullet,bala,noun
+2764,tight,apertado,adjective
+2765,Bible,Bíblia,noun
+2766,chart,gráfico,noun
+2767,solar,solar,adjective
+2768,decline,declínio,noun
+2769,conservative,conservador,noun
+2770,to process,processar,verb
+2771,square,quadrado,adjective
+2772,stick,Vara,noun
+2773,concentration,concentração,noun
+2774,complicated,complicado,adjective
+2775,gently,suavemente,adverb
+2776,champion,campeão,noun
+2777,scenario,cenário,noun
+2778,telescope,telescópio,noun
+2779,reflection,reflexão,noun
+2780,revolution,revolução,noun
+2781,strip,faixa,noun
+2782,to interpret,interpretar,verb
+2783,friendly,amigável,adjective
+2784,tournament,torneio,noun
+2785,fiction,ficção,noun
+2786,to detect,detectar,verb
+2787,to balance,equilibrar,verb
+2788,likely,provável,adverb
+2789,tremendous,tremendo,adjective
+2790,lifetime,vida,noun
+2791,recommendation,recomendação,noun
+2792,to flow,fluir,verb
+2793,senator,senador,noun
+2794,to market,ao mercado,verb
+2795,hunting,Caçando,noun
+2796,salad,salada,noun
+2797,to guarantee,garantir,verb
+2798,innocent,inocente,adjective
+2799,boundary,fronteira,noun
+2800,to pause,pausar,verb
+2801,remote,remoto,adjective
+2802,satisfaction,satisfação,noun
+2803,journal,Diário,noun
+2804,bench,banco de sentar,noun
+2805,lover,amante,noun
+2806,raw,cru,adjective
+2807,awareness,consciência,noun
+2808,surprising,surpreendente,adjective
+2809,to withdraw,sacar,verb
+2810,general,em geral,noun
+2811,deck,área coberta,noun
+2812,similarly,similarmente,adverb
+2813,newly,recentemente,adverb
+2814,pole,pólo,noun
+2815,to testify,testemunhar,verb
+2816,mode,modo,noun
+2817,dialogue,diálogo,noun
+2818,to imply,implicar,verb
+2819,naturally,naturalmente,adverb
+2820,mutual,mútuo,adjective
+2821,founder,fundador,noun
+2822,top,topo,preposition
+2823,advanced,avançado,adjective
+2824,pride,orgulho,noun
+2825,to dismiss,dispensar,verb
+2826,aircraft,aeronave,noun
+2827,delivery,Entrega,noun
+2828,mainly,principalmente,adverb
+2829,to bake,assar,verb
+2830,to freeze,congelar,verb
+2831,platform,plataforma,noun
+2832,finance,finança,noun
+2833,to sink,afundar,verb
+2834,attractive,atraente,adjective
+2835,to respect,respeitar,verb
+2836,diverse,diverso,adjective
+2837,relevant,relevante,adjective
+2838,ideal,ideal,adjective
+2839,joy,alegria,noun
+2840,worth,valor,noun
+2841,regularly,regularmente,adverb
+2842,working,trabalhador,adjective
+2843,singer,cantor,noun
+2844,to evolve,evoluir,verb
+2845,shooting,tiroteio,noun
+2846,partly,parcialmente,adverb
+2847,unknown,desconhecido,adjective
+2848,assistant,assistente,adjective
+2849,offense,ofensa,noun
+2850,counter,contador,noun
+2851,DNA,ADN,noun
+2852,smell,cheiro,noun
+2853,potentially,potencialmente,adverb
+2854,transfer,transferir,noun
+2855,thirty,trinta,number
+2856,to justify,justificar,verb
+2857,protest,protesto,noun
+2858,crash,colidir,noun
+2859,craft,construir,noun
+2860,treaty,tratado,noun
+2861,terrorist,terrorista,noun
+2862,insight,entendimento,noun
+2863,to possess,possuir,verb
+2864,politically,politicamente,adverb
+2865,to tap,tocar,verb
+2866,lie,mentira,noun
+2867,extensive,extenso,adjective
+2868,episode,episódio,noun
+2869,to double,dobrar,verb
+2870,to swim,nadar,verb
+2871,to tire,cansar,verb
+2872,fault,culpa,noun
+2873,loose,"solto, froxo",adjective
+2874,to free,"liberar, libertar",verb
+2875,shortly,em breve,adverb
+2876,originally,originalmente,adverb
+2877,considerable,considerável,adjective
+2878,prior,prévio,preposition
+2879,intellectual,intelectual,adjective
+2880,mix,misturar,noun
+2881,assault,assalto,noun
+2882,to relax,relaxar,verb
+2883,stair,escada,noun
+2884,adventure,aventura,noun
+2885,external,externo,adjective
+2886,proof,prova,noun
+2887,confident,confiante,adjective
+2888,headquarters,quartel general,noun
+2889,sudden,de repente,adjective
+2890,dirty,sujo,adjective
+2891,violation,violação,noun
+2892,tongue,língua,noun
+2893,license,licença,noun
+2894,hold,aguarde,noun
+2895,shelter,abrigo,noun
+2896,to rub,esfregar,verb
+2897,controversy,controvérsia,noun
+2898,entrance,entrada,noun
+2899,favorite,favorito,noun
+2900,to practice,praticar,verb
+2901,properly,devidamente,adverb
+2902,to fade,desaparecer,verb
+2903,defensive,defensiva,adjective
+2904,tragedy,tragédia,noun
+2905,net,internet,noun
+2906,to characterize,caracterizar,verb
+2907,funeral,funeral,noun
+2908,profession,profissão,noun
+2909,to alter,para alterar,verb
+2910,to spot,localizar,verb
+2911,to constitute,constituir,verb
+2912,establishment,estabelecimento,noun
+2913,to squeeze,espremer,verb
+2914,imagination,imaginação,noun
+2915,to target,marcar,verb
+2916,mask,mascarar,noun
+2917,to convert,converter,verb
+2918,comprehensive,compreensivo,adjective
+2919,prominent,proeminente,adjective
+2920,presentation,apresentação,noun
+2921,regardless,sem considerar,adverb
+2922,easy,fácil,adverb
+2923,to load,carregar,verb
+2924,stable,estável,adjective
+2925,introduction,introdução,noun
+2926,to appeal,apelar,verb
+2927,to pretend,fingir,verb
+2928,not,não,conjunction
+2929,elderly,idoso,adjective
+2930,representation,representação,noun
+2931,deer,cervo,noun
+2932,to split,dividir,verb
+2933,to violate,violar,verb
+2934,partnership,parceria,noun
+2935,pollution,poluição,noun
+2936,emission,emissão,noun
+2937,steady,estável,adjective
+2938,vital,vital,adjective
+2939,neither,"nem, nenhum",determiner
+2940,fate,destino,noun
+2941,earnings,ganhos,noun
+2942,oven,forno,noun
+2943,distinction,distinção,noun
+2944,segment,segmento,noun
+2945,nowhere,lugar algum,adverb
+2946,poet,poeta,noun
+2947,mere,mero,adjective
+2948,exciting,excitante,adjective
+2949,variation,variação,noun
+2950,comfort,conforto,noun
+2951,radical,radical,adjective
+2952,to stress,estressar,verb
+2953,to adapt,para adaptar,verb
+2954,Irish,irlandês,adjective
+2955,honey,querida,noun
+2956,correspondent,correspondente,noun
+2957,pale,pálido,adjective
+2958,musician,músico,noun
+2959,significance,significado,noun
+2960,load,carregar,noun
+2961,round,redondo,adjective
+2962,vessel,navio,noun
+2963,storage,armazenar,noun
+2964,to flee,fugir,verb
+2965,mm-hmm,mm-hmm,u
+2966,leather,couro,noun
+2967,to distribute,distribuir,verb
+2968,evolution,evolução,noun
+2969,ill,doente,adjective
+2970,tribe,tribo,noun
+2971,shelf,prateleira,noun
+2972,can,posso,noun
+2973,grandfather,Vô,noun
+2974,lawn,grama,noun
+2975,buyer,comprador,noun
+2976,dining,jantar,noun
+2977,wisdom,sabedoria,noun
+2978,council,conselho,noun
+2979,vulnerable,vulnerável,adjective
+2980,instance,instância,noun
+2981,garlic,alho,noun
+2982,capability,capacidade,noun
+2983,poetry,poesia,noun
+2984,celebrity,celebridade,noun
+2985,gradually,gradualmente,adverb
+2986,stability,estabilidade,noun
+2987,to doubt,duvidar,verb
+2988,fantasy,fantasia,noun
+2989,scared,assustada,adjective
+2990,to guide,guiar,verb
+2991,plot,trama,noun
+2992,framework,estrutura,noun
+2993,gesture,gesto,noun
+2994,depending,dependendo,preposition
+2995,ongoing,em progresso,adjective
+2996,psychology,psicologia,noun
+2997,since,desde a,adverb
+2998,counselor,conselheiro,noun
+2999,to witness,testemunhar,verb
+3000,chapter,capítulo,noun
+3001,fellow,amigo,noun
+3002,divorce,divórcio,noun
+3003,to owe,dever,verb
+3004,pipe,tubo,noun
+3005,athletic,atlético,adjective
+3006,slight,"pouco, pequeno",adjective
+3007,math,matemática,noun
+3008,shade,sombra,noun
+3009,tail,cauda,noun
+3010,to sustain,sustentar,verb
+3011,to mount,montar,verb
+3012,obligation,obrigação,noun
+3013,angle,ângulo,noun
+3014,palm,Palma,noun
+3015,to differ,diferir,verb
+3016,custom,personalizadas,noun
+3017,to store,armazenar,verb
+3018,economist,economista,noun
+3019,fifteen,quinze,number
+3020,soup,sopa,noun
+3021,celebration,celebração,noun
+3022,efficient,eficiente,adjective
+3023,to damage,danificar,verb
+3024,composition,composição,noun
+3025,to satisfy,satisfazer,verb
+3026,pile,pilha,noun
+3027,briefly,brevemente,adverb
+3028,carbon,carbono,noun
+3029,closer,mais próximo,adjective
+3030,to consume,consumir,verb
+3031,scheme,esquema,noun
+3032,crack,rachadura,noun
+3033,frequency,frequência,noun
+3034,tobacco,tabaco,noun
+3035,survivor,sobrevivente,noun
+3036,besides,além do mais,adverb
+3037,in,"em, dentro",conjunction
+3038,psychologist,psicólogo,noun
+3039,wealthy,próspero,adjective
+3040,galaxy,galáxia,noun
+3041,given,dado,adjective
+3042,to fund,financiar,verb
+3043,ski,esqui,noun
+3044,limitation,limitação,noun
+3045,OK,ok,adjective
+3046,to trace,rastrear,verb
+3047,appointment,compromisso,noun
+3048,preference,preferência,noun
+3049,meter,metro,noun
+3050,explosion,explosão,noun
+3051,arrest,prender prisão,noun
+3052,publicly,publicamente,adverb
+3053,incredible,incrível,adjective
+3054,fighter,lutador,noun
+3055,rapid,rápido,adjective
+3056,admission,admissão,noun
+3057,hunter,caçador,noun
+3058,to educate,educar,verb
+3059,painful,doloroso,adjective
+3060,friendship,amizade,noun
+3061,aide,auxiliar,noun
+3062,infant,infantil,noun
+3063,to calculate,calcular,verb
+3064,fifty,cinquenta,number
+3065,to rid,livrar,verb
+3066,porch,alpendre,noun
+3067,tendency,tendência,noun
+3068,uniform,uniforme,noun
+3069,formation,formação,noun
+3070,scholarship,bolsa de estudos,noun
+3071,reservation,reserva,noun
+3072,efficiency,eficiência,noun
+3073,to waste,desperdiçar,verb
+3074,to qualify,qualificar,verb
+3075,mall,Shopping,noun
+3076,to derive,derivar,verb
+3077,scandal,escândalo,noun
+3078,PC,computador,noun
+3079,helpful,útil,adjective
+3080,to impress,impressionar,verb
+3081,heel,salto,noun
+3082,to resemble,comparar,verb
+3083,privacy,privacidade,noun
+3084,fabric,tecido,noun
+3085,to surprise,para surpreender,verb
+3086,contest,concurso,noun
+3087,proportion,proporção,noun
+3088,guideline,diretriz,noun
+3089,rifle,rifle,noun
+3090,maintenance,manutenção,noun
+3091,conviction,convicção,noun
+3092,trick,truque,noun
+3093,organic,orgânico,adjective
+3094,tent,tenda,noun
+3095,examination,exame,noun
+3096,publisher,editor,noun
+3097,to strengthen,fortalecer,verb
+3098,French,Francês,noun
+3099,proposed,proposto,adjective
+3100,myth,mito,noun
+3101,sophisticated,sofisticado,adjective
+3102,cow,vaca,noun
+3103,etc,etc,adverb
+3104,standing,de pé,noun
+3105,asleep,dormindo,adjective
+3106,tennis,tênis,noun
+3107,nerve,nervo,noun
+3108,barrel,barril,noun
+3109,bombing,bombardeio,noun
+3110,membership,filiação,noun
+3111,ratio,Razão,noun
+3112,menu,cardápio,noun
+3113,purchase,comprar,noun
+3114,controversial,controverso,adjective
+3115,desperate,desesperado,adjective
+3116,to rate,avaliar,verb
+3117,lifestyle,estilo de vida,noun
+3118,humor,humor,noun
+3119,loud,alto,adjective
+3120,glove,luva,noun
+3121,suspect,suspeito,noun
+3122,sufficient,suficiente,adjective
+3123,narrative,narrativa,noun
+3124,photographer,fotógrafo,noun
+3125,helicopter,helicóptero,noun
+3126,Catholic,católico,noun
+3127,modest,modesto,adjective
+3128,provider,fornecedor,noun
+3129,delay,atraso,noun
+3130,agricultural,agrícola,adjective
+3131,to explode,explodir,verb
+3132,stroke,derrame,noun
+3133,scope,alcance,noun
+3134,punishment,punição,noun
+3135,handful,punhado,noun
+3136,badly,seriamente,adverb
+3137,horizon,horizonte,noun
+3138,curious,curioso,adjective
+3139,downtown,centro da cidade,adjective
+3140,girlfriend,Namorada,noun
+3141,to prompt,solicitar,verb
+3142,to request,para solicitar,verb
+3143,cholesterol,colesterol,noun
+3144,to absorb,absorver,verb
+3145,adjustment,ajustamento,noun
+3146,taxpayer,contribuinte,noun
+3147,eager,ansioso,adjective
+3148,principal,diretor,noun
+3149,detailed,detalhado,adjective
+3150,motivation,motivação,noun
+3151,assignment,tarefa,noun
+3152,restriction,restrição,noun
+3153,across,através,adverb
+3154,Palestinian,palestino,noun
+3155,laboratory,laboratório,noun
+3156,workshop,oficina,noun
+3157,differently,diferentemente,adverb
+3158,auto,auto,noun
+3159,romantic,romântico,adjective
+3160,cotton,algodão,noun
+3161,motor,motor,noun
+3162,to sue,processar,verb
+3163,flavor,sabor,noun
+3164,to overlook,ignorar,verb
+3165,to float,flutuar,verb
+3166,to undergo,se submeter,verb
+3167,sequence,seqüência,noun
+3168,demonstration,demonstração,noun
+3169,jet,jato,noun
+3170,orange,laranja,adjective
+3171,consumption,consumo,noun
+3172,to assert,afirmar,verb
+3173,blade,lâmina,noun
+3174,temporary,temporário,adjective
+3175,medication,medicamento,noun
+3176,to print,imprimir,verb
+3177,cabin,cabine,noun
+3178,to bite,morder,verb
+3179,relative,relativo,adjective
+3180,edition,edição,noun
+3181,valley,vale,noun
+3182,yours,"o teu, o seu, o de vocês",pronoun
+3183,pitch,tom,noun
+3184,pine,pinho,noun
+3185,brilliant,brilhante,adjective
+3186,versus,versus,preposition
+3187,manufacturing,fabricação,noun
+3188,to risk,arriscar,verb
+3189,Christian,cristão,noun
+3190,complex,complexo,noun
+3191,absolute,absoluto,adjective
+3192,chef,chefe de cozinha,noun
+3193,discrimination,discriminação,noun
+3194,offensive,ofensiva,adjective
+3195,German,Alemão,noun
+3196,to suit,para atender,verb
+3197,boom,estrondo,noun
+3198,to register,registrar,verb
+3199,to appoint,nomear,verb
+3200,heritage,herança,noun
+3201,God,Deus,noun
+3202,terrorist,terrorista,adjective
+3203,dominant,dominante,adjective
+3204,successfully,com sucesso,adverb
+3205,shit,merda,noun
+3206,lemon,limão,noun
+3207,hungry,com fome,adjective
+3208,to sense,sentir,verb
+3209,to dry,secar,verb
+3210,to wander,vagar,verb
+3211,to submit,submeter,verb
+3212,economics,economia,noun
+3213,naked,nu,adjective
+3214,to anticipate,antecipar,verb
+3215,nut,noz,noun
+3216,legacy,legado,noun
+3217,extension,extensão,noun
+3218,to shrug,encolher os ombros,verb
+3219,fly,mosca,noun
+3220,battery,bateria,noun
+3221,arrival,chegada,noun
+3222,legitimate,legítimo,adjective
+3223,orientation,orientação,noun
+3224,inflation,inflação,noun
+3225,to cope,lidar,verb
+3226,flame,chama,noun
+3227,cluster,cacho,noun
+3228,to host,hospedar,verb
+3229,wound,ferimento,noun
+3230,dependent,dependente,adjective
+3231,shower,banho,noun
+3232,institutional,institucional,adjective
+3233,to depict,para retratar,verb
+3234,operating,operativo,noun
+3235,flesh,carne,noun
+3236,garage,garagem,noun
+3237,operator,operador,noun
+3238,instructor,instrutor,noun
+3239,to collapse,desmoronar,verb
+3240,to borrow,emprestar,verb
+3241,furthermore,além do mais,adverb
+3242,comedy,comédia,noun
+3243,mortgage,hipoteca,noun
+3244,sanction,sanção,noun
+3245,civilian,civil,adjective
+3246,twelve,doze,number
+3247,weekly,semanalmente,adjective
+3248,habitat,habitat,noun
+3249,grain,grão,noun
+3250,to brush,escovar,verb
+3251,consciousness,consciência,noun
+3252,to devote,devotar,verb
+3253,to crack,rachar,verb
+3254,measurement,medição,noun
+3255,province,província,noun
+3256,to ease,facilitar,verb
+3257,to seize,aproveitar,verb
+3258,ethics,ética,noun
+3259,nomination,nomeação,noun
+3260,permission,permissão,noun
+3261,wise,sábio,adjective
+3262,actress,atriz,noun
+3263,summit,cume,noun
+3264,acid,ácido,noun
+3265,odds,chances,noun
+3266,gifted,dotado,adjective
+3267,frustration,frustração,noun
+3268,medium,médio,noun
+3269,to function,funcionar,verb
+3270,physically,fisicamente,adverb
+3271,grant,conceder,noun
+3272,to distinguish,distinguir,verb
+3273,shore,costa,noun
+3274,repeatedly,repetidamente,adverb
+3275,lung,pulmão,noun
+3276,firm,empresa,adjective
+3277,running,encontro,adjective
+3278,to correct,corrigir,verb
+3279,distinct,distinto,adjective
+3280,artistic,artístico,adjective
+3281,discourse,discurso,noun
+3282,basket,cesta,noun
+3283,ah,ah,u
+3284,fighting,brigando,noun
+3285,impressive,impressionante,adjective
+3286,competitor,concorrente,noun
+3287,ugly,feio,adjective
+3288,worried,preocupado,adjective
+3289,to portray,retratar,verb
+3290,powder,pó,noun
+3291,ghost,fantasma,noun
+3292,to persuade,persuadir,verb
+3293,moderate,moderado,adjective
+3294,subsequent,subseqüente,adjective
+3295,continued,contínuo,adjective
+3296,cookie,biscoito,noun
+3297,carrier,operadora,noun
+3298,cooking,culinária,noun
+3299,frequent,freqüente,adjective
+3300,to ban,banir,verb
+3301,swing,balanço,noun
+3302,orange,laranja,noun
+3303,awful,horrível,adjective
+3304,to admire,admirar,verb
+3305,pet,bicho de estimação,noun
+3306,miracle,milagre,noun
+3307,to exceed,exceder,verb
+3308,rhythm,ritmo,noun
+3309,widespread,difundido,adjective
+3310,killing,matando,noun
+3311,lovely,amável,adjective
+3312,sin,pecado,noun
+3313,charity,caridade,noun
+3314,script,roteiro,noun
+3315,tactic,tática,noun
+3316,identification,identificação,noun
+3317,transformation,transformação,noun
+3318,everyday,todo dia,adjective
+3319,headline,título,noun
+3320,to crash,bater,verb
+3321,venture,risco,noun
+3322,invasion,invasão,noun
+3323,military,militares,noun
+3324,nonetheless,não obstante,adverb
+3325,adequate,adequado,adjective
+3326,piano,piano,noun
+3327,grocery,mercado,noun
+3328,intensity,intensidade,noun
+3329,to exhibit,exibir,verb
+3330,high,alto,adverb
+3331,blanket,cobertor,noun
+3332,margin,margem,noun
+3333,principal,diretor,adjective
+3334,quarterback,quarterback,noun
+3335,mouse,mouse,noun
+3336,rope,corda,noun
+3337,concrete,concreto,adjective
+3338,prescription,prescrição,noun
+3339,African-American,afro-americano,adjective
+3340,to chase,perseguir,verb
+3341,to document,documentar,verb
+3342,brick,tijolo,noun
+3343,to recruit,recrutar,verb
+3344,patch,correção,noun
+3345,consensus,consenso,noun
+3346,horror,horror,noun
+3347,recording,gravação,noun
+3348,changing,mudando,adjective
+3349,painter,pintor,noun
+3350,colonial,colonial,adjective
+3351,pie,torta,noun
+3352,sake,interesse,noun
+3353,gaze,olhar,noun
+3354,courage,coragem,noun
+3355,pregnancy,gravidez,noun
+3356,to swear,jurar,verb
+3357,to defeat,derrotar,verb
+3358,clue,dica,noun
+3359,to reinforce,reforçar,verb
+3360,win,vencer,noun
+3361,confusion,confusão,noun
+3362,slice,fatiar,noun
+3363,occupation,ocupação,noun
+3364,dear,querida,adjective
+3365,coal,carvão,noun
+3366,sacred,sagrado,adjective
+3367,criminal,criminoso,noun
+3368,formula,fórmula,noun
+3369,cognitive,cognitivo,adjective
+3370,collective,coletivo,adjective
+3371,exact,exato,adjective
+3372,uncle,tio,noun
+3373,square,quadrado,noun
+3374,captain,capitão,noun
+3375,to sigh,suspirar,verb
+3376,to attribute,atribuir,verb
+3377,to dare,desafiar,verb
+3378,okay,ok,adjective
+3379,homeless,sem teto,adjective
+3380,to cool,legal,verb
+3381,gallery,galeria,noun
+3382,soccer,futebol,noun
+3383,defendant,réu,noun
+3384,tunnel,túnel,noun
+3385,fitness,condição física,noun
+3386,lap,colo,noun
+3387,grave,cova,noun
+3388,toe,dedo do pé,noun
+3389,container,recipiente,noun
+3390,virtue,virtude,noun
+3391,abroad,fora do país,adverb
+3392,architect,arquiteto,noun
+3393,dramatically,dramaticamente,adverb
+3394,makeup,maquiagem,noun
+3395,inquiry,investigação,noun
+3396,rose,rosa,noun
+3397,surprisingly,surpreendentemente,adverb
+3398,to highlight,para realçar,verb
+3399,to decrease,diminuir,verb
+3400,indication,indicação,noun
+3401,rail,trilho,noun
+3402,anniversary,aniversário,noun
+3403,couch,sofá,noun
+3404,alliance,aliança,noun
+3405,hypothesis,hipótese,noun
+3406,boyfriend,namorado,noun
+3407,to compose,compor,verb
+3408,to peer,espiar,verb
+3409,mess,bagunça,noun
+3410,to rank,classificar,verb
+3411,legend,lenda,noun
+3412,to regulate,regular,verb
+3413,adolescent,adolescente,noun
+3414,to shine,brilhar,verb
+3415,norm,norma,noun
+3416,to upset,chatear,verb
+3417,remark,observação,noun
+3418,to resign,resignar,verb
+3419,reward,recompensa,noun
+3420,gentle,□ gentil,adjective
+3421,related,relacionado,adjective
+3422,organ,órgão,noun
+3423,lightly,levemente,adverb
+3424,concerning,"relativo, com respeito a",preposition
+3425,to invent,inventar,verb
+3426,laughter,risada,noun
+3427,fit,em forma,adjective
+3428,northwest,noroeste,noun
+3429,counseling,aconselhamento,noun
+3430,tight,apertado,adverb
+3431,receiver,receptor,noun
+3432,ritual,ritual,noun
+3433,insect,inseto,noun
+3434,to interrupt,interromper,verb
+3435,salmon,salmão,noun
+3436,favor,favor,noun
+3437,trading,negociação,noun
+3438,to concern,preocupar,verb
+3439,magic,magia,adjective
+3440,superior,superior,adjective
+3441,combat,combate,noun
+3442,stem,tronco,noun
+3443,surgeon,cirurgião,noun
+3444,acceptable,aceitável,adjective
+3445,physics,física,noun
+3446,rape,estupro,noun
+3447,counsel,conselho,noun
+3448,brush,escovar,noun
+3449,jeans,jeans,noun
+3450,to hunt,caçar,verb
+3451,continuous,contínuo,adjective
+3452,log,registro,noun
+3453,to echo,a ecoar,verb
+3454,pill,comprimido,noun
+3455,excited,excitado,adjective
+3456,sculpture,escultura,noun
+3457,compound,composto,noun
+3458,to integrate,integrar,verb
+3459,flour,farinha de trigo,noun
+3460,bitter,amargo,adjective
+3461,bare,nu,adjective
+3462,slope,inclinação,noun
+3463,to rent,alugar,verb
+3464,presidency,presidência,noun
+3465,serving,servindo,noun
+3466,subtle,sutil,adjective
+3467,greatly,muito,adverb
+3468,bishop,bispo,noun
+3469,drinking,bebendo,noun
+3470,to delay,atrasar,verb
+3471,cry,choro,noun
+3472,acceptance,aceitação,noun
+3473,collapse,colapso,noun
+3474,to shop,comprar,verb
+3475,pump,bombear,noun
+3476,candy,doce,noun
+3477,evil,mal,noun
+3478,final,final,noun
+3479,to finance,financiar,verb
+3480,pleased,satisfeito,adjective
+3481,medal,medalha,noun
+3482,to beg,implorar,verb
+3483,to sponsor,patrocinar,verb
+3484,ethical,ético,adjective
+3485,secondary,secundário,adjective
+3486,to slam,bater,verb
+3487,export,exportar,noun
+3488,experimental,experimental,adjective
+3489,to melt,derreter,verb
+3490,midnight,meia-noite,noun
+3491,net,internet,adjective
+3492,curve,curva,noun
+3493,integrity,integridade,noun
+3494,to entitle,dar direito,verb
+3495,evident,evidente,adjective
+3496,logic,lógica,noun
+3497,essence,essência,noun
+3498,to park,estacionar,verb
+3499,to exclude,excluir,verb
+3500,harsh,severo,adjective
+3501,closet,armário,noun
+3502,suburban,suburbano,adjective
+3503,to greet,cumprimentar,verb
+3504,favor,favor,preposition
+3505,interior,interior,noun
+3506,corridor,corredor,noun
+3507,to murder,assassinar,verb
+3508,retail,retalho,adjective
+3509,pitcher,jarro,noun
+3510,to march,para março,verb
+3511,snake,cobra,noun
+3512,to pitch,lançar,verb
+3513,to excuse,desculpar,verb
+3514,cross,cruz,noun
+3515,weakness,fraqueza,noun
+3516,pig,porco,noun
+3517,cold,frio,noun
+3518,classical,clássico,adjective
+3519,estimated,estimado,adjective
+3520,T-shirt,camiseta,noun
+3521,online,conectados,adverb
+3522,unemployment,desemprego,noun
+3523,civilization,civilização,noun
+3524,to fold,dobrar,verb
+3525,patient,paciente,adjective
+3526,pop,estourar,noun
+3527,daily,diário,adverb
+3528,to reverse,reverter,verb
+3529,missing,ausente,adjective
+3530,correlation,correlação,noun
+3531,humanity,humanidade,noun
+3532,to flash,a piscar,verb
+3533,developer,desenvolvedor,noun
+3534,reliable,confiável,adjective
+3535,excitement,excitação,noun
+3536,beef,carne de gado,noun
+3537,Islam,islamismo,noun
+3538,Roman,romano,adjective
+3539,stretch,esticar,noun
+3540,architecture,arquitetura,noun
+3541,occasional,ocasional,adjective
+3542,administrative,administrativo,adjective
+3543,elbow,cotovelo,noun
+3544,deadly,mortal,adjective
+3545,Muslim,muçulmano,noun
+3546,Hispanic,hispânico,adjective
+3547,allegation,alegação,noun
+3548,to tip,dar gorjeta,verb
+3549,to confuse,confundir,verb
+3550,airplane,avião,noun
+3551,monthly,por mês,adjective
+3552,duck,pato,noun
+3553,dose,dose,noun
+3554,Korean,coreano,adjective
+3555,to plead,suplicar,verb
+3556,to initiate,iniciar,verb
+3557,lecture,palestra,noun
+3558,van,furgão,noun
+3559,sixth,sexto,number
+3560,bay,baía,noun
+3561,mainstream,convencional,adjective
+3562,suburb,subúrbio,noun
+3563,sandwich,sanduíche,noun
+3564,unlike,diferente,adjective
+3565,trunk,porta malas,noun
+3566,rumor,rumor,noun
+3567,implementation,implementação,noun
+3568,to swallow,engolir,verb
+3569,to motivate,motivar,verb
+3570,to render,renderizar,verb
+3571,longtime,muito tempo,adjective
+3572,to trap,prender,verb
+3573,to restrict,restringir,verb
+3574,cloth,pano,noun
+3575,seemingly,aparentemente,adverb
+3576,legislative,legislativo,adjective
+3577,effectiveness,eficácia,noun
+3578,to enforce,reforçar,verb
+3579,lens,lente,noun
+3580,reach,alcançar,noun
+3581,inspector,inspetor,noun
+3582,to lend,emprestar,verb
+3583,plain,avião,adjective
+3584,fraud,fraude,noun
+3585,companion,companheiro,noun
+3586,to contend,disputar,verb
+3587,nail,unha,noun
+3588,array,variedade,noun
+3589,strict,estrito,adjective
+3590,to assemble,para montar,verb
+3591,frankly,francamente,adverb
+3592,rat,ratazana,noun
+3593,to burst,estourar,verb
+3594,hallway,corredor,noun
+3595,cave,caverna,noun
+3596,inevitable,inevitável,adjective
+3597,southwest,sudoeste,noun
+3598,monster,monstro,noun
+3599,to speed,acelerar,verb
+3600,to protest,protestar,verb
+3601,unexpected,inesperado,adjective
+3602,obstacle,obstáculo,noun
+3603,to facilitate,facilitar,verb
+3604,encounter,encontro,noun
+3605,to rip,rasgar,verb
+3606,herb,erva,noun
+3607,overwhelming,muito pesado,adjective
+3608,integration,integração,noun
+3609,crystal,cristal,noun
+3610,recession,recessão,noun
+3611,wish,desejo,noun
+3612,to top,para cima,verb
+3613,written,escrito,adjective
+3614,motive,motivo,noun
+3615,to label,para rotular,verb
+3616,flood,inundar,noun
+3617,pen,caneta,noun
+3618,ownership,propriedade,noun
+3619,nightmare,pesadelo,noun
+3620,notice,perceber,noun
+3621,inspection,inspeção,noun
+3622,supervisor,supervisor,noun
+3623,to consult,consultar,verb
+3624,arena,arena,noun
+3625,laugh,riso,noun
+3626,diagnosis,diagnóstico,noun
+3627,possession,posse,noun
+3628,to forgive,perdoar,verb
+3629,to warm,aquecer,verb
+3630,consistently,consistentemente,adverb
+3631,basement,porão,noun
+3632,to project,projetar,verb
+3633,to drift,à deriva,verb
+3634,to drain,drenar,verb
+3635,last,último,adverb
+3636,prosecution,acusação,noun
+3637,maximum,máximo,adjective
+3638,announcement,anúncio,noun
+3639,warrior,guerreiro,noun
+3640,prediction,predição,noun
+3641,bacteria,bactérias,noun
+3642,questionnaire,questionário,noun
+3643,mud,lama,noun
+3644,infrastructure,a infraestrutura,noun
+3645,to hurry,apressar,verb
+3646,privilege,privilégio,noun
+3647,temple,têmpora,noun
+3648,medium,médio,adjective
+3649,outdoor,exterior,adjective
+3650,to suck,chupar,verb
+3651,and/or,e/ou,conjunction
+3652,broadcast,transmissão,noun
+3653,re,ré,preposition
+3654,to leap,saltar,verb
+3655,random,aleatória,adjective
+3656,past,passado,adverb
+3657,wrist,pulso,noun
+3658,curtain,cortina,noun
+3659,monitor,monitor,noun
+3660,pond,lago,noun
+3661,domain,domínio,noun
+3662,guilt,culpa,noun
+3663,cattle,gado,noun
+3664,subject,sujeito,preposition
+3665,walking,andando,noun
+3666,playoff,pague,noun
+3667,minimum,mínimo,adjective
+3668,fiscal,fiscal,adjective
+3669,skirt,saia,noun
+3670,to dump,despejar,verb
+3671,hence,conseqüentemente,adverb
+3672,database,base de dados,noun
+3673,uncomfortable,desconfortável,adjective
+3674,aim,mirar,noun
+3675,to execute,executar,verb
+3676,limb,membro,noun
+3677,ideology,ideologia,noun
+3678,to average,a média,verb
+3679,welcome,receber,adjective
+3680,to tune,sintonizar,verb
+3681,continuing,continuando,adjective
+3682,harm,ferir,noun
+3683,railroad,ferrovia,noun
+3684,to endure,aguentar,verb
+3685,radiation,radiação,noun
+3686,horn,chifre,noun
+3687,chronic,crônica,adjective
+3688,peaceful,pacífico,adjective
+3689,innovation,inovação,noun
+3690,strain,cepa,noun
+3691,guitar,guitarra,noun
+3692,replacement,substituição,noun
+3693,to behave,comportar-se,verb
+3694,to administer,administrar,verb
+3695,simultaneously,simultaneamente,adverb
+3696,dancer,dançarino,noun
+3697,amendment,alteração,noun
+3698,to guard,guardar,verb
+3699,pad,almofada,noun
+3700,transmission,transmissão,noun
+3701,to await,esperar,verb
+3702,retired,aposentado,adjective
+3703,to trigger,acionar,verb
+3704,to spill,derramar,verb
+3705,grateful,grato,adjective
+3706,grace,graça,noun
+3707,virtual,virtual,adjective
+3708,response,resposta,preposition
+3709,colony,colônia,noun
+3710,adoption,adoção,noun
+3711,slide,slide,noun
+3712,indigenous,indígena,adjective
+3713,closed,fechado,adjective
+3714,to convict,para convencer,verb
+3715,civilian,civil,noun
+3716,towel,toalha,noun
+3717,to modify,para modificar,verb
+3718,particle,partícula,noun
+3719,to award,premiar,verb
+3720,glance,olhar,noun
+3721,prize,prêmio,noun
+3722,landing,pousar,noun
+3723,conduct,conduta,noun
+3724,blue,azul,noun
+3725,to boost,impulsionar,verb
+3726,bat,bastão,noun
+3727,alarm,alarme,noun
+3728,festival,festival,noun
+3729,grip,firmeza,noun
+3730,weird,estranhas,adjective
+3731,to undermine,minar,verb
+3732,freshman,calouro,noun
+3733,sweat,suor,noun
+3734,outer,exterior,adjective
+3735,European,europeu,noun
+3736,drunk,bêbado,adjective
+3737,to survey,pesquisar,verb
+3738,to research,pesquisar,verb
+3739,separation,separação,noun
+3740,traditionally,tradicionalmente,adverb
+3741,to stuff,encher,verb
+3742,to govern,governar,verb
+3743,southeast,sudeste,noun
+3744,intelligent,inteligente,adjective
+3745,wherever,onde quer que,adverb
+3746,ballot,cédula,noun
+3747,rhetoric,retórica,noun
+3748,convinced,convencido,adjective
+3749,driving,dirigindo,adjective
+3750,vitamin,vitamina,noun
+3751,enthusiasm,entusiasmo,noun
+3752,to accommodate,acomodar,verb
+3753,to praise,dar elogios,verb
+3754,to injure,ferir,verb
+3755,wilderness,região selvagem,noun
+3756,nearby,próximo,adverb
+3757,endless,sem fim,adjective
+3758,mandate,mandato,noun
+3759,pause,pausa,noun
+3760,excuse,com licença,noun
+3761,respectively,respectivamente,adverb
+3762,uncertainty,incerteza,noun
+3763,chaos,caos,noun
+3764,short,baixo,adverb
+3765,mechanical,mecânico,adjective
+3766,canvas,tela,noun
+3767,forty,quarenta,number
+3768,matter,matéria,determiner
+3769,lobby,salão,noun
+3770,profound,profundo,adjective
+3771,format,formato,noun
+3772,trait,característica,noun
+3773,currency,moeda,noun
+3774,turkey,turquia,noun
+3775,reserve,reserva,noun
+3776,beam,feixe,noun
+3777,to abuse,abusar,verb
+3778,astronomer,astrônomo,noun
+3779,corruption,corrupção,noun
+3780,contractor,contratante,noun
+3781,to apologize,desculpar-se,verb
+3782,doctrine,doutrina,noun
+3783,genuine,genuíno,adjective
+3784,thumb,polegar,noun
+3785,unity,unidade,noun
+3786,compromise,compromisso,noun
+3787,horrible,horrível,adjective
+3788,behavioral,comportamental,adjective
+3789,exclusive,exclusivo,adjective
+3790,to scatter,espalhar,verb
+3791,commonly,comumente,adverb
+3792,to convey,transmitir,verb
+3793,rush,pressa,noun
+3794,to twist,torcer,verb
+3795,complexity,complexidade,noun
+3796,fork,garfo,noun
+3797,disk,disco,noun
+3798,to relieve,aliviar,verb
+3799,suspicion,suspeita,noun
+3800,lock,trancar,noun
+3801,finish,finalizar,noun
+3802,residence,residência,noun
+3803,shame,vergonha,noun
+3804,meaningful,significativo,adjective
+3805,sidewalk,calçada,noun
+3806,Olympics,olimpíadas,noun
+3807,technological,tecnológica,adjective
+3808,signature,assinatura,noun
+3809,pleasant,prazeroso,adjective
+3810,wow,uau,u
+3811,to suspend,suspender,verb
+3812,rebel,rebelde,noun
+3813,frozen,congeladas,adjective
+3814,to desire,desejar,verb
+3815,spouse,cônjuge,noun
+3816,fluid,fluido,noun
+3817,pension,pensão,noun
+3818,to resume,retomar,verb
+3819,theoretical,teórico,adjective
+3820,sodium,sódio,noun
+3821,blow,soprar,noun
+3822,promotion,promoção,noun
+3823,delicate,delicado,adjective
+3824,forehead,testa,noun
+3825,to rebuild,reconstruir,verb
+3826,to bounce,saltar,verb
+3827,electrical,elétrico,adjective
+3828,hook,gancho,noun
+3829,detective,detetive,noun
+3830,traveler,viajante,noun
+3831,to click,clicar,verb
+3832,compensation,compensação,noun
+3833,to signal,sinalizar,verb
+3834,exit,saída,noun
+3835,attraction,atração,noun
+3836,to dedicate,dedicar,verb
+3837,altogether,completamente,adverb
+3838,pickup,escolher,noun
+3839,to carve,esculpir,verb
+3840,needle,agulha,noun
+3841,belly,barriga,noun
+3842,to ship,enviar,verb
+3843,to scare,assustar,verb
+3844,portfolio,portfólio,noun
+3845,shuttle,transporte,noun
+3846,invisible,invisível,adjective
+3847,timing,cronometragem,noun
+3848,engagement,noivado,noun
+3849,ankle,tornozelo,noun
+3850,transaction,transação,noun
+3851,to rescue,para resgatar,verb
+3852,counterpart,contrapartida,noun
+3853,historically,historicamente,adverb
+3854,firmly,firmemente,adverb
+3855,mild,suave,adjective
+3856,rider,cavaleiro,noun
+3857,doll,boneca,noun
+3858,noon,meio-dia,noun
+3859,exhibit,exibir,noun
+3860,amid,em meio a,preposition
+3861,identical,idêntico,adjective
+3862,precise,preciso,adjective
+3863,anxious,ansioso,adjective
+3864,structural,estrutural,adjective
+3865,residential,residencial,adjective
+3866,loud,alto,adverb
+3867,to diagnose,diagnosticar,verb
+3868,carbohydrate,carboidrato,noun
+3869,liberty,liberdade,noun
+3870,poster,poster,noun
+3871,theology,teologia,noun
+3872,nonprofit,sem fins lucrativos,adjective
+3873,to crawl,rastejar,verb
+3874,oxygen,oxigênio,noun
+3875,handsome,belo,adjective
+3876,magic,magia,noun
+3877,sum,soma,noun
+3878,provided,desde que,conjunction
+3879,businessman,homem de negocios,noun
+3880,promising,promissor,adjective
+3881,conscious,consciente,adjective
+3882,determination,determinação,noun
+3883,donor,doador,noun
+3884,hers,o dela,pronoun
+3885,pastor,pastor,noun
+3886,jazz,jazz,noun
+3887,opera,ópera,noun
+3888,Japanese,japonês,noun
+3889,bite,mordida,noun
+3890,to frame,enquadrar,verb
+3891,evil,mal,adjective
+3892,hay,feno,noun
+3893,pit,poço,noun
+3894,to hug,abraçar,verb
+3895,wildlife,animais selvagens,noun
+3896,to punish,punir,verb
+3897,giant,gigante,noun
+3898,primary,primário,noun
+3899,equity,capital próprio,noun
+3900,wrong,errado,adverb
+3901,doorway,entrada,noun
+3902,departure,partida,noun
+3903,elevator,elevador,noun
+3904,teenage,adolescência,adjective
+3905,guidance,orientação,noun
+3906,happiness,felicidade,noun
+3907,statue,estátua,noun
+3908,pursuit,perseguir,noun
+3909,repair,reparar,noun
+3910,decent,decente,adjective
+3911,gym,academia,noun
+3912,oral,oral,adjective
+3913,clerk,atendente,noun
+3914,Israeli,israelense,noun
+3915,envelope,envelope,noun
+3916,reporting,comunicando,noun
+3917,destination,destino,noun
+3918,fist,punho,noun
+3919,to endorse,endossar,verb
+3920,exploration,exploração,noun
+3921,generous,generoso,adjective
+3922,bath,banho,noun
+3923,rescue,resgatar,noun
+3924,thereby,deste modo,adverb
+3925,overall,no geral,adverb
+3926,indicator,indicador,noun
+3927,sunlight,luz solar,noun
+3928,feedback,comentários,noun
+3929,spectrum,espectro,noun
+3930,purple,roxa,adjective
+3931,laser,laser,noun
+3932,bold,negrito,adjective
+3933,reluctant,relutante,adjective
+3934,starting,iniciando,noun
+3935,expertise,perícia,noun
+3936,practically,praticamente,adverb
+3937,to program,programar,verb
+3938,to picture,para retratar,verb
+3939,tune,afinação,noun
+3940,eating,comendo,noun
+3941,to age,envelhecer,verb
+3942,to volunteer,voluntariar,verb
+3943,hint,dica,noun
+3944,sharply,agudamente,adverb
+3945,parade,parada,noun
+3946,to advocate,defender,verb
+3947,realm,reino,noun
+3948,ban,banimento,noun
+3949,to strip,despir,verb
+3950,to cancel,cancelar,verb
+3951,to blend,misturar,verb
+3952,therapist,terapeuta,noun
+3953,to slice,fatiar,verb
+3954,to peel,descascar,verb
+3955,pizza,pizza,noun
+3956,recipient,destinatário,noun
+3957,to hesitate,hesitar,verb
+3958,to flip,virar,verb
+3959,accounting,contabilidade,noun
+3960,to debate,debater,verb
+3961,bias,viés,noun
+3962,huh,hã,u
+3963,metaphor,metáfora,noun
+3964,candle,vela,noun
+3965,handle,lidar com,noun
+3966,worry,preocupar,noun
+3967,judicial,judicial,adjective
+3968,entity,entidade,noun
+3969,suffering,sofrimento,noun
+3970,full-time,tempo total,adjective
+3971,feel,sentir,noun
+3972,lamp,lâmpada,noun
+3973,garbage,lixo,noun
+3974,servant,servo,noun
+3975,addition,adição,noun
+3976,regulatory,regulamentar,adjective
+3977,diplomatic,diplomático,adjective
+3978,elegant,elegante,adjective
+3979,inside,dentro,noun
+3980,reception,recepção,noun
+3981,to vanish,desaparecer,verb
+3982,automatically,automaticamente,adverb
+3983,chin,queixo,noun
+3984,to trail,trilhar,verb
+3985,necessity,necessidade,noun
+3986,to confess,confessar,verb
+3987,racism,racismo,noun
+3988,starter,iniciante,noun
+3989,interior,interior,adjective
+3990,banking,bancário,noun
+3991,casual,casual,adjective
+3992,gravity,gravidade,noun
+3993,to enroll,matricular,verb
+3994,to diminish,para diminuir,verb
+3995,prevention,prevenção,noun
+3996,Arab,árabe,noun
+3997,to value,dar valor,verb
+3998,to minimize,para minimizar,verb
+3999,to chop,cortar,verb
+4000,performer,artista,noun
+4001,intent,intenção,noun
+4002,to isolate,isolar,verb
+4003,to pump,bombear,verb
+4004,inventory,inventário,noun
+4005,productive,produtivo,adjective
+4006,assembly,conjunto,noun
+4007,civic,cívico,adjective
+4008,silk,seda,noun
+4009,magnitude,magnitude,noun
+4010,steep,íngreme,adjective
+4011,hostage,refém,noun
+4012,collector,colecionador,noun
+4013,popularity,popularidade,noun
+4014,kiss,beijo,noun
+4015,alien,estrangeiro,noun
+4016,dynamic,dinâmico,adjective
+4017,scary,apavorante,adjective
+4018,equation,equação,noun
+4019,angel,anjo,noun
+4020,switch,trocar,noun
+4021,offering,oferta,noun
+4022,rage,fúria,noun
+4023,photography,fotografia,noun
+4024,to repair,reparar,verb
+4025,toilet,toalete,noun
+4026,disappointed,decepcionado,adjective
+4027,precious,precioso,adjective
+4028,to prohibit,proibir,verb
+4029,representative,representante,adjective
+4030,content,contente,adjective
+4031,realistic,realista,adjective
+4032,Russian,russo,noun
+4033,hidden,escondido,adjective
+4034,to command,comandar,verb
+4035,tender,macio,adjective
+4036,wake,acordar,noun
+4037,gathering,reunião,noun
+4038,outstanding,excelente,adjective
+4039,to stumble,tropeçar,verb
+4040,lonely,sozinho,adjective
+4041,automobile,automóvel,noun
+4042,artificial,artificial,adjective
+4043,dawn,alvorecer,noun
+4044,abstract,resumo,adjective
+4045,to descend,descer,verb
+4046,silly,boba,adjective
+4047,to hook,engatar,verb
+4048,tide,maré,noun
+4049,shared,compartilhado,adjective
+4050,hopefully,esperançosamente,adverb
+4051,readily,prontamente,adverb
+4052,to cooperate,cooperar,verb
+4053,revolutionary,revolucionário,adjective
+4054,romance,romance,noun
+4055,hardware,ferragens,noun
+4056,pillow,almofada,noun
+4057,kit,kit,noun
+4058,cook,cozinheiro,noun
+4059,spread,espalhar,noun
+4060,continent,continente,noun
+4061,to seal,selar,verb
+4062,circuit,o circuito,noun
+4063,sink,afundar,noun
+4064,ruling,decisão,noun
+4065,shortage,falta,noun
+4066,annually,anualmente,adverb
+4067,lately,recentemente,adverb
+4068,trap,armadilha,noun
+4069,to scan,para digitalizar,verb
+4070,fool,enganar,noun
+4071,deadline,prazo final,noun
+4072,rear,traseira,adjective
+4073,processing,em processamento,noun
+4074,ranch,rancho,noun
+4075,coastal,costeiro,adjective
+4076,to undertake,para empreender,verb
+4077,softly,suavemente,adverb
+4078,to reserve,reservar,verb
+4079,burning,queimando,adjective
+4080,verbal,verbal,adjective
+4081,tribal,tribal,adjective
+4082,ridiculous,ridículo,adjective
+4083,automatic,automático,adjective
+4084,diamond,diamante,noun
+4085,credibility,credibilidade,noun
+4086,import,importar,noun
+4087,sexually,sexualmente,adverb
+4088,to spring,a primavera,verb
+4089,way,maneira,adverb
+4090,divine,divino,adjective
+4091,sentiment,sentimento,noun
+4092,cart,carrinho,noun
+4093,to oversee,supervisionar,verb
+4094,to stem,estalar,verb
+4095,elder,mais velho,noun
+4096,pro,pró,noun
+4097,inspiration,inspiração,noun
+4098,Dutch,holandês,adjective
+4099,quantity,quantidade,noun
+4100,trailer,reboque,noun
+4101,mate,amigo,noun
+4102,o'clock,horas,adverb
+4103,Greek,grego,adjective
+4104,genius,gênio,noun
+4105,monument,monumento,noun
+4106,bid,oferta,noun
+4107,quest,busca,noun
+4108,sacrifice,sacrifício,noun
+4109,invitation,convite,noun
+4110,accuracy,precisão,noun
+4111,juror,jurado,noun
+4112,officially,oficialmente,adverb
+4113,broker,corretor,noun
+4114,treasure,tesouro,noun
+4115,loyalty,lealdade,noun
+4116,to credit,creditar,verb
+4117,to shock,chocar,verb
+4118,talented,talentoso,adjective
+4119,gasoline,gasolina,noun
+4120,stiff,duro,adjective
+4121,output,saída,noun
+4122,nominee,candidato,noun
+4123,extended,estendido,adjective
+4124,to please,agradar,verb
+4125,diabetes,diabetes,noun
+4126,to slap,dar um tapa,verb
+4127,toxic,tóxico,adjective
+4128,alleged,alegado,adjective
+4129,jaw,mandíbula,noun
+4130,grief,pesar,noun
+4131,mysterious,misterioso,adjective
+4132,rocket,foguete,noun
+4133,to donate,para doar,verb
+4134,inmate,preso,noun
+4135,to tackle,enfrentar,verb
+4136,dynamics,dinâmica,noun
+4137,bow,arco,noun
+4138,ours,o nosso,pronoun
+4139,senior,senior,noun
+4140,dignity,dignidade,noun
+4141,carpet,tapete,noun
+4142,parental,parental,adjective
+4143,bubble,bolha,noun
+4144,to heat,aquecer,verb
+4145,buddy,camarada,noun
+4146,barn,celeiro,noun
+4147,sword,espada,noun
+4148,flash,instantâneo,noun
+4149,seventh,sétimo,number
+4150,glory,glória,noun
+4151,tightly,firmemente,adverb
+4152,protective,protetor,adjective
+4153,to tuck,dobrar,verb
+4154,drum,tambor,noun
+4155,faint,desmaiar,adjective
+4156,to post,para postar,verb
+4157,queen,rainha,noun
+4158,dilemma,dilema,noun
+4159,input,entrada,noun
+4160,to specialize,se especializar,verb
+4161,northeast,nordeste,noun
+4162,shallow,raso,adjective
+4163,liability,responsabilidade,noun
+4164,to sail,navegar,verb
+4165,merchant,comerciante,noun
+4166,stadium,estádio,noun
+4167,improved,melhorado,adjective
+4168,bloody,sangrento,adjective
+4169,defeat,derrota,noun
+4170,associated,associado,adjective
+4171,withdrawal,cancelamento,noun
+4172,refrigerator,frigorífico,noun
+4173,nest,ninho,noun
+4174,near,aproximar,adjective
+4175,thoroughly,completamente,adverb
+4176,lane,faixa,noun
+4177,ancestor,antepassado,noun
+4178,to condemn,para condenar,verb
+4179,steam,vapor,noun
+4180,accent,sotaque,noun
+4181,escape,escapar,noun
+4182,optimistic,otimista,adjective
+4183,to unite,para unir,verb
+4184,cage,cela,noun
+4185,to equip,equipar,verb
+4186,shrimp,camarão,noun
+4187,homeland,terra natal,noun
+4188,to exchange,trocar,verb
+4189,rack,prateleira,noun
+4190,costume,traje,noun
+4191,wolf,lobo,noun
+4192,courtroom,tribunal,noun
+4193,statute,estatuto,noun
+4194,cartoon,desenho animado,noun
+4195,besides,além do mais,preposition
+4196,productivity,produtividade,noun
+4197,to grin,a sorrir,verb
+4198,symbolic,simbólico,adjective
+4199,seal,selo,noun
+4200,bug,erro,noun
+4201,to bless,abençoar,verb
+4202,aunt,tia,noun
+4203,agriculture,agricultura,noun
+4204,to rock,balançar,verb
+4205,hostile,hostil,adjective
+4206,to root,enraizar,verb
+4207,to conceive,conceber,verb
+4208,combined,combinado,adjective
+4209,instantly,imediatamente,adverb
+4210,bankruptcy,falência,noun
+4211,vaccine,vacina,noun
+4212,bonus,bônus,noun
+4213,collaboration,colaboração,noun
+4214,mixed,misturado,adjective
+4215,opposed,em oposição,preposition
+4216,orbit,órbita,noun
+4217,to grasp,alcançar,verb
+4218,patience,paciência,noun
+4219,spite,apesar de,preposition
+4220,tropical,tropical,adjective
+4221,voting,votação,noun
+4222,patrol,patrulha,noun
+4223,willingness,disposição,noun
+4224,to position,posicionar,verb
+4225,revelation,revelação,noun
+4226,rent,aluguel,noun
+4227,to calm,acalmar,verb
+4228,jewelry,joalheria,noun
+4229,Cuban,cubano,adjective
+4230,to haul,transportar,verb
+4231,to concede,conceder,verb
+4232,trace,vestígio,noun
+4233,wagon,vagão,noun
+4234,afterward,depois,adverb
+4235,spectacular,espetacular,adjective
+4236,to ruin,arruinar,verb
+4237,sheer,puro,adjective
+4238,prior,prévio,adjective
+4239,immune,imune,adjective
+4240,reliability,confiabilidade,noun
+4241,ass,bunda,noun
+4242,alongside,ao lado,preposition
+4243,bush,arbusto,noun
+4244,exotic,exótico,adjective
+4245,fascinating,fascinante,adjective
+4246,secure,seguro,adjective
+4247,clip,grampo,noun
+4248,thigh,coxa,noun
+4249,bull,touro,noun
+4250,drawer,gaveta,noun
+4251,regard,com respeito,preposition
+4252,sheep,ovelha,noun
+4253,to discourage,desencorajar,verb
+4254,coordinator,coordenador,noun
+4255,ideological,ideológico,adjective
+4256,runner,corredor,noun
+4257,secular,secular,adjective
+4258,intimate,íntimo,adjective
+4259,empire,império,noun
+4260,cab,táxi,noun
+4261,to divorce,divorciar,verb
+4262,exam,exame,noun
+4263,documentary,documentário,noun
+4264,neutral,neutro,adjective
+4265,biology,biologia,noun
+4266,flexible,flexível,adjective
+4267,progressive,progressivo,adjective
+4268,web,rede,noun
+4269,conspiracy,conspiração,noun
+4270,catch,pegar,noun
+4271,casualty,acidente,noun
+4272,republic,república,noun
+4273,execution,execução,noun
+4274,terrific,formidável,adjective
+4275,whale,baleia,noun
+4276,functional,funcional,adjective
+4277,to star,estrelar,verb
+4278,to draft,fazer um rascunho,verb
+4279,instinct,instinto,noun
+4280,teammate,companheiro de equipe,noun
+4281,aluminum,alumínio,noun
+4282,whoever,quem quer que seja,pronoun
+4283,ministry,ministério,noun
+4284,verdict,veredito,noun
+4285,to instruct,para instruir,verb
+4286,skull,crânio,noun
+4287,self-esteem,auto estima,noun
+4288,ease,facilidade,noun
+4289,cooperative,cooperativo,adjective
+4290,to manipulate,manipular,verb
+4291,bee,abelha,noun
+4292,practitioner,praticante,noun
+4293,loop,ciclo,noun
+4294,to edit,editar,verb
+4295,to whip,chicotear,verb
+4296,puzzle,quebra-cabeça,noun
+4297,mushroom,cogumelo,noun
+4298,subsidy,subvenção,noun
+4299,to boil,ferver,verb
+4300,tragic,trágico,adjective
+4301,mathematics,matemática,noun
+4302,mechanic,mecânico,noun
+4303,jar,jarra,noun
+4304,respect,respeito,preposition
+4305,earthquake,terremoto,noun
+4306,pork,carne de porco,noun
+4307,creativity,criatividade,noun
+4308,safely,com segurança,adverb
+4309,underlying,subjacente,adjective
+4310,dessert,sobremesa,noun
+4311,sympathy,simpatia,noun
+4312,fisherman,pescador,noun
+4313,incredibly,incrivelmente,adverb
+4314,isolation,isolamento,noun
+4315,sock,meia,noun
+4316,near,aproximar,adverb
+4317,jump,pular,noun
+4318,eleven,onze,number
+4319,sexy,sexy,adjective
+4320,entrepreneur,empreendedor,noun
+4321,syndrome,síndrome,noun
+4322,bureau,escritório,noun
+4323,to seat,para sentar,verb
+4324,workplace,ambiente de trabalho,noun
+4325,ambition,ambição,noun
+4326,touchdown,aterragem,noun
+4327,to utilize,utilizar,verb
+4328,breeze,brisa,noun
+4329,costly,dispendioso,adjective
+4330,ambitious,ambicioso,adjective
+4331,Christianity,cristandade,noun
+4332,presumably,presumivelmente,adverb
+4333,influential,influente,adjective
+4334,translation,tradução,noun
+4335,uncertain,incerto,adjective
+4336,to dissolve,dissolver,verb
+4337,to object,objetar,verb
+4338,statistical,estatística,adjective
+4339,gut,intestino,noun
+4340,metropolitan,metropolitano,adjective
+4341,rolling,rolando,adjective
+4342,aesthetic,estética,adjective
+4343,to spell,soletrar,verb
+4344,to insert,inserir,verb
+4345,booth,cabine,noun
+4346,helmet,capacete,noun
+4347,waist,cintura,noun
+4348,expected,esperado,adjective
+4349,lion,leão,noun
+4350,accomplishment,realização,noun
+4351,royal,real,adjective
+4352,panic,pânico,noun
+4353,cast,elencar,noun
+4354,to crush,esmagar,verb
+4355,actively,ativamente,adverb
+4356,cliff,penhasco,noun
+4357,minimal,mínimo,adjective
+4358,cord,cordão,noun
+4359,fortunately,felizmente,adverb
+4360,cocaine,cocaína,noun
+4361,illusion,ilusão,noun
+4362,anonymous,anônimo,adjective
+4363,to tolerate,tolerar,verb
+4364,appreciation,apreciação,noun
+4365,commissioner,comissário,noun
+4366,to harm,magoar,verb
+4367,flexibility,flexibilidade,noun
+4368,instructional,instrutivo,adjective
+4369,to scramble,embaralhar,verb
+4370,casino,cassino,noun
+4371,tumor,tumor,noun
+4372,to decorate,decorar,verb
+4373,to sort,ordenar,verb
+4374,charge,carregar,preposition
+4375,pulse,pulso,noun
+4376,equivalent,equivalente,noun
+4377,fixed,fixo,adjective
+4378,experienced,com experiência,adjective
+4379,donation,doação,noun
+4380,diary,diário,noun
+4381,sibling,irmão,noun
+4382,irony,ironia,noun
+4383,spoon,colher,noun
+4384,midst,meio,noun
+4385,alley,beco,noun
+4386,upset,chateado,adjective
+4387,to interact,interagir,verb
+4388,soap,sabão,noun
+4389,cute,fofa,adjective
+4390,rival,rival,noun
+4391,short-term,curto prazo,adjective
+4392,to punch,socar,verb
+4393,pin,alfinete,noun
+4394,hockey,hóquei,noun
+4395,passing,passagem,adjective
+4396,to persist,persistir,verb
+4397,supplier,fornecedor,noun
+4398,known,conhecido,adjective
+4399,momentum,impulso,noun
+4400,purse,bolsa,noun
+4401,to shed,derramar,verb
+4402,liquid,líquido,noun
+4403,icon,ícone,noun
+4404,elephant,elefante,noun
+4405,consequently,consequentemente,adverb
+4406,legislature,legislatura,noun
+4407,associate,associado,noun
+4408,franchise,franquia,noun
+4409,correctly,corretamente,adverb
+4410,mentally,mentalmente,adverb
+4411,to foster,promover,verb
+4412,bicycle,bicicleta,noun
+4413,encouraging,encorajando,adjective
+4414,to cheat,trair,verb
+4415,to access,acessar,verb
+4416,to heal,curar,verb
+4417,fever,febre,noun
+4418,filter,filtro,noun
+4419,rabbit,coelho,noun
+4420,coin,moeda,noun
+4421,to exploit,para explorar,verb
+4422,accessible,acessível,adjective
+4423,organism,organismo,noun
+4424,sensation,sensação,noun
+4425,partially,parcialmente,adverb
+4426,stay,fica,noun
+4427,upstairs,andar de cima,adverb
+4428,dried,seco,adjective
+4429,minimum,mínimo,noun
+4430,pro,pró,adjective
+4431,conservation,conservação,noun
+4432,to shove,empurrar,verb
+4433,backyard,quintal,noun
+4434,charter,carta,noun
+4435,stove,forno,noun
+4436,consent,consentimento,noun
+4437,to comprise,para compreender,verb
+4438,reminder,lembrete,noun
+4439,alike,parecido,adverb
+4440,placement,colocação,noun
+4441,dough,massa,noun
+4442,grandchild,neto,noun
+4443,dam,barragem,noun
+4444,reportedly,supostamente,adverb
+4445,well-known,bem conhecido,adjective
+4446,surrounding,em torno da,adjective
+4447,ecological,ecológico,adjective
+4448,outfit,roupa,noun
+4449,unprecedented,sem precedente,adjective
+4450,columnist,colunista,noun
+4451,workout,treino,noun
+4452,preliminary,preliminares,adjective
+4453,patent,patente,noun
+4454,shy,tímido,adjective
+4455,quote,citar,noun
+4456,trash,lixo,noun
+4457,disabled,desativado,adjective
+4458,gross,bruto,adjective
+4459,damn,droga,adjective
+4460,hormone,hormônio,noun
+4461,texture,textura,noun
+4462,to counter,para contrariar,verb
+4463,pencil,lápis,noun
+4464,associate,associado,adjective
+4465,frontier,fronteira,noun
+4466,spray,pulverizar,noun
+4467,bet,aposta,noun
+4468,to disclose,divulgar,verb
+4469,custody,custódia,noun
+4470,banker,banqueiro,noun
+4471,beast,fera,noun
+4472,to interfere,interferir,verb
+4473,oak,carvalho,noun
+4474,case,caso,conjunction
+4475,eighth,oitavo,number
+4476,notebook,caderno,noun
+4477,to outline,delinear,verb
+4478,to gaze,olhar,verb
+4479,attendance,comparecimento,noun
+4480,speculation,especulação,noun
+4481,to uncover,desmascarar,verb
+4482,behalf,em nome de,preposition
+4483,innovative,inovativa,adjective
+4484,shark,tubarão,noun
+4485,to reward,para recompensar,verb
+4486,mill,moinho,noun
+4487,installation,instalação,noun
+4488,to stimulate,para estimular,verb
+4489,tag,marcação,noun
+4490,vertical,vertical,adjective
+4491,swimming,natação,noun
+4492,fleet,frota,noun
+4493,catalog,catálogo,noun
+4494,outsider,estranho,noun
+4495,to sacrifice,sacrificar,verb
+4496,desperately,desesperadamente,adverb
+4497,stance,posição,noun
+4498,to compel,para obrigar,verb
+4499,sensitivity,sensibilidade,noun
+4500,someday,algum dia,adverb
+4501,instant,instante,adjective
+4502,debut,estréia,noun
+4503,to proclaim,proclamar,verb
+4504,worldwide,no mundo todo,adverb
+4505,to hike,caminhar,verb
+4506,required,requerido,adjective
+4507,confrontation,confronto,noun
+4508,colorful,colorida,adjective
+4509,ideal,ideal,noun
+4510,constitution,constituição,noun
+4511,trainer,treinador,noun
+4512,Thanksgiving,ação de graças,noun
+4513,scent,fragrância,noun
+4514,stack,pilha,noun
+4515,eyebrow,sobrancelha,noun
+4516,sack,saco,noun
+4517,to cease,cessar,verb
+4518,to inherit,herdar,verb
+4519,tray,bandeja,noun
+4520,pioneer,pioneiro,noun
+4521,organizational,organizacional,adjective
+4522,textbook,livro didático,noun
+4523,uh,uh,u
+4524,nasty,desagradável,adjective
+4525,to shrink,a encolher,verb
+4526,to model,modelar,verb
+4527,emerging,emergente,adjective
+4528,dot,ponto,noun
+4529,wheat,trigo,noun
+4530,fierce,feroz,adjective
+4531,to envision,a vislumbrar,verb
+4532,rational,racional,adjective
+4533,kingdom,parente,noun
+4534,aisle,corredor,noun
+4535,to weaken,enfraquecer,verb
+4536,protocol,protocolo,noun
+4537,exclusively,exclusivamente,adverb
+4538,vocal,vocal,adjective
+4539,marketplace,mercado,noun
+4540,openly,abertamente,adverb
+4541,unfair,injusto,adjective
+4542,terrain,terreno,noun
+4543,to deploy,implantar,verb
+4544,risky,arriscado,adjective
+4545,pasta,massa,noun
+4546,genre,gênero,noun
+4547,to distract,para distrair,verb
+4548,merit,mérito,noun
+4549,planner,planejador,noun
+4550,depressed,depressivo,adjective
+4551,chunk,pedaço,noun
+4552,closest,mais próximo,adjective
+4553,discount,desconto,noun
+4554,no,não,determiner
+4555,ladder,escada,noun
+4556,jungle,selva,noun
+4557,migration,migração,noun
+4558,breathing,respirando,noun
+4559,to invade,invadir,verb
+4560,hurricane,furacão,noun
+4561,retailer,varejista,noun
+4562,to classify,classificar,verb
+4563,to wound,ferir,verb
+4564,coup,golpe,noun
+4565,to aid,ajudar,verb
+4566,ambassador,embaixador,noun
+4567,density,densidade,noun
+4568,supportive,solidário,adjective
+4569,curiosity,curiosidade,noun
+4570,to skip,pular,verb
+4571,aggression,agressão,noun
+4572,stimulus,estímulo,noun
+4573,journalism,jornalismo,noun
+4574,robot,robô,noun
+4575,to flood,inundar,verb
+4576,to dip,mergulhar,verb
+4577,likewise,da mesma forma,adverb
+4578,informal,informal,adjective
+4579,Persian,persa,adjective
+4580,feather,pluma,noun
+4581,sphere,esfera,noun
+4582,to tighten,apertar,verb
+4583,to boast,gabar,verb
+4584,to pat,acariciar,verb
+4585,perceived,percebido,adjective
+4586,sole,único,adjective
+4587,publicity,publicidade,noun
+4588,major,formar-se,noun
+4589,to unfold,revelar,verb
+4590,to joke,zoar,verb
+4591,well-being,bem-estar,noun
+4592,validity,validade,noun
+4593,ecosystem,ecossistema,noun
+4594,strictly,estritamente,adverb
+4595,partial,parcial,adjective
+4596,collar,colarinho,noun
+4597,weed,erva daninha,noun
+4598,compliance,conformidade,noun
+4599,streak,onda,noun
+4600,supposedly,supostamente,adverb
+4601,added,adicionado,adjective
+4602,builder,construtor,noun
+4603,glimpse,vislumbre,noun
+4604,premise,premissa,noun
+4605,specialty,especialidade,noun
+4606,to deem,julgar,verb
+4607,artifact,artefato,noun
+4608,to sneak,esgueirar-se,verb
+4609,monkey,macaco,noun
+4610,mentor,mentor,noun
+4611,two-thirds,dois terços,number
+4612,listener,ouvinte,noun
+4613,lightning,raio,noun
+4614,legally,legalmente,adverb
+4615,sleeve,manga,noun
+4616,disappointment,desapontamento,noun
+4617,to disturb,perturbar,verb
+4618,rib,costela,noun
+4619,excessive,excessivo,adjective
+4620,high-tech,alta tecnologia,adjective
+4621,debris,destroços,noun
+4622,to pile,empilhar,verb
+4623,rod,cajado,noun
+4624,logical,lógico,adjective
+4625,liberal,liberal,noun
+4626,ash,cinza,noun
+4627,socially,socialmente,adverb
+4628,parish,freguesia,noun
+4629,slavery,escravidão,noun
+4630,blank,em branco,adjective
+4631,commodity,mercadoria,noun
+4632,cure,cura,noun
+4633,mineral,mineral,noun
+4634,hunger,fome,noun
+4635,dying,morrendo,adjective
+4636,developmental,desenvolvimento,adjective
+4637,faster,mais rápido,adjective
+4638,to spare,poupar,verb
+4639,halfway,a meio caminho,adverb
+4640,to cure,curar,verb
+4641,equality,igualdade,noun
+4642,cemetery,cemitério,noun
+4643,harassment,assédio,noun
+4644,deliberately,deliberadamente,adverb
+4645,fame,fama,noun
+4646,to regret,lamentar,verb
+4647,striking,impressionante,adjective
+4648,likelihood,probabilidade,noun
+4649,carrot,cenoura,noun
+4650,atop,no topo,preposition
+4651,toll,pedágio,noun
+4652,rim,aro,noun
+4653,embarrassed,envergonhado,adjective
+4654,fucking,porra,adjective
+4655,to cling,agarrar-se,verb
+4656,isolated,isolado,adjective
+4657,to blink,pestanejar,verb
+4658,suspicious,suspeito,adjective
+4659,wheelchair,cadeira de rodas,noun
+4660,squad,esquadrão,noun
+4661,eligible,elegível,adjective
+4662,processor,processador,noun
+4663,to plunge,mergulhar,verb
+4664,this,esta,adverb
+4665,sponsor,patrocinador,noun
+4666,grin,sorriso,noun
+4667,to color,colorir,verb
+4668,demographic,demográfico,adjective
+4669,to rain,chover,verb
+4670,chill,frio,noun
+4671,refuge,refúgio,noun
+4672,to steer,dirigir,verb
+4673,legislator,legislador,noun
+4674,rally,corrida,noun
+4675,programming,programação,noun
+4676,to cheer,para alegrar,verb
+4677,outlet,tomada,noun
+4678,intact,intacto,adjective
+4679,vendor,fornecedor,noun
+4680,to thrive,prosperar,verb
+4681,peanut,amendoim,noun
+4682,to chew,mastigar,verb
+4683,elaborate,elaborar,adjective
+4684,intellectual,intelectual,noun
+4685,conception,concepção,noun
+4686,auction,leilão,noun
+4687,steak,steak,noun
+4688,to comply,cumprir,verb
+4689,triumph,triunfo,noun
+4690,shareholder,acionista,noun
+4691,comparable,comparável,adjective
+4692,to transport,para transportar,verb
+4693,conscience,consciência,noun
+4694,calculation,cálculo,noun
+4695,considerably,consideravelmente,adverb
+4696,interval,intervalo,noun
+4697,to scratch,arranhar,verb
+4698,awake,acordado,adjective
+4699,jurisdiction,jurisdição,noun
+4700,inevitably,inevitavelmente,adverb
+4701,feminist,feminista,adjective
+4702,constraint,limitação,noun
+4703,emotionally,emocionalmente,adverb
+4704,expedition,expedição,noun
+4705,allegedly,alegadamente,adverb
+4706,to compromise,comprometer,verb
+4707,to strain,esticar,verb
+4708,similarity,similaridade,noun
+4709,butt,bunda,noun
+4710,lid,tampa,noun
+4711,dumb,idiota,adjective
+4712,bulk,volume,noun
+4713,to sprinkle,para polvilhar,verb
+4714,mortality,mortalidade,noun
+4715,philosophical,filosófico,adjective
+4716,conversion,conversão,noun
+4717,patron,patrono,noun
+4718,municipal,municipal,adjective
+4719,any,algum,adverb
+4720,liver,fígado,noun
+4721,harmony,harmonia,noun
+4722,solely,unicamente,adverb
+4723,tolerance,tolerância,noun
+4724,instant,instante,noun
+4725,goat,bode,noun
+4726,to arm,armar,verb
+4727,blessing,bênção,noun
+4728,banana,banana,noun
+4729,running,encontro,noun
+4730,palace,palácio,noun
+4731,formerly,antigamente,adverb
+4732,peasant,camponês,noun
+4733,neat,arrumado,adjective
+4734,grandparent,avó,noun
+4735,lawmaker,legislador,noun
+4736,supermarket,supermercado,noun
+4737,cruise,cruzeiro,noun
+4738,mobile,móvel,adjective
+4739,plain,avião,noun
+4740,part,parte,preposition
+4741,calendar,calendário,noun
+4742,widow,viúva,noun
+4743,deposit,depósito,noun
+4744,beard,barba,noun
+4745,brake,freio,noun
+4746,downtown,centro da cidade,adverb
+4747,screening,triagem,noun
+4748,impulse,impulso,noun
+4749,to forbid,proibir,verb
+4750,fur,pelagem,noun
+4751,brutal,brutal,adjective
+4752,predator,predador,noun
+4753,to poke,cutucar,verb
+4754,to opt,optar,verb
+4755,voluntary,voluntário,adjective
+4756,to trouble,incomodar,verb
+4757,valid,válido,adjective
+4758,forum,fórum,noun
+4759,dancing,dançando,noun
+4760,happily,felizmente,adverb
+4761,to soar,subir,verb
+4762,removal,remoção,noun
+4763,autonomy,autonomia,noun
+4764,to enact,promulgar,verb
+4765,to round,arredondar,verb
+4766,thread,fio,noun
+4767,light,à luz de,preposition
+4768,landmark,marco,noun
+4769,unhappy,infeliz,adjective
+4770,offender,infrator,noun
+4771,coming,chegando,adjective
+4772,privately,em particular,adverb
+4773,fraction,fração,noun
+4774,distinctive,distintivo,adjective
+4775,tourism,turismo,noun
+4776,threshold,limite,noun
+4777,calm,calma,adjective
+4778,routinely,rotineiramente,adverb
+4779,suite,suíte,noun
+4780,to remark,observar,verb
+4781,regulator,regulador,noun
+4782,straw,palha,noun
+4783,theological,teológico,adjective
+4784,apart,separado,preposition
+4785,to exhaust,muito cansado,verb
+4786,globe,globo,noun
+4787,fragile,frágil,adjective
+4788,objection,objeção,noun
+4789,chemistry,química,noun
+4790,old-fashioned,antiquado,adjective
+4791,crowded,lotado,adjective
+4792,to circle,circular,verb
+4793,blast,explosão,noun
+4794,to prevail,prevalecer,verb
+4795,overnight,durante a noite,adverb
+4796,denial,negação,noun
+4797,rental,aluguel,noun
+4798,fantastic,fantástico,adjective
+4799,fragment,fragmento,noun
+4800,level,nível,adjective
+4801,to screw,parafusar,verb
+4802,warmth,cordialidade,noun
+4803,undergraduate,estudante universitário,noun
+4804,liquid,líquido,adjective
+4805,headache,dor de cabeça,noun
+4806,policeman,policial,noun
+4807,yield,colheita,noun
+4808,projection,projeção,noun
+4809,to battle,batalhar,verb
+4810,suitable,adequado,adjective
+4811,mention,menção,noun
+4812,graduation,graduação,noun
+4813,to drill,"furar, brocar, exercitar, treinar",verb
+4814,cruel,cruel,adjective
+4815,mansion,mansão,noun
+4816,regard,respeito,noun
+4817,grape,uva,noun
+4818,to authorize,doente,verb
+4819,cottage,cabana,noun
+4820,driveway,calçada,noun
+4821,charm,charme,noun
+4822,sexuality,sexualidade,noun
+4823,loyal,fiel,adjective
+4824,clay,argila,noun
+4825,to pound,para autorizar,verb
+4826,balloon,balão,noun
+4827,invention,invenção,noun
+4828,ego,ego,noun
+4829,fare,tarifa,noun
+4830,homework,trabalho de casa,noun
+4831,disc,disco,noun
+4832,sofa,sofá,noun
+4833,guarantee,garantia,noun
+4834,availability,disponibilidade,noun
+4835,radar,radar,noun
+4836,to frown,bater,verb
+4837,to regain,franzir a testa,verb
+4838,leave,deixar,noun
+4839,permit,permitir,noun
+4840,sweater,agasalho,noun
+4841,rehabilitation,reabilitação,noun
+4842,rubber,borracha,adjective
+4843,retreat,retiro,noun
+4844,molecule,molécula,noun
+4845,freely,livremente,adverb
+4846,favorable,favorável,adjective
+4847,steadily,firmemente,adverb
+4848,veteran,veterano,adjective
+4849,integrated,integrado,adjective
+4850,ha,ha,u
+4851,youngster,jovem,noun
+4852,to broadcast,recuperar,verb
+4853,premium,prêmio,noun
+4854,accountability,prestação de contas,noun
+4855,to overwhelm,transmitir,verb
+4856,one-third,um terço,number
+4857,to contemplate,a submergir,verb
+4858,to update,contemplar,verb
+4859,to spark,atualizar,verb
+4860,ironically,ironicamente,adverb
+4861,fatigue,fadiga,noun
+4862,beyond,além,adverb
+4863,to speculate,fazer faísca,verb
+4864,marker,marcador,noun
+4865,low,baixo,adverb
+4866,to preach,especular,verb
+4867,bucket,balde,noun
+4868,to bomb,pregar,verb
+4869,blond,loiro,adjective
+4870,confession,confissão,noun
+4871,to provoke,para bombardear,verb
+4872,marble,mármore,noun
+4873,substantially,substancialmente,adverb
+4874,twist,torção,noun
+4875,defender,defensor,noun
+4876,to fish,provocar,verb
+4877,explicit,explícito,adjective
+4878,transport,transporte,noun
+4879,disturbing,perturbador,adjective
+4880,surveillance,vigilância,noun
+4881,magnetic,magnético,adjective
+4882,technician,técnico,noun
+4883,to mutter,pescar,verb
+4884,devastating,devastador,adjective
+4885,to depart,a murmurar,verb
+4886,arrow,seta,noun
+4887,trauma,trauma,noun
+4888,neighboring,vizinho,adjective
+4889,to soak,partir,verb
+4890,ribbon,fita,noun
+4891,meantime,entretanto,noun
+4892,to transmit,encharcar,verb
+4893,to screen,transmitir,verb
+4894,harvest,colheita,noun
+4895,consecutive,consecutivo,adjective
+4896,republican,republicano,adjective
+4897,to coordinate,para tela,verb
+4898,worldwide,no mundo todo,adjective
+4899,within,dentro de,adverb
+4900,spy,espião,noun
+4901,slot,slot,noun
+4902,riot,tumulto,noun
+4903,nutrient,nutriente,noun
+4904,citizenship,cidadania,noun
+4905,severely,severamente,adverb
+4906,sovereignty,soberania,noun
+4907,ridge,cume,noun
+4908,brave,corajoso,adjective
+4909,lighting,iluminação,noun
+4910,to specify,coordenar,verb
+4911,contributor,contribuinte,noun
+4912,to frustrate,especificar,verb
+4913,to crowd,frustrar,verb
+4914,to articulate,multidão,verb
+4915,importantly,importante,adverb
+4916,transit,transito,noun
+4917,dense,denso,adjective
+4918,seminar,seminário,noun
+4919,electronics,eletrônicos,noun
+4920,sunny,ensolarado,adjective
+4921,shorts,calção,noun
+4922,to swell,articular,verb
+4923,accusation,acusação,noun
+4924,to soften,inchar,verb
+4925,to photograph,amaciar,verb
+4926,to straighten,para fotografar,verb
+4927,terribly,terrivelmente,adverb
+4928,cue,deixa,noun
+4929,sudden,de repente,adverb
+4930,bride,noiva,noun
+4931,biography,biografia,noun
+4932,hazard,perigo,noun
+4933,compelling,atraente,adjective
+4934,seldom,raramente,adverb
+4935,tile,telha,noun
+4936,economically,economicamente,adverb
+4937,honestly,honestamente,adverb
+4938,troubled,perturbado,adjective
+4939,to bow,endireitar,verb
+4940,twentieth,vigésimo,number
+4941,balanced,equilibrado,adjective
+4942,foreigner,estrangeiro,noun
+4943,launch,lançar,noun
+4944,convenience,conveniência,noun
+4945,delight,prazer,noun
+4946,to weave,curvar-se,verb
+4947,timber,madeira,noun
+4948,till,até,conjunction
+4949,accurately,com precisão,adverb
+4950,plea,declarar,noun
+4951,bulb,lâmpada,noun
+4952,to copy,tecer,verb
+4953,flying,vôo,adjective
+4954,sustainable,sustentável,adjective
+4955,devil,diabo,noun
+4956,bolt,parafuso,noun
+4957,cargo,carga,noun
+4958,spine,coluna vertebral,noun
+4959,seller,vendedor,noun
+4960,skilled,especializado,adjective
+4961,managing,gerenciando,adjective
+4962,public,público,adverb
+4963,marine,marinho,adjective
+4964,dock,doca,noun
+4965,organized,organizado,adjective
+4966,fog,névoa,noun
+4967,diplomat,diplomata,noun
+4968,boring,entediante,adjective
+4969,sometime,às vezes,adverb
+4970,summary,resumo,noun
+4971,missionary,missionário,noun
+4972,epidemic,epidemia,noun
+4973,fatal,fatal,adjective
+4974,to trim,copiar,verb
+4975,warehouse,armazém,noun
+4976,to accelerate,aparar,verb
+4977,butterfly,borboleta,noun
+4978,bronze,bronze,noun
+4979,to drown,acelerar,verb
+4980,inherent,inerente,adjective
+4981,praise,louvar,noun
+4982,nationwide,nacional,adverb
+4983,to spit,afogar,verb
+4984,to harvest,cuspir,verb
+4985,to kneel,colher,verb
+4986,vacuum,vácuo,noun
+4987,selected,selecionado,adjective
+4988,to dictate,ajoelhar-se,verb
+4989,stereotype,estereótipo,noun
+4990,sensor,sensor,noun
+4991,laundry,lavanderia,noun
+4992,manual,manual,noun
+4993,pistol,pistola,noun
+4994,naval,naval,adjective
+4995,plaintiff,demandante,noun
+4996,to kid,ditar,verb
+4997,middle-class,classe média,adjective
+4998,apology,desculpa,noun
+4999,till,até,preposition
+5000,Word,Tradução,Part of speech

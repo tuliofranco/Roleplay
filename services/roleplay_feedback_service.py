@@ -2,7 +2,6 @@ from adapters.maritaca_adapter import MaritacaAdapter
 from adapters.openai_adapter import OpenAIAdapter
 import logging
 
-# Configurando o sistema de logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class RoleplayFeedbackService:
@@ -88,3 +87,34 @@ class RoleplayFeedbackService:
             logging.error(f"Erro ao obter feedback da IA: {e}")
             return "Ocorreu um erro ao gerar o feedback. Por favor, tente novamente."
         
+    def get_context(self, word: str, sentence: str) -> str:
+        """
+        Busca informações de contexto para uma palavra em uma frase fornecida.
+
+        Args:
+            word (str): Palavra a ser buscada.
+            sentence (str): Frase onde a palavra aparece.
+
+        Returns:
+            str: Informações de contexto geradas pela IA.
+        """
+        prompt = (
+            f"Palavra: {word}\n"
+            f"Frase: {sentence}\n"
+            "Explique o significado da palavra no contexto da frase. Forneça exemplos adicionais de uso em situações similares."
+            "A resposta deve seguir o seguinte padrão:"
+            "- Significado da palavra:"
+            "- Significado da naquele contexto:"
+            "- Exemplos adicionais: Forneça 5 exemplos"
+        )
+
+        try:
+            # Envia o prompt para a IA e retorna a resposta
+            response = self.llm.generate_response(prompt)
+            return response
+        except Exception as e:
+            logging.error(f"Erro ao buscar o contexto: {e}")
+            return "Ocorreu um erro ao buscar o contexto. Por favor, tente novamente."
+
+
+
